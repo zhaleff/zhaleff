@@ -6,11 +6,7 @@ I am an Arch Linux user,<br>I enjoy working on projects alongside other programm
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/zephartw?igsh=MW9wMTExdzc3ZWNsaQ==)
 
 # 💻 Tech Stack:
-
-![CSS](https://img.shields.io/badge/Code-CSS-blue?style=flat-square)
-
-![JSON](https://img.shields.io/badge/Code-JSON-lightgrey?style=flat-square)
-
+![Jsonc](https://img.shields.io/badge/jsonc-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Css](https://img.shields.io/badge/css-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 
