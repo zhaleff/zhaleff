@@ -37,5 +37,4 @@ I am an Arch Linux user,<br>I enjoy working on projects alongside other programm
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ZepharDev&show_icons=true&theme=radical&hide_border=true&title_color=cba6f7&text_color=cdd6f4&icon_color=89b4fa)]
 ---
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZepharDev&show_icons=true&count_private=true&hide_title=true&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&icon_color=89b4fa&theme=default&line_height=24)]
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZepharDev&hide_border=true&background=1e1e2e&ring=cba6f7&fire=f5c2e7&currStreakLabel=cdd6f4&sideLabels=cdd6f4&currStreakNum=cba6f7&dates=cdd6f4&sideNums=cdd6f4)]
