@@ -14,14 +14,20 @@ I am an Arch Linux user,<br>I enjoy working on projects alongside other programm
 
 
 
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
-![JSONC](https://img.shields.io/badge/JSONC-000000?style=for-the-badge&logo=json&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-%23000000.svg?style=for-the-badge&logo=gnubash&logoColor=white)
+![JSONC](https://img.shields.io/badge/JSONC-%23000000.svg?style=for-the-badge&logo=json&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23000000.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-%23000000.svg?style=for-the-badge&logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%23000000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-%23000000.svg?style=for-the-badge&logo=c&logoColor=white)
+
 
 # 📊 GitHub Stats:
+
+https://github-readme-stats.vercel.app/api?username=ZepharDev&show_icons=true&theme=tokyonight&hide_title=true
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=ZepharDev&layout=compact&theme=tokyonight
+
 ![](https://github-readme-stats.vercel.app/api?username=ZepharDev&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
 ![](https://nirzak-streak-stats.vercel.app/?user=ZepharDev&theme=dark&hide_border=false)<br/>
