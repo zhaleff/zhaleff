@@ -83,3 +83,16 @@
 <p align="center">
   <sub>⭐ Stars · 🍴 Forks · 👥 Followers · 👀 Watchers</sub>
 </p>
+
+<h1 align="center">GitHub Statistics</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/ZepharDev?style=for-the-badge&color=cba6f7&label=Stars&labelColor=1e1e2e&logo=github&logoColor=white" alt="Stars" />
+  <img src="https://img.shields.io/github/forks/ZepharDev?style=for-the-badge&color=89b4fa&label=Forks&labelColor=1e1e2e&logo=github&logoColor=white" alt="Forks" />
+  <img src="https://img.shields.io/github/followers/ZepharDev?style=for-the-badge&color=f5c2e7&label=Followers&labelColor=1e1e2e&logo=github&logoColor=white" alt="Followers" />
+  <img src="https://img.shields.io/github/commit-activity/y/ZepharDev?style=for-the-badge&color=8bd5fa&label=Commits&labelColor=1e1e2e&logo=git&logoColor=white" alt="Commits" />
+</p>
+
+<p align="center">
+  <sub>WO: Workflow clear — WT: Tracking real work — No noise.</sub>
+</p>
