@@ -1,7 +1,6 @@
 # 💫 About Me:
 I am an Arch Linux user,<br>I enjoy working on projects alongside other programmers.<br><br>I can help with various matters and projects, I know how to program or adapt to different programming languages<br>I can adjust to what you need, I know OSINT techniques, etc. I'm a kid who programs out of boredom XD.
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/zephartw)
 
@@ -25,6 +24,11 @@ I am an Arch Linux user,<br>I enjoy working on projects alongside other programm
 ![](https://nirzak-streak-stats.vercel.app/?user=ZepharDev&theme=dark&hide_border=false)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZepharDev&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+![Profile Views](https://komarev.com/ghpvc/?username=TU_USUARIO&style=for-the-badge&color=6e56cf)
+![Followers](https://img.shields.io/github/followers/TU_USUARIO?style=for-the-badge&color=6e56cf)
+![Stars](https://img.shields.io/github/stars/TU_USUARIO?style=for-the-badge&color=6e56cf)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ZepharDev&icon=0&color=0)](https://visitcount.itsvg.in)
