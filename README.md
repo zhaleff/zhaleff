@@ -31,3 +31,5 @@ I am an Arch Linux user,<br>I enjoy working on projects alongside other programm
 
 
 ![END](./time.svg)
+
+![end](./flooter.svg)
