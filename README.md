@@ -25,7 +25,7 @@ I am an Arch Linux user,<br>I enjoy working on projects alongside other programm
 
 # 📊 GitHub Stats:
 
-[![Commits](https://img.shields.io/github/commit-activity/m/zephartw?color=89b4fa&style=for-the-badge&labelColor=1e1e2e&logo=git&logoColor=white)]
+[![Commits](https://img.shields.io/github/commit-activity/m/ZepharDev?color=89b4fa&style=for-the-badge&labelColor=1e1e2e&logo=git&logoColor=white)]
 
 
 ![](https://github-readme-stats.vercel.app/api?username=ZepharDev&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
