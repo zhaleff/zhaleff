@@ -4,6 +4,7 @@ I am an Arch Linux user,<br>I enjoy working on projects alongside other programm
 # Socials
 
 ![Socials](instagram.svg)
+![reddit](./time.svg)
 
 # 💻 Tech Stack:
 
@@ -16,6 +17,8 @@ I am an Arch Linux user,<br>I enjoy working on projects alongside other programm
 ![CSS](https://img.shields.io/badge/CSS-%23000000.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%23000000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-%23000000.svg?style=for-the-badge&logo=c&logoColor=white)
+
+![stack](flooter.svg)
 
 
 # 📊 GitHub Stats:
