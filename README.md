@@ -45,24 +45,20 @@
 <h1 align="center">GitHub Stats</h1>
 
 <p align="center">
-  <a href="https://github.com/ZepharDev?tab=stars" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/github/stars/ZepharDev?color=cba6f7&style=for-the-badge&label=Stars&labelColor=1e1e2e&logo=github&logoColor=white" alt="GitHub Stars" />
-  </a>
-  <a href="https://github.com/ZepharDev?tab=activity" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/github/commit-activity/y/ZepharDev?color=89b4fa&style=for-the-badge&label=Commits%20per%20Year&labelColor=1e1e2e&logo=git&logoColor=white" alt="Commits per Year" />
-  </a>
-  <a href="https://github.com/ZepharDev?tab=forks" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/github/forks/ZepharDev?color=f5c2e7&style=for-the-badge&label=Forks&labelColor=1e1e2e&logo=github&logoColor=white" alt="GitHub Forks" />
-  </a>
-  <a href="https://github.com/ZepharDev?tab=contributors" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/github/contributors/ZepharDev?color=cba6f7&style=for-the-badge&label=Contributors&labelColor=1e1e2e&logo=github&logoColor=white" alt="Contributors" />
-  </a>
-  <a href="https://github.com/ZepharDev/issues" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/github/issues/ZepharDev?color=89b4fa&style=for-the-badge&label=Open%20Issues&labelColor=1e1e2e&logo=github&logoColor=white" alt="Open Issues" />
-  </a>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ZepharDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=f5c2e7&icon_color=89b4fa"
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <b>Tracking my coding journey with clarity and style.</b><br>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZepharDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=f5c2e7"
+    alt="Top Languages"
+  />
+</p>
+
+<p align="center">
+  <b>Tracking my coding journey with clarity and style.</b><br />
   <sub>Minimal, clean, and focused on growth.</sub>
 </p>
