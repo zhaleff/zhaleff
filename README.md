@@ -13,20 +13,17 @@
 
 
 
-<p align="center">
-  <img src="https://img.shields.io/badge/SOCIALS-cba6f7?style=for-the-badge&labelColor=1e1e2e" alt="Socials" />
-</p>
+<h3 align="center">Socials</h3>
 
 <p align="center">
-  <a href="https://www.instagram.com/zephartw">
-    <img src="https://img.shields.io/badge/Instagram-zephartw-f5c2e7?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1e1e2e" alt="Instagram" />
-  </a>&nbsp;
-  <a href="https://www.reddit.com/u/Zephar_WO/">
-    <img src="https://img.shields.io/badge/Reddit-Zephar_WO-89b4fa?style=for-the-badge&logo=reddit&logoColor=white&labelColor=1e1e2e" alt="Reddit" />
-  </a>&nbsp;
-  <a href="mailto:zephartw@gmail.com">
-    <img src="https://img.shields.io/badge/Email-zephartw@gmail.com-89b4fa?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1e2e" alt="Email" />
-  </a>
+  <img src="https://img.shields.io/badge/Instagram-zephartw-f5c2e7?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1e1e2e" />
+  <img src="https://img.shields.io/badge/Reddit-Zephar_WO-89b4fa?style=for-the-badge&logo=reddit&logoColor=white&labelColor=1e1e2e" />
+</p>
+
+<h3 align="center">Contact</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Email-zephartw@gmail.com-cba6f7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1e2e" />
 </p>
 
 # 💻 Tech Stack:
