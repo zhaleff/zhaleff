@@ -3,9 +3,9 @@ I am an Arch Linux user,<br>I enjoy working on projects alongside other programm
 
 # Socials
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23f5c2e7?style=flat-square&logo=instagram&logoColor=%231e1e2e&labelColor=%231e1e2e)](https://www.instagram.com/zephartw)
+[![Reddit](https://img.shields.io/badge/u/Zephar_WO-%2389b4fa?style=for-the-badge&logo=reddit&logoColor=white&labelColor=1e1e2e)](https://www.reddit.com/u/Zephar_WO)
 
-[![Reddit](https://img.shields.io/badge/Reddit-%2389b4fa?style=flat-square&logo=reddit&logoColor=%231e1e2e&labelColor=%231e1e2e)](https://www.reddit.com/u/Zephar_WO)
+[![Instagram](https://img.shields.io/badge/@zephartw-%23f5c2e7?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1e1e2e)](https://www.instagram.com/zephartw)
 
 # 💻 Tech Stack:
 
