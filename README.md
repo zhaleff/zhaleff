@@ -17,7 +17,6 @@ I am an Arch Linux user,<br>I enjoy working on projects alongside other programm
 ![C++](https://img.shields.io/badge/C++-%23000000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-%23000000.svg?style=for-the-badge&logo=c&logoColor=white)
 
-![Lenguages](./time.svg)
 
 # 📊 GitHub Stats:
 
@@ -29,3 +28,6 @@ I am an Arch Linux user,<br>I enjoy working on projects alongside other programm
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ZepharDev&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+![END](./time)
