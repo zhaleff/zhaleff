@@ -45,11 +45,21 @@
 <h1 align="center">GitHub Stats</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/ZepharDev?color=cba6f7&style=for-the-badge&label=Stars&labelColor=1e1e2e&logo=github&logoColor=white" alt="GitHub Stars" />
-  <img src="https://img.shields.io/github/commit-activity/y/ZepharDev?color=89b4fa&style=for-the-badge&label=Commits%20per%20Year&labelColor=1e1e2e&logo=git&logoColor=white" alt="Commits per Year" />
-  <img src="https://img.shields.io/github/forks/ZepharDev?color=f5c2e7&style=for-the-badge&label=Forks&labelColor=1e1e2e&logo=github&logoColor=white" alt="GitHub Forks" />
-  <img src="https://img.shields.io/github/contributors/ZepharDev?color=cba6f7&style=for-the-badge&label=Contributors&labelColor=1e1e2e&logo=github&logoColor=white" alt="Contributors" />
-  <img src="https://img.shields.io/github/issues/ZepharDev?color=89b4fa&style=for-the-badge&label=Open%20Issues&labelColor=1e1e2e&logo=github&logoColor=white" alt="Open Issues" />
+  <a href="https://github.com/ZepharDev?tab=stars" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/github/stars/ZepharDev?color=cba6f7&style=for-the-badge&label=Stars&labelColor=1e1e2e&logo=github&logoColor=white" alt="GitHub Stars" />
+  </a>
+  <a href="https://github.com/ZepharDev?tab=activity" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/github/commit-activity/y/ZepharDev?color=89b4fa&style=for-the-badge&label=Commits%20per%20Year&labelColor=1e1e2e&logo=git&logoColor=white" alt="Commits per Year" />
+  </a>
+  <a href="https://github.com/ZepharDev?tab=forks" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/github/forks/ZepharDev?color=f5c2e7&style=for-the-badge&label=Forks&labelColor=1e1e2e&logo=github&logoColor=white" alt="GitHub Forks" />
+  </a>
+  <a href="https://github.com/ZepharDev?tab=contributors" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/github/contributors/ZepharDev?color=cba6f7&style=for-the-badge&label=Contributors&labelColor=1e1e2e&logo=github&logoColor=white" alt="Contributors" />
+  </a>
+  <a href="https://github.com/ZepharDev/issues" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/github/issues/ZepharDev?color=89b4fa&style=for-the-badge&label=Open%20Issues&labelColor=1e1e2e&logo=github&logoColor=white" alt="Open Issues" />
+  </a>
 </p>
 
 <p align="center">
