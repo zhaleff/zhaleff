@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/License-GNU%20GPLv3-f5c2e7?style=for-the-badge&labelColor=1e1e2e&logo=gnu&logoColor=white" />
 </p>
 
-
+-
 
 
 <h3 align="center">Socials</h3>
@@ -19,6 +19,8 @@
   <img src="https://img.shields.io/badge/Instagram-zephartw-f5c2e7?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1e1e2e" />
   <img src="https://img.shields.io/badge/Reddit-Zephar_WO-89b4fa?style=for-the-badge&logo=reddit&logoColor=white&labelColor=1e1e2e" />
 </p>
+
+-
 
 <h3 align="center">Contact</h3>
 
