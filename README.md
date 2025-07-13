@@ -24,9 +24,25 @@ I am an Arch Linux user,<br>I enjoy working on projects alongside other programm
 
 #Github statistics 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ZepharDev&show_icons=true&theme=radical&hide_border=true&title_color=cba6f7&text_color=cdd6f4&icon_color=89b4fa)]
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ZepharDev&show_icons=true&theme=radical&hide_border=true&title_color=cba6f7&text_color=cdd6f4&icon_color=89b4fa)
 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZepharDev&hide_border=true&background=1e1e2e&ring=cba6f7&fire=f5c2e7&currStreakLabel=cdd6f4&sideLabels=cdd6f4&currStreakNum=cba6f7&dates=cdd6f4&sideNums=cdd6f4)
 
-[![Followers](https://img.shields.io/github/followers/ZepharDev?color=f5c2e7&style=for-the-badge&labelColor=1e1e2e&logo=github&logoColor=white)]
+<h1 align="center">ZepharDev</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Hyprdots-Workflow-89b4fa?style=for-the-badge&logo=hyprland&logoColor=white&labelColor=1e1e2e" />
+  <img src="https://img.shields.io/badge/Arch_Linux-Base-8bd5fa?style=for-the-badge&logo=arch-linux&logoColor=white&labelColor=1e1e2e" />
+  <img src="https://img.shields.io/badge/Minimal%20Philosophy-Clean%20Code-cba6f7?style=for-the-badge&logo=markdown&logoColor=white&labelColor=1e1e2e" />
+</p>
+
+<p align="center">
+  <b>🗝️ Ciberseguridad · OSINT · Filosofía · Hyprland Dotfiles</b><br>
+  <sub>Diseñando entornos pulcros y coherentes. Pensando antes de escribir.</sub>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/License-GNU%20GPLv3-f5c2e7?style=for-the-badge&labelColor=1e1e2e&logo=gnu&logoColor=white" />
+</p>
+
