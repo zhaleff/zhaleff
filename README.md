@@ -25,9 +25,12 @@ I am an Arch Linux user,<br>I enjoy working on projects alongside other programm
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZepharDev&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-![Profile Views](https://komarev.com/ghpvc/?username=ZepharDev&style=for-the-badge&color=6e56cf)
-![Followers](https://img.shields.io/github/followers/ZepharDev?style=for-the-badge&color=6e56cf)
-![Stars](https://img.shields.io/github/stars/TU_USUARIO?style=for-the-badge&color=6e56cf)
+<svg width="400" height="120" viewBox="0 0 400 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="120" rx="15" fill="#1e1e2e"/>
+  <text x="20" y="40" fill="#cba6f7" font-size="20" font-family="monospace">Languages</text>
+  <rect x="20" y="60" width="200" height="10" fill="#cdd6f4"/>
+  <rect x="20" y="80" width="150" height="10" fill="#f5c2e7"/>
+</svg>
 
 
 ---
