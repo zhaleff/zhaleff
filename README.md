@@ -21,7 +21,7 @@ I am an Arch Linux user,<br>I enjoy working on projects alongside other programm
 
 [![Bash](https://img.shields.io/badge/Bash-89b4fa?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=1e1e2e)]&nbsp;&nbsp;&nbsp;
 
-[![Java](https://img.shields.io/badge/Java-f5c2e7?style=for-the-badge&logo=java&logoColor=white&labelColor=1e1e2e)]
+[![Java](https://img.shields.io/badge/Java-f5c2e7?style=for-the-badge&logo=coffee&logoColor=white&labelColor=1e1e2e)]
 
 [![C](https://img.shields.io/badge/C-cba6f7?style=for-the-badge&logo=c&logoColor=white&labelColor=1e1e2e)]&nbsp;&nbsp;&nbsp;
 
