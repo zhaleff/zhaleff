@@ -42,21 +42,7 @@
   <sub>Minimal tools, maximum control.</sub>
 </p>
 
-<h1 align="center">GitHub Stats</h1>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ZepharDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=f5c2e7&icon_color=89b4fa"
-    alt="GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZepharDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=f5c2e7"
-    alt="Top Languages"
-  />
-</p>
 
 <p align="center">
   <b>Tracking my coding journey with clarity and style.</b><br />
@@ -74,15 +60,4 @@
   <sub>Project powered by ZepharDev — Minimal, Clean, and Purposeful.</sub>
 </p>
 
-<h1 align="center">GitHub Stats</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Stars-%E2%98%85%20Tracked-cba6f7?style=for-the-badge&labelColor=1e1e2e&logo=github&logoColor=white" alt="Stars Badge" />
-  <img src="https://img.shields.io/badge/Commits-Active-89b4fa?style=for-the-badge&labelColor=1e1e2e&logo=git&logoColor=white" alt="Commits Badge" />
-  <img src="https://img.shields.io/badge/Last_Update-Recent-f5c2e7?style=for-the-badge&labelColor=1e1e2e&logo=github&logoColor=white" alt="Last Commit Badge" />
-  <img src="https://img.shields.io/badge/Forks-Collaborations-8bd5fa?style=for-the-badge&labelColor=1e1e2e&logo=github&logoColor=white" alt="Forks Badge" />
-</p>
-
-<p align="center">
-  <sub>Clear overview: stars, commits, updates, forks. Always aligned with the workflow.</sub>
-</p>
