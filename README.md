@@ -30,4 +30,4 @@ I am an Arch Linux user,<br>I enjoy working on projects alongside other programm
 [![](https://visitcount.itsvg.in/api?id=ZepharDev&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-![END](./time)
+![END](./time.svg)
