@@ -1,14 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="300" height="60" viewBox="0 0 300 60" xmlns="http://www.w3.org/2000/svg" aria-label="Instagram Zephar">
-  <rect width="300" height="60" rx="12" fill="#1e1e2e"/>
+<svg width="600" height="70" viewBox="0 0 600 70" xmlns="http://www.w3.org/2000/svg" aria-label="Tech Stack Zephar">
+  <rect width="600" height="70" rx="12" fill="#1e1e2e"/>
 
-  <!-- Icono Instagram simplificado -->
-  <rect x="20" y="15" width="30" height="30" rx="7" fill="#89b4fa"/>
-  <circle cx="35" cy="30" r="8" fill="#1e1e2e"/>
-  <circle cx="43" cy="22" r="2" fill="#1e1e2e"/>
-
-  <!-- Nombre de usuario -->
-  <text x="70" y="37" fill="#cdd6f4" font-family="monospace" font-size="18" font-weight="500">
-    @zephartw
+  <text x="30" y="40" fill="#cdd6f4" font-family="monospace" font-size="18" font-weight="600">
+    Tech Stack:
   </text>
+
+  <circle cx="160" cy="35" r="6" fill="#89b4fa"/>
+  <text x="175" y="40" fill="#cdd6f4" font-family="monospace" font-size="16">Hyprland</text>
+
+  <circle cx="260" cy="35" r="6" fill="#89b4fa"/>
+  <text x="275" y="40" fill="#cdd6f4" font-family="monospace" font-size="16">Arch</text>
+
+  <circle cx="330" cy="35" r="6" fill="#89b4fa"/>
+  <text x="345" y="40" fill="#cdd6f4" font-family="monospace" font-size="16">Bash</text>
+
+  <circle cx="400" cy="35" r="6" fill="#f5c2e7"/>
+  <text x="415" y="40" fill="#cdd6f4" font-family="monospace" font-size="16">Java</text>
+
+  <circle cx="460" cy="35" r="6" fill="#cba6f7"/>
+  <text x="475" y="40" fill="#cdd6f4" font-family="monospace" font-size="16">C</text>
+
+  <circle cx="500" cy="35" r="6" fill="#cba6f7"/>
+  <text x="515" y="40" fill="#cdd6f4" font-family="monospace" font-size="16">C++</text>
+
+  <circle cx="550" cy="35" r="6" fill="#89b4fa"/>
+  <text x="565" y="40" fill="#cdd6f4" font-family="monospace" font-size="16">JSONC</text>
+
+  <circle cx="610" cy="35" r="6" fill="#89b4fa"/>
+  <text x="625" y="40" fill="#cdd6f4" font-family="monospace" font-size="16">CSS</text>
 </svg>
