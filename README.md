@@ -13,16 +13,6 @@ I am an Arch Linux user,<br>I enjoy working on projects alongside other programm
 
 # 💻 Tech Stack:
 
-![Hyprland](https://img.shields.io/badge/Hyprland-%23000000.svg?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-%23000000.svg?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Wayland](https://img.shields.io/badge/Wayland-%23000000.svg?style=for-the-badge&logo=wayland&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-%23000000.svg?style=for-the-badge&logo=gnubash&logoColor=white)
-![JSONC](https://img.shields.io/badge/JSONC-%23000000.svg?style=for-the-badge&logo=json&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23000000.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-%23000000.svg?style=for-the-badge&logo=css3&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%23000000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-%23000000.svg?style=for-the-badge&logo=c&logoColor=white)
-
 [![Stack](https://img.shields.io/badge/Hyprland-89b4fa?style=for-the-badge&logo=hyprland&logoColor=white&labelColor=1e1e2e)]
 [![Stack](https://img.shields.io/badge/Arch%20Linux-89b4fa?style=for-the-badge&logo=arch-linux&logoColor=white&labelColor=1e1e2e)]
 [![Stack](https://img.shields.io/badge/Java-f5c2e7?style=for-the-badge&logo=java&logoColor=white&labelColor=1e1e2e)]
