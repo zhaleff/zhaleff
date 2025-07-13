@@ -25,14 +25,6 @@ I am an Arch Linux user,<br>I enjoy working on projects alongside other programm
 
 # 📊 GitHub Stats:
 
-[![Stars](https://img.shields.io/github/stars/ZepharDev?color=cba6f7&style=for-the-badge&labelColor=1e1e2e&logo=github&logoColor=white)]
-
-
-![](https://github-readme-stats.vercel.app/api?username=ZepharDev&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-
-![](https://nirzak-streak-stats.vercel.app/?user=ZepharDev&theme=dark&hide_border=false)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZepharDev&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ZepharDev&show_icons=true&theme=radical&hide_border=true&title_color=cba6f7&text_color=cdd6f4&icon_color=89b4fa)]
 ---
 
