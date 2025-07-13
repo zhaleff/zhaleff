@@ -1,17 +1,20 @@
-<svg width="380" height="80" viewBox="0 0 380 80" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Socials">
-  <rect width="380" height="80" rx="15" fill="#1e1e2e"/>
+<svg width="400" height="80" viewBox="0 0 400 80" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Socials">
+  <rect width="400" height="80" rx="15" fill="#1e1e2e"/>
+  
+  <!-- Icon circle -->
+  <circle cx="40" cy="40" r="20" fill="url(#gradInsta)"/>
 
-  <!-- Título -->
-  <text x="25" y="35" fill="#cba6f7" font-family="Segoe UI, monospace" font-size="22" font-weight="600">Socials</text>
+  <!-- Simple Instagram icon inside -->
+  <circle cx="40" cy="40" r="10" stroke="#1e1e2e" stroke-width="3" fill="none"/>
+  <circle cx="50" cy="30" r="2.5" fill="#1e1e2e"/>
 
-  <!-- Instagram Icon (simplificado) -->
-  <rect x="25" y="50" width="28" height="28" rx="6" ry="6" fill="#f5c2e7"/>
-  <circle cx="39" cy="64" r="9" stroke="#1e1e2e" stroke-width="3" fill="none"/>
-  <circle cx="52" cy="55" r="2" fill="#1e1e2e"/>
-  <rect x="33" y="58" width="12" height="12" rx="6" ry="6" fill="#1e1e2e"/>
+  <!-- Username text, vertically aligned -->
+  <text x="80" y="47" fill="#cdd6f4" font-family="monospace" font-size="20">instagram.com/zephartw</text>
 
-  <!-- Texto Instagram -->
-  <a href="https://www.instagram.com/zephartw" target="_blank" rel="noopener noreferrer">
-    <text x="65" y="70" fill="#cdd6f4" font-family="Segoe UI, monospace" font-size="16" cursor="pointer">instagram.com/zephartw</text>
-  </a>
+  <defs>
+    <linearGradient id="gradInsta" x1="20" y1="20" x2="60" y2="60">
+      <stop offset="0%" stop-color="#f5c2e7"/>
+      <stop offset="100%" stop-color="#cba6f7"/>
+    </linearGradient>
+  </defs>
 </svg>
