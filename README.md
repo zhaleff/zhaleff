@@ -22,10 +22,6 @@ I am an Arch Linux user,<br>I enjoy working on projects alongside other programm
 [![C++](https://img.shields.io/badge/C++-cba6f7?style=for-the-badge&logo=c%2b%2b&logoColor=white&labelColor=1e1e2e)]&nbsp;&nbsp;&nbsp;[  ![JSONC](https://img.shields.io/badge/JSONC-89b4fa?style=for-the-badge&logo=json&logoColor=white&labelColor=1e1e2e)]&nbsp;&nbsp;&nbsp;
 
 
-![GitHub Stats](https://img.shields.io/badge/📊%20GitHub%20Stats-cba6f7?style=for-the-badge&labelColor=1e1e2e&color=89b4fa&logo=github&logoColor=white)
-
-[![Public Repos](https://img.shields.io/github/public-repos/ZepharDev?color=89b4fa&style=for-the-badge&labelColor=1e1e2e&logo=github&logoColor=white)]
-
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ZepharDev&show_icons=true&theme=radical&hide_border=true&title_color=cba6f7&text_color=cdd6f4&icon_color=89b4fa)]
 
