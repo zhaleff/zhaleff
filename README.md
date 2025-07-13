@@ -7,6 +7,10 @@ I am an Arch Linux user,<br>I enjoy working on projects alongside other programm
 
 [![Instagram](https://img.shields.io/badge/@zephartw-%23f5c2e7?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1e1e2e)](https://www.instagram.com/zephartw)
 
+# Contact
+
+[![Gmail](https://img.shields.io/badge/zephartw@gmail.com-%23f5c2e7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1e2e)](mailto:zephartw@gmail.com)
+
 # 💻 Tech Stack:
 
 ![Hyprland](https://img.shields.io/badge/Hyprland-%23000000.svg?style=for-the-badge&logo=arch-linux&logoColor=white)
