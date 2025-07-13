@@ -43,11 +43,20 @@
 </p>
 
 
-#Github statistics 
+<h1 align="center">GitHub Statistics</h1>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ZepharDev&show_icons=true&theme=radical&hide_border=true&title_color=cba6f7&text_color=cdd6f4&icon_color=89b4fa)
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ZepharDev&show_icons=true&theme=default&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&icon_color=89b4fa&hide_border=true"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZepharDev&layout=compact&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&hide_border=true"
+    alt="Top Languages"
+  />
+</p>
 
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZepharDev&hide_border=true&background=1e1e2e&ring=cba6f7&fire=f5c2e7&currStreakLabel=cdd6f4&sideLabels=cdd6f4&currStreakNum=cba6f7&dates=cdd6f4&sideNums=cdd6f4)
-
-
+<p align="center">
+  <b>Tracking my code journey, one commit at a time.</b><br>
+  <sub>Driven by curiosity and minimalism.</sub>
+</p>
