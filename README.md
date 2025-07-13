@@ -4,7 +4,6 @@ I am an Arch Linux user,<br>I enjoy working on projects alongside other programm
 ## 🌐 Socials
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23f5c2e7.svg?&style=for-the-badge&logo=instagram&logoColor=%231e1e2e)](https://www.instagram.com/zephartw)  
-[instagram.com/zephartw](https://www.instagram.com/zephartw)
 
 # 💻 Tech Stack:
 
