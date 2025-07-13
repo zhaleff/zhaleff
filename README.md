@@ -42,21 +42,17 @@
   <sub>Minimal tools, maximum control.</sub>
 </p>
 
-
-<h1 align="center">GitHub Statistics</h1>
+<h1 align="center">GitHub Stats</h1>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ZepharDev&show_icons=true&theme=default&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&icon_color=89b4fa&hide_border=true"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZepharDev&layout=compact&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&hide_border=true"
-    alt="Top Languages"
-  />
+  <img src="https://img.shields.io/github/stars/ZepharDev?color=cba6f7&style=for-the-badge&label=Stars&labelColor=1e1e2e&logo=github&logoColor=white" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/commit-activity/y/ZepharDev?color=89b4fa&style=for-the-badge&label=Commits%20per%20Year&labelColor=1e1e2e&logo=git&logoColor=white" alt="Commits per Year" />
+  <img src="https://img.shields.io/github/forks/ZepharDev?color=f5c2e7&style=for-the-badge&label=Forks&labelColor=1e1e2e&logo=github&logoColor=white" alt="GitHub Forks" />
+  <img src="https://img.shields.io/github/contributors/ZepharDev?color=cba6f7&style=for-the-badge&label=Contributors&labelColor=1e1e2e&logo=github&logoColor=white" alt="Contributors" />
+  <img src="https://img.shields.io/github/issues/ZepharDev?color=89b4fa&style=for-the-badge&label=Open%20Issues&labelColor=1e1e2e&logo=github&logoColor=white" alt="Open Issues" />
 </p>
 
 <p align="center">
-  <b>Tracking my code journey, one commit at a time.</b><br>
-  <sub>Driven by curiosity and minimalism.</sub>
+  <b>Tracking my coding journey with clarity and style.</b><br>
+  <sub>Minimal, clean, and focused on growth.</sub>
 </p>
