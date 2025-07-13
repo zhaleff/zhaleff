@@ -23,7 +23,9 @@ I am an Arch Linux user,<br>I enjoy working on projects alongside other programm
 ![C++](https://img.shields.io/badge/C++-%23000000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-%23000000.svg?style=for-the-badge&logo=c&logoColor=white)
 
-# 📊 GitHub Stats:
+# GitHub Stats:
+
+![GitHub Stats](https://img.shields.io/badge/📊%20GitHub%20Stats-cba6f7?style=for-the-badge&labelColor=1e1e2e&color=89b4fa&logo=github&logoColor=white)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ZepharDev&show_icons=true&theme=radical&hide_border=true&title_color=cba6f7&text_color=cdd6f4&icon_color=89b4fa)]
 ---
