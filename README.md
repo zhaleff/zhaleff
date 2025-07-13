@@ -22,9 +22,11 @@ I am an Arch Linux user,<br>I enjoy working on projects alongside other programm
 [![C++](https://img.shields.io/badge/C++-cba6f7?style=for-the-badge&logo=c%2b%2b&logoColor=white&labelColor=1e1e2e)]&nbsp;&nbsp;&nbsp;[  ![JSONC](https://img.shields.io/badge/JSONC-89b4fa?style=for-the-badge&logo=json&logoColor=white&labelColor=1e1e2e)]&nbsp;&nbsp;&nbsp;
 
 
+#Github statistics 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ZepharDev&show_icons=true&theme=radical&hide_border=true&title_color=cba6f7&text_color=cdd6f4&icon_color=89b4fa)]
 
----
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZepharDev&hide_border=true&background=1e1e2e&ring=cba6f7&fire=f5c2e7&currStreakLabel=cdd6f4&sideLabels=cdd6f4&currStreakNum=cba6f7&dates=cdd6f4&sideNums=cdd6f4)
+
+[![Followers](https://img.shields.io/github/followers/ZepharDev?color=f5c2e7&style=for-the-badge&labelColor=1e1e2e&logo=github&logoColor=white)]
