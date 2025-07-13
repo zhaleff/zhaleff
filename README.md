@@ -61,16 +61,15 @@
 </p>
 
 
- <h1 align="center">Statistics</h1>
+ <h1 align="center">GitHub Statistics</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Stars-%E2%AD%90%20Visible-cba6f7?style=for-the-badge&labelColor=1e1e2e&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Commits-Consistent-89b4fa?style=for-the-badge&labelColor=1e1e2e&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Updates-Regular-f5c2e7?style=for-the-badge&labelColor=1e1e2e&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Forks-Contributions-8bd5fa?style=for-the-badge&labelColor=1e1e2e&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/github/stars/ZepharDev?style=for-the-badge&color=cba6f7&labelColor=1e1e2e&logo=github&logoColor=white" alt="Stars" />
+  <img src="https://img.shields.io/github/forks/ZepharDev?style=for-the-badge&color=89b4fa&labelColor=1e1e2e&logo=github&logoColor=white" alt="Forks" />
+  <img src="https://img.shields.io/github/watchers/ZepharDev?style=for-the-badge&color=f5c2e7&labelColor=1e1e2e&logo=github&logoColor=white" alt="Watchers" />
+  <img src="https://img.shields.io/github/followers/ZepharDev?style=for-the-badge&color=8bd5fa&labelColor=1e1e2e&logo=github&logoColor=white" alt="Followers" />
 </p>
 
 <p align="center">
-  <b>Clear stats, nothing hidden.</b><br>
-  <sub>Numbers follow the work — minimal, factual, open.</sub>
+  <sub>⭐ Stars · 🍴 Forks · 👀 Watchers · 👥 Followers</sub>
 </p>
