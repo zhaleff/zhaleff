@@ -1,8 +1,7 @@
 # 💫 About Me:
 I am an Arch Linux user,<br>I enjoy working on projects alongside other programmers.<br><br>I can help with various matters and projects, I know how to program or adapt to different programming languages<br>I can adjust to what you need, I know OSINT techniques, etc. I'm a kid who programs out of boredom XD.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/zephartw)
+## 🌐 Socials
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23f5c2e7.svg?&style=for-the-badge&logo=instagram&logoColor=%231e1e2e)](https://www.instagram.com/zephartw)  
 [instagram.com/zephartw](https://www.instagram.com/zephartw)
