@@ -12,6 +12,8 @@
 
 
 
+<h3 align="center">Socials</h3>
+
 <p align="center">
   <a href="https://www.instagram.com/zephartw">
     <img src="https://img.shields.io/badge/Instagram-zephartw-cba6f7?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1e1e2e" />
@@ -19,8 +21,13 @@
   <a href="https://www.reddit.com/u/Zephar_WO/">
     <img src="https://img.shields.io/badge/Reddit-Zephar_WO-f5c2e7?style=for-the-badge&logo=reddit&logoColor=white&labelColor=1e1e2e" />
   </a>
-  <a href="mailto:zephar@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-89b4fa?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1e2e" />
+</p>
+
+<h3 align="center">Contact</h3>
+
+<p align="center">
+  <a href="mailto:zephartw@gmail.com">
+    <img src="https://img.shields.io/badge/Email-zephartw@gmail.com-89b4fa?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1e2e" />
   </a>
 </p>
 
