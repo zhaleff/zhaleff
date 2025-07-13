@@ -3,7 +3,7 @@ I am an Arch Linux user,<br>I enjoy working on projects alongside other programm
 
 # Socials
 
-![Socials](https://github.com/ZepharDev/ZepharDev/instagram.svg)
+![Socials](instagram.svg)
 
 # 💻 Tech Stack:
 
