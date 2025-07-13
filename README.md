@@ -4,7 +4,7 @@ I am an Arch Linux user,<br>I enjoy working on projects alongside other programm
 # Socials
 
 ![Socials](instagram.svg)
-![reddit](./time.svg)
+![reddit](time.svg)
 
 # 💻 Tech Stack:
 
