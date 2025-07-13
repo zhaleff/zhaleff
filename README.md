@@ -25,8 +25,8 @@ I am an Arch Linux user,<br>I enjoy working on projects alongside other programm
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZepharDev&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-![Profile Views](https://komarev.com/ghpvc/?username=TU_USUARIO&style=for-the-badge&color=6e56cf)
-![Followers](https://img.shields.io/github/followers/TU_USUARIO?style=for-the-badge&color=6e56cf)
+![Profile Views](https://komarev.com/ghpvc/?username=ZepharDev&style=for-the-badge&color=6e56cf)
+![Followers](https://img.shields.io/github/followers/ZepharDev?style=for-the-badge&color=6e56cf)
 ![Stars](https://img.shields.io/github/stars/TU_USUARIO?style=for-the-badge&color=6e56cf)
 
 
