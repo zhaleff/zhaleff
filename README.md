@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <b>🗝️ Ciberseguridad · OSINT · Filosofía · Programming</b><br>
+  <b>🗝️ Cybersecurity  · OSINT · Philosophy  · Programming</b><br>
   <sub>Diseñando entornos pulcros y coherentes. Pensando antes de escribir.</sub>
 </p>
 
