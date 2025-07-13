@@ -4,6 +4,8 @@ I am an Arch Linux user,<br>I enjoy working on projects alongside other programm
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/zephartw)
 
+https://img.shields.io/badge/Instagram-%23f5c2e7.svg?&style=for-the-badge&logo=instagram&logoColor=%231e1e2e
+
 # 💻 Tech Stack:
 
 ![Hyprland](https://img.shields.io/badge/Hyprland-%23000000.svg?style=for-the-badge&logo=arch-linux&logoColor=white)
