@@ -24,7 +24,7 @@ I am an Arch Linux user,<br>I enjoy working on projects alongside other programm
 
 ![GitHub Stats](https://img.shields.io/badge/📊%20GitHub%20Stats-cba6f7?style=for-the-badge&labelColor=1e1e2e&color=89b4fa&logo=github&logoColor=white)
 
----
+[![Public Repos](https://img.shields.io/github/public-repos/ZepharDev?color=89b4fa&style=for-the-badge&labelColor=1e1e2e&logo=github&logoColor=white)]
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ZepharDev&show_icons=true&theme=radical&hide_border=true&title_color=cba6f7&text_color=cdd6f4&icon_color=89b4fa)]
