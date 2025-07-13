@@ -3,8 +3,9 @@ I am an Arch Linux user,<br>I enjoy working on projects alongside other programm
 
 # Socials
 
-![Socials](instagram.svg)
-![reddit](time.svg)
+[![Instagram](https://img.shields.io/badge/Instagram-%23f5c2e7?style=flat-square&logo=instagram&logoColor=%231e1e2e&labelColor=%231e1e2e)](https://www.instagram.com/zephartw)
+
+[![Reddit](https://img.shields.io/badge/Reddit-%2389b4fa?style=flat-square&logo=reddit&logoColor=%231e1e2e&labelColor=%231e1e2e)](https://www.reddit.com/u/Zephar_WO)
 
 # 💻 Tech Stack:
 
@@ -18,9 +19,6 @@ I am an Arch Linux user,<br>I enjoy working on projects alongside other programm
 ![C++](https://img.shields.io/badge/C++-%23000000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-%23000000.svg?style=for-the-badge&logo=c&logoColor=white)
 
-![stack](flooter.svg)
-
-
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=ZepharDev&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
@@ -31,5 +29,3 @@ I am an Arch Linux user,<br>I enjoy working on projects alongside other programm
 
 ---
 
-
-![end](./flooter.svg)
