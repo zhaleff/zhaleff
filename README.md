@@ -24,24 +24,23 @@
   <sub>Always reachable, never noisy. Philosophy stays clean.</sub>
 </p>
 
-
 <h1 align="center">Tech Stack</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Hyprland-WM-89b4fa?style=for-the-badge&logo=hyprland&logoColor=white&labelColor=1e1e2e" />
   <img src="https://img.shields.io/badge/Arch_Linux-Base-8bd5fa?style=for-the-badge&logo=arch-linux&logoColor=white&labelColor=1e1e2e" />
   <img src="https://img.shields.io/badge/Bash-Scripts-cba6f7?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=1e1e2e" />
-  <img src="https://img.shields.io/badge/Java-Logic-89b4fa?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=1e1e2e" />
-  <img src="https://img.shields.io/badge/C%20%2B%2B-Core-8bd5fa?style=for-the-badge&logo=linux&logoColor=white&labelColor=1e1e2e" />
-  <img src="https://img.shields.io/badge/JSONC-Config-cba6f7?style=for-the-badge&logo=json&logoColor=white&labelColor=1e1e2e" />
-  <img src="https://img.shields.io/badge/CSS-UI%20Tweak-f5c2e7?style=for-the-badge&logo=css3&logoColor=white&labelColor=1e1e2e" />
+  <img src="https://img.shields.io/badge/C-Core-89b4fa?style=for-the-badge&logo=c&logoColor=white&labelColor=1e1e2e" />
+  <img src="https://img.shields.io/badge/C%2B%2B-Performance-8bd5fa?style=for-the-badge&logo=linux&logoColor=white&labelColor=1e1e2e" />
+  <img src="https://img.shields.io/badge/Java-Logic-cba6f7?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=1e1e2e" />
+  <img src="https://img.shields.io/badge/JSONC-Config-f5c2e7?style=for-the-badge&logo=json&logoColor=white&labelColor=1e1e2e" />
+  <img src="https://img.shields.io/badge/CSS-UI%20Tweak-89b4fa?style=for-the-badge&logo=css3&logoColor=white&labelColor=1e1e2e" />
 </p>
 
 <p align="center">
-  <b>Tools crafted for precision, minimal footprint.</b><br>
-  <sub>Everything stays simple, everything stays yours.</sub>
+  <b>Precision over clutter. Clarity over noise.</b><br>
+  <sub>Minimal tools, maximum control.</sub>
 </p>
-
 
 # 💻 Tech Stack:
 
