@@ -10,10 +10,6 @@ I am an Arch Linux user,<br>I enjoy working on projects alongside other programm
 ![Hyprland](https://img.shields.io/badge/Hyprland-%23000000.svg?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-%231793D1.svg?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Wayland](https://img.shields.io/badge/Wayland-%23000000.svg?style=for-the-badge&logo=wayland&logoColor=white)
-
-
-
-
 ![Bash](https://img.shields.io/badge/Bash-%23000000.svg?style=for-the-badge&logo=gnubash&logoColor=white)
 ![JSONC](https://img.shields.io/badge/JSONC-%23000000.svg?style=for-the-badge&logo=json&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23000000.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -23,10 +19,6 @@ I am an Arch Linux user,<br>I enjoy working on projects alongside other programm
 
 
 # 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=ZepharDev&show_icons=true&theme=tokyonight&hide_title=true)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZepharDev&layout=compact&theme=tokyonight)<br/>
 
 ![](https://github-readme-stats.vercel.app/api?username=ZepharDev&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
