@@ -8,7 +8,7 @@ I am an Arch Linux user,<br>I enjoy working on projects alongside other programm
 # 💻 Tech Stack:
 
 ![Hyprland](https://img.shields.io/badge/Hyprland-%23000000.svg?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-%231793D1.svg?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-%23000000.svg?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Wayland](https://img.shields.io/badge/Wayland-%23000000.svg?style=for-the-badge&logo=wayland&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-%23000000.svg?style=for-the-badge&logo=gnubash&logoColor=white)
 ![JSONC](https://img.shields.io/badge/JSONC-%23000000.svg?style=for-the-badge&logo=json&logoColor=white)
