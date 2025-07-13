@@ -13,9 +13,7 @@ I am an Arch Linux user,<br>I enjoy working on projects alongside other programm
 
 # 💻 Tech Stack:
 
-[![Hyprland](https://img.shields.io/badge/Hyprland-89b4fa?style=for-the-badge&logo=hyprland&logoColor=white&labelColor=1e1e2e)]&nbsp;&nbsp;&nbsp;
-
-[![Arch Linux](https://img.shields.io/badge/Arch_Linux-8bd5fa?style=for-the-badge&logo=arch-linux&logoColor=white&labelColor=1e1e2e)]&nbsp;&nbsp;&nbsp;
+[![Hyprland](https://img.shields.io/badge/Hyprland-89b4fa?style=for-the-badge&logo=hyprland&logoColor=white&labelColor=1e1e2e)]&nbsp;&nbsp;&nbsp;[![Arch Linux](https://img.shields.io/badge/Arch_Linux-8bd5fa?style=for-the-badge&logo=arch-linux&logoColor=white&labelColor=1e1e2e)]&nbsp;&nbsp;&nbsp;
 
 <br>
 
