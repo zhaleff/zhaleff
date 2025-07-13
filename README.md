@@ -73,16 +73,3 @@
   <b>TW</b>: Delivering authentic, focused work.<br>
   <sub>Project powered by ZepharDev — Minimal, Clean, and Purposeful.</sub>
 </p>
-
-<h1 align="center">GitHub Stats</h1>
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/ZepharDev?color=cba6f7&style=for-the-badge&label=Stars&labelColor=1e1e2e&logo=github&logoColor=white" alt="Stars" />
-  <img src="https://img.shields.io/github/commit-activity/y/ZepharDev?color=89b4fa&style=for-the-badge&label=Commits%20This%20Year&labelColor=1e1e2e&logo=git&logoColor=white" alt="Commits" />
-  <img src="https://img.shields.io/github/last-commit/ZepharDev/hyprdots?color=f5c2e7&style=for-the-badge&label=Last%20Commit&labelColor=1e1e2e&logo=github&logoColor=white" alt="Last Commit" />
-  <img src="https://img.shields.io/github/forks/ZepharDev?color=89b4fa&style=for-the-badge&label=Forks&labelColor=1e1e2e&logo=github&logoColor=white" alt="Forks" />
-</p>
-
-<p align="center">
-  <sub>Numbers that matter. Work that shows.</sub>
-</p>
