@@ -23,7 +23,13 @@ I am an Arch Linux user,<br>I enjoy working on projects alongside other programm
 ![C++](https://img.shields.io/badge/C++-%23000000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-%23000000.svg?style=for-the-badge&logo=c&logoColor=white)
 
-# GitHub Stats:
+[![Stack](https://img.shields.io/badge/Hyprland-89b4fa?style=for-the-badge&logo=hyprland&logoColor=white&labelColor=1e1e2e)]
+[![Stack](https://img.shields.io/badge/Arch%20Linux-89b4fa?style=for-the-badge&logo=arch-linux&logoColor=white&labelColor=1e1e2e)]
+[![Stack](https://img.shields.io/badge/Java-f5c2e7?style=for-the-badge&logo=java&logoColor=white&labelColor=1e1e2e)]
+[![Stack](https://img.shields.io/badge/CSS-89b4fa?style=for-the-badge&logo=css3&logoColor=white&labelColor=1e1e2e)]
+[![Stack](https://img.shields.io/badge/C++-cba6f7?style=for-the-badge&logo=c%2b%2b&logoColor=white&labelColor=1e1e2e)]
+[![Stack](https://img.shields.io/badge/Bash-89b4fa?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=1e1e2e)]
+[![Stack](https://img.shields.io/badge/JSONC-89b4fa?style=for-the-badge&logo=json&logoColor=white&labelColor=1e1e2e)]
 
 ![GitHub Stats](https://img.shields.io/badge/📊%20GitHub%20Stats-cba6f7?style=for-the-badge&labelColor=1e1e2e&color=89b4fa&logo=github&logoColor=white)
 
