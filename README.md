@@ -10,20 +10,6 @@
   <img src="https://img.shields.io/badge/License-GNU%20GPLv3-f5c2e7?style=for-the-badge&labelColor=1e1e2e&logo=gnu&logoColor=white" />
 </p>
 
-
-<h1 align="center">Socials & Contact</h1>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Instagram-zephartw-f5c2e7?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1e1e2e" />
-  <img src="https://img.shields.io/badge/Reddit-Zephar_WO-89b4fa?style=for-the-badge&logo=reddit&logoColor=white&labelColor=1e1e2e" />
-  <img src="https://img.shields.io/badge/Email-zephartw@gmail.com-cba6f7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1e2e" />
-</p>
-
-<p align="center">
-  <b>Connect directly — stay minimal, stay clear.</b><br>
-  <sub>Always reachable, never noisy. Philosophy stays clean.</sub>
-</p>
-
 <h1 align="center">Socials & Contact</h1>
 
 <p align="center">
