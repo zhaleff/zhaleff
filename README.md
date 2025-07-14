@@ -62,7 +62,6 @@
   <sub>Precision. Consistency. Clean code in motion.</sub>
 </p>
 
-
 <h1 align="center">ZepharDev WO/TW</h1>
 
 <p align="center">
