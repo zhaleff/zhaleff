@@ -43,14 +43,13 @@
   <sub>Minimal tools, maximum control.</sub>
 </p>
 
-<h align="center">Github Statistics</h1>
+<h1 align="center">Total GitHub Stars</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZepharDev&show_icons=true&theme=mocha&hide_border=true&count_private=true&hide_title=true&bg_color=1e1e2e" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZepharDev&layout=compact&theme=mocha&hide_border=true&bg_color=1e1e2e" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ZepharDev&theme=mocha&hide_border=true&background=1e1e2e" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ZepharDev&show_icons=true&theme=mocha&hide_border=true&count_private=true&include_all_commits=true&hide_title=true&bg_color=1e1e2e" alt="GitHub Stars" />
 </p>
 
+<h1 align="center">ZepharDev</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/WO-Workflow_Optimization-cba6f7?style=for-the-badge&labelColor=1e1e2e&logo=awesome&logoColor=white" alt="WO Badge" />
