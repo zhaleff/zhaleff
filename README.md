@@ -74,12 +74,7 @@
   <img src="https://img.shields.io/badge/TW-True_Work-89b4fa?style=for-the-badge&labelColor=1e1e2e&logo=github-actions&logoColor=white" alt="TW" />
 </p>
 
-<p align="center">
-  <b>WO</b>: Streamlining processes for maximum efficiency.<br>
-  <b>TW</b>: Delivering authentic, focused work.<br>
-  <sub>Project powered by ZepharDev — Minimal, Clean, and Purposeful.</sub>
-</p>
-
+<
 <h1 align="center">Closing</h1>
 
 <p align="center">
