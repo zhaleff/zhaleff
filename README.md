@@ -101,3 +101,22 @@
 <p align="center">
   <sub>WO · WT · Nothing hidden — everything tracked properly.</sub>
 </p>
+
+<h1 align="center">GitHub Statistics</h1>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZepharDev&show_icons=true&theme=transparent&title_color=cba6f7&icon_color=89b4fa&text_color=cdd6f4&bg_color=1e1e2e&hide_border=true" alt="Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ZepharDev&theme=transparent&hide_border=true&background=1e1e2e&stroke=ffffff&ring=89b4fa&fire=cba6f7&currStreakLabel=f5c2e7" alt="Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZepharDev&layout=compact&theme=transparent&title_color=89b4fa&text_color=cdd6f4&bg_color=1e1e2e&hide_border=true" alt="Top Langs" />
+</p>
+
+<p align="center" style="margin-top: 1em;">
+  <sub>Guided by faith — strength in Christ, wisdom from YHWH.<br>
+  WO · WT · Integrity in code and spirit.</sub>
+</p>
