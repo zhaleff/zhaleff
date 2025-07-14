@@ -43,17 +43,14 @@
   <sub>Minimal tools, maximum control.</sub>
 </p>
 
-<h align="center>Github Statistics<h/1>
-
-
+<h align="center">Github Statistics<h/1>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/ZepharDev?style=for-the-badge&color=cba6f7&labelColor=292d3e&logo=github&logoColor=white&label=Total%20Stars" />
-  <img src="https://img.shields.io/github/forks/ZepharDev?style=for-the-badge&color=89b4fa&labelColor=292d3e&logo=git-branch&logoColor=white&label=Total%20Forks" />
-  <img src="https://img.shields.io/github/issues/ZepharDev?style=for-the-badge&color=f5c2e7&labelColor=292d3e&logo=github-issues&logoColor=white&label=Open%20Issues" />
-  <img src="https://img.shields.io/github/contributors/ZepharDev?style=for-the-badge&color=8bd5fa&labelColor=292d3e&logo=github&logoColor=white&label=Contributors" />
+  <img src="https://img.shields.io/github/stars/ZepharDev/hyprdots?style=for-the-badge&color=cba6f7&labelColor=1e1e2e&logo=github&logoColor=white&label=Stars" />
+  <img src="https://img.shields.io/github/forks/ZepharDev?style=for-the-badge&color=89b4fa&labelColor=1e1e2e&logo=github&logoColor=white&label=Forks" />
+  <img src="https://img.shields.io/github/commit-activity/y/ZepharDev?style=for-the-badge&color=f5c2e7&labelColor=1e1e2e&logo=git&logoColor=white&label=Commits" />
+  <img src="https://img.shields.io/github/last-commit/ZepharDev?style=for-the-badge&color=8bd5fa&labelColor=1e1e2e&logo=github&logoColor=white&label=Last%20Commit" />
 </p>
-
 
 <h1 align="center">ZepharDev WO/TW</h1>
 
