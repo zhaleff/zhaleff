@@ -43,16 +43,14 @@
   <sub>Minimal tools, maximum control.</sub>
 </p>
 
-<h align="center">Github Statistics<h/1>
+<h align="center">Github Statistics</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/ZepharDev/hyprdots?style=for-the-badge&color=cba6f7&labelColor=1e1e2e&logo=github&logoColor=white&label=Stars" />
-  <img src="https://img.shields.io/github/forks/ZepharDev?style=for-the-badge&color=89b4fa&labelColor=1e1e2e&logo=github&logoColor=white&label=Forks" />
-  <img src="https://img.shields.io/github/commit-activity/y/ZepharDev?style=for-the-badge&color=f5c2e7&labelColor=1e1e2e&logo=git&logoColor=white&label=Commits" />
-  <img src="https://img.shields.io/github/last-commit/ZepharDev?style=for-the-badge&color=8bd5fa&labelColor=1e1e2e&logo=github&logoColor=white&label=Last%20Commit" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ZepharDev&show_icons=true&theme=mocha&hide_border=true&count_private=true&hide_title=true&bg_color=1e1e2e" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZepharDev&layout=compact&theme=mocha&hide_border=true&bg_color=1e1e2e" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ZepharDev&theme=mocha&hide_border=true&background=1e1e2e" alt="GitHub Streak" />
 </p>
 
-<h1 align="center">ZepharDev WO/TW</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/WO-Workflow_Optimization-cba6f7?style=for-the-badge&labelColor=1e1e2e&logo=awesome&logoColor=white" alt="WO Badge" />
