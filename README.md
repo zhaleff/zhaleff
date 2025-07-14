@@ -49,6 +49,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ZepharDev&show_icons=true&theme=mocha&hide_border=true&count_private=true&include_all_commits=true&hide_title=true&bg_color=1e1e2e" alt="GitHub Stars" />
 </p>
 
+<h1 align="center">GitHub Statistics</h1>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZepharDev&show_icons=true&theme=mocha&hide_border=true&count_private=true&include_all_commits=true&hide_title=true&bg_color=1e1e2e" alt="GitHub Stats" />
+</p>
+
 <h1 align="center">ZepharDev</h1>
 
 <p align="center">
