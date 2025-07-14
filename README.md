@@ -87,12 +87,17 @@
 <h1 align="center">GitHub Statistics</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/ZepharDev?style=for-the-badge&color=cba6f7&label=Stars&labelColor=1e1e2e&logo=github&logoColor=white" alt="Stars" />
-  <img src="https://img.shields.io/github/forks/ZepharDev?style=for-the-badge&color=89b4fa&label=Forks&labelColor=1e1e2e&logo=github&logoColor=white" alt="Forks" />
-  <img src="https://img.shields.io/github/followers/ZepharDev?style=for-the-badge&color=f5c2e7&label=Followers&labelColor=1e1e2e&logo=github&logoColor=white" alt="Followers" />
-  <img src="https://img.shields.io/github/commit-activity/y/ZepharDev?style=for-the-badge&color=8bd5fa&label=Commits&labelColor=1e1e2e&logo=git&logoColor=white" alt="Commits" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ZepharDev&show_icons=true&theme=transparent&title_color=cba6f7&icon_color=89b4fa&text_color=cdd6f4&bg_color=1e1e2e&hide_border=true" alt="Stats" />
 </p>
 
 <p align="center">
-  <sub>WO: Workflow clear — WT: Tracking real work — No noise.</sub>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ZepharDev&theme=transparent&hide_border=true&background=1e1e2e&stroke=ffffff&ring=89b4fa&fire=cba6f7&currStreakLabel=f5c2e7" alt="Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZepharDev&layout=compact&theme=transparent&title_color=89b4fa&text_color=cdd6f4&bg_color=1e1e2e&hide_border=true" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <sub>WO · WT · Nothing hidden — everything tracked properly.</sub>
 </p>
