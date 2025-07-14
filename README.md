@@ -63,19 +63,7 @@
 
 
 
-
-<p align="center">
-  <b>Tracking my coding journey with clarity and style.</b><br />
-  <sub>Minimal, clean, and focused on growth.</sub>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/WO-Workflow_Optimization-cba6f7?style=for-the-badge&labelColor=1e1e2e&logo=awesome&logoColor=white" alt="WO" />
-  <img src="https://img.shields.io/badge/TW-True_Work-89b4fa?style=for-the-badge&labelColor=1e1e2e&logo=github-actions&logoColor=white" alt="TW" />
-</p>
-
-<
-<h1 align="center">Closing</h1>
+<h1 align="center">ZepharDev WO/TW</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/WO-Workflow_Optimization-cba6f7?style=for-the-badge&labelColor=1e1e2e&logo=awesome&logoColor=white" alt="WO Badge" />
