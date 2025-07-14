@@ -24,6 +24,22 @@
   <sub>Always reachable, never noisy. Philosophy stays clean.</sub>
 </p>
 
+<h1 align="center">Socials & Contact</h1>
+
+<p align="center">
+  <a href="https://www.instagram.com/zephartw" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-zephartw-f5c2e7?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1e1e2e" />
+  </a>
+  <a href="https://www.reddit.com/u/Zephar_WO" target="_blank">
+    <img src="https://img.shields.io/badge/Reddit-Zephar_WO-89b4fa?style=for-the-badge&logo=reddit&logoColor=white&labelColor=1e1e2e" />
+  </a>
+  <a href="mailto:zephartw@gmail.com">
+    <img src="https://img.shields.io/badge/Email-zephartw@gmail.com-cba6f7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1e2e" />
+  </a>
+</p>
+
+
+
 <h1 align="center">Tech Stack</h1>
 
 <p align="center">
