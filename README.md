@@ -55,6 +55,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ZepharDev&theme=transparent&hide_border=true&background=1e1e2e&stroke=ffffff&ring=89b4fa&fire=cba6f7&currStreakLabel=f5c2e7" alt="Streak" />
 </p>
 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZepharDev&show_icons=true&hide_title=true&theme=transparent&bg_color=1e1e2e00&text_color=f5c2e7&icon_color=89b4fa&title_color=cba6f7&hide_border=true" />
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZepharDev&layout=compact&theme=transparent&title_color=89b4fa&text_color=cdd6f4&bg_color=1e1e2e&hide_border=true" alt="Top Langs" />
 </p>
