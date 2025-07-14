@@ -62,6 +62,15 @@
   <sub>Precision. Consistency. Clean code in motion.</sub>
 </p>
 
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/ZepharDev/hyprdots?style=for-the-badge&color=cba6f7&labelColor=1e1e2e&logo=github&logoColor=white&label=Stars" />
+  <img src="https://img.shields.io/github/forks/ZepharDev/hyprdots?style=for-the-badge&color=89b4fa&labelColor=1e1e2e&logo=github&logoColor=white&label=Forks" />
+  <img src="https://img.shields.io/github/commit-activity/y/ZepharDev/hyprdots?style=for-the-badge&color=f5c2e7&labelColor=1e1e2e&logo=git&logoColor=white&label=Commits" />
+  <img src="https://img.shields.io/github/last-commit/ZepharDev/hyprdots?style=for-the-badge&color=8bd5fa&labelColor=1e1e2e&logo=github&logoColor=white&label=Last%20Commit" />
+</p>
+
+
 <h1 align="center">ZepharDev WO/TW</h1>
 
 <p align="center">
