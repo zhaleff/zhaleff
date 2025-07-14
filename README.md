@@ -43,31 +43,11 @@
   <sub>Minimal tools, maximum control.</sub>
 </p>
 
-
-<h1 align="center">GitHub Insights</h1>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZepharDev&show_icons=true&hide_title=true&bg_color=1e1e2e&text_color=f5c2e7&icon_color=89b4fa&title_color=cba6f7&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ZepharDev&hide_border=true&background=1e1e2e&stroke=1e1e2e&ring=cba6f7&fire=f5c2e7&currStreakLabel=89b4fa&sideLabels=f5c2e7&currStreakNum=89b4fa&sideNums=cba6f7&dates=8bd5fa" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZepharDev&layout=compact&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=f5c2e7" />
-</p>
-
-<p align="center">
-  <sub>Precision. Consistency. Clean code in motion.</sub>
-</p>
-
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/ZepharDev/hyprdots?style=for-the-badge&color=cba6f7&labelColor=1e1e2e&logo=github&logoColor=white&label=Stars" />
-  <img src="https://img.shields.io/github/forks/ZepharDev/hyprdots?style=for-the-badge&color=89b4fa&labelColor=1e1e2e&logo=github&logoColor=white&label=Forks" />
-  <img src="https://img.shields.io/github/commit-activity/y/ZepharDev/hyprdots?style=for-the-badge&color=f5c2e7&labelColor=1e1e2e&logo=git&logoColor=white&label=Commits" />
-  <img src="https://img.shields.io/github/last-commit/ZepharDev/hyprdots?style=for-the-badge&color=8bd5fa&labelColor=1e1e2e&logo=github&logoColor=white&label=Last%20Commit" />
+  <img src="https://img.shields.io/github/stars/ZepharDev/hyprdots?style=for-the-badge&color=cba6f7&labelColor=292d3e&logo=github&logoColor=white&label=Stars" />
+  <img src="https://img.shields.io/github/forks/ZepharDev/hyprdots?style=for-the-badge&color=89b4fa&labelColor=292d3e&logo=git-branch&logoColor=white&label=Forks" />
+  <img src="https://img.shields.io/github/issues/ZepharDev/hyprdots?style=for-the-badge&color=f5c2e7&labelColor=292d3e&logo=github-issues&logoColor=white&label=Issues" />
+  <img src="https://img.shields.io/github/contributors/ZepharDev/hyprdots?style=for-the-badge&color=8bd5fa&labelColor=292d3e&logo=github&logoColor=white&label=Contributors" />
 </p>
 
 
