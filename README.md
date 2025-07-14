@@ -44,34 +44,23 @@
 </p>
 
 
-<h1 align="center">GitHub Statistics</h1>
+<h1 align="center">GitHub Insights</h1>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZepharDev&hide_border=true&background=1e1e2e&stroke=1e1e2e&ring=cba6f7&fire=f5c2e7&currStreakLabel=89b4fa&sideLabels=f5c2e7&currStreakNum=89b4fa&sideNums=cba6f7&dates=8bd5fa" />
-</p>
-
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZepharDev&show_icons=true&theme=transparent&title_color=cba6f7&icon_color=89b4fa&text_color=cdd6f4&bg_color=1e1e2e&hide_border=true" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ZepharDev&show_icons=true&hide_title=true&bg_color=1e1e2e&text_color=f5c2e7&icon_color=89b4fa&title_color=cba6f7&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ZepharDev&theme=transparent&hide_border=true&background=1e1e2e&stroke=ffffff&ring=89b4fa&fire=cba6f7&currStreakLabel=f5c2e7" alt="Streak" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZepharDev&show_icons=true&hide_title=true&theme=transparent&bg_color=1e1e2e00&text_color=f5c2e7&icon_color=89b4fa&title_color=cba6f7&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZepharDev&layout=compact&theme=transparent&title_color=89b4fa&text_color=cdd6f4&bg_color=1e1e2e&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ZepharDev&hide_border=true&background=1e1e2e&stroke=1e1e2e&ring=cba6f7&fire=f5c2e7&currStreakLabel=89b4fa&sideLabels=f5c2e7&currStreakNum=89b4fa&sideNums=cba6f7&dates=8bd5fa" />
 </p>
 
 <p align="center">
-  <sub>WO · WT · Nothing hidden — everything tracked properly.</sub>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZepharDev&layout=compact&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=f5c2e7" />
 </p>
 
+<p align="center">
+  <sub>Precision. Consistency. Clean code in motion.</sub>
+</p>
 
 
 <h1 align="center">ZepharDev WO/TW</h1>
