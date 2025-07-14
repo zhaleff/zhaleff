@@ -25,7 +25,6 @@
 </p>
 
 
-
 <h1 align="center">Tech Stack</h1>
 
 <p align="center">
@@ -46,6 +45,12 @@
 
 
 <h1 align="center">GitHub Statistics</h1>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZepharDev&hide_border=true&background=1e1e2e&stroke=1e1e2e&ring=cba6f7&fire=f5c2e7&currStreakLabel=89b4fa&sideLabels=f5c2e7&currStreakNum=89b4fa&sideNums=cba6f7&dates=8bd5fa" />
+</p>
+
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ZepharDev&show_icons=true&theme=transparent&title_color=cba6f7&icon_color=89b4fa&text_color=cdd6f4&bg_color=1e1e2e&hide_border=true" alt="Stats" />
