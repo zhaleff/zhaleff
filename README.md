@@ -8,8 +8,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/License-GNU%20GPLv3-f5c2e7?style=for-the-badge&labelColor=1e1e2e&logo=gnu&logoColor=white" />
-</p>
-<p align="center">
+</p> <p align="center">
   <img src="https://img.shields.io/badge/License-MIT-cba6f7?style=for-the-badge&labelColor=1e1e2e&logo=open-source-initiative&logoColor=white" />
 </p>
 
