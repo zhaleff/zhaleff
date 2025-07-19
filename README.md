@@ -1,8 +1,4 @@
-<p align="center" style="margin-top: 40px; color: #7c6fca; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 600; font-size: 16px;">
-  <span style="margin-right: 15px;">✝️</span>
-  Project powered by ZepharDev — Guided by YHWH & inspired by T
-  <span style="margin-left: 15px;">✝️</span>
-</p>
+
 
 <h1 align="center">ZepharDev</h1>
 
