@@ -29,6 +29,20 @@
 
 <h1 align="center">Tech Stack</h1>
 
+<p align="center" style="margin: 0; padding: 0;">
+  <img src="https://img.shields.io/badge/Hyprland-WM-cba6f7?style=for-the-badge&logo=hyprland&logoColor=white&labelColor=1e1e2e" style="margin: 4px;" />
+  <img src="https://img.shields.io/badge/Arch_Linux-Base-89b4fa?style=for-the-badge&logo=arch-linux&logoColor=white&labelColor=1e1e2e" style="margin: 4px;" />
+  <img src="https://img.shields.io/badge/Bash-Scripts-f5c2e7?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=1e1e2e" style="margin: 4px;" />
+  <img src="https://img.shields.io/badge/C-Core-eba0ac?style=for-the-badge&logo=c&logoColor=white&labelColor=1e1e2e" style="margin: 4px;" />
+  <img src="https://img.shields.io/badge/C%2B%2B-Performance-f9e2af?style=for-the-badge&logo=linux&logoColor=white&labelColor=1e1e2e" style="margin: 4px;" />
+  <img src="https://img.shields.io/badge/Java-Logic-cba6f7?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=1e1e2e" style="margin: 4px;" />
+  <img src="https://img.shields.io/badge/JSONC-Config-89b4fa?style=for-the-badge&logo=json&logoColor=white&labelColor=1e1e2e" style="margin: 4px;" />
+  <img src="https://img.shields.io/badge/CSS-UI%20Tweak-f5c2e7?style=for-the-badge&logo=css3&logoColor=white&labelColor=1e1e2e" style="margin: 4px;" />
+</p>
+
+
+<h1 align="center">Tech Stack</h1>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Hyprland-WM-89b4fa?style=for-the-badge&logo=hyprland&logoColor=white&labelColor=1e1e2e" />
   <img src="https://img.shields.io/badge/Arch_Linux-Base-8bd5fa?style=for-the-badge&logo=arch-linux&logoColor=white&labelColor=1e1e2e" />
