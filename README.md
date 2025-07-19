@@ -45,6 +45,30 @@
   <sub>Minimal tools, maximum control.</sub>
 </p>
 
+<h1 align="center" style="color:#cba6f7;">Tech Stack</h1>
+
+<div align="center">
+  <a href="https://www.archlinux.org/packages/community/x86_64/bash/" target="_blank" style="margin:0 8px;">
+    <img src="https://img.shields.io/badge/Bash-89b4fa?style=for-the-badge&labelColor=1e1e2e&logo=gnu-bash&logoColor=white" alt="Bash">
+  </a>
+  <a href="https://www.openjdk.org/" target="_blank" style="margin:0 8px;">
+    <img src="https://img.shields.io/badge/Java-cba6f7?style=for-the-badge&labelColor=1e1e2e&logo=openjdk&logoColor=white" alt="Java">
+  </a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" style="margin:0 8px;">
+    <img src="https://img.shields.io/badge/C-f5c2e7?style=for-the-badge&labelColor=1e1e2e&logo=c&logoColor=white" alt="C">
+  </a>
+  <a href="https://isocpp.org/" target="_blank" style="margin:0 8px;">
+    <img src="https://img.shields.io/badge/C%2B%2B-f28fad?style=for-the-badge&labelColor=1e1e2e&logo=c%2B%2B&logoColor=white" alt="C++">
+  </a>
+  <a href="https://www.json.org/jsonc.html" target="_blank" style="margin:0 8px;">
+    <img src="https://img.shields.io/badge/JSONC-94e2d5?style=for-the-badge&labelColor=1e1e2e&logo=json&logoColor=white" alt="JSONC">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" style="margin:0 8px;">
+    <img src="https://img.shields.io/badge/CSS-74c7ec?style=for-the-badge&labelColor=1e1e2e&logo=css3&logoColor=white" alt="CSS">
+  </a>
+</div>
+```0
+
 <h1 align="center">ZepharDev 🗝️</h1>
 
 <p align="center">
