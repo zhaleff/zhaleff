@@ -1,3 +1,29 @@
+<h1 align="center" style="color:#a48aff;">ZepharDev</h1>
+
+<p align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color:#d6caff; font-weight:600;">
+  Cybersecurity · OSINT · Philosophy · Programming
+</p>
+
+<p align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color:#9183c3; font-style: italic;">
+  Designing clean, minimal, and coherent environments. Thinking before writing.
+</p>
+
+<p align="center" style="margin-top: 25px;">
+  <a href="https://github.com/ZepharDev" style="text-decoration:none; margin: 0 12px;">
+    <img src="https://img.shields.io/github/stars/ZepharDev?color=a48aff&style=for-the-badge&label=GitHub%20Stars&labelColor=1e1e2e&logo=github&logoColor=white" alt="GitHub Stars" />
+  </a>
+  <a href="https://github.com/ZepharDev?tab=repositories" style="text-decoration:none; margin: 0 12px;">
+    <img src="https://img.shields.io/github/repo-size/ZepharDev?color=7b66d2&style=for-the-badge&label=Repo%20Size&labelColor=1e1e2e&logo=github&logoColor=white" alt="Repo Size" />
+  </a>
+  <a href="https://github.com/ZepharDev" style="text-decoration:none; margin: 0 12px;">
+    <img src="https://img.shields.io/github/followers/ZepharDev?color=6f57bb&style=for-the-badge&label=Followers&labelColor=1e1e2e&logo=github&logoColor=white" alt="Followers" />
+  </a>
+</p>
+
+<p align="center" style="margin-top: 30px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color:#7c6fca; font-weight:500;">
+  Connect with me, stay minimal, stay effective.
+</p>
+
 <h1 align="center">ZepharDev</h1>
 
 
