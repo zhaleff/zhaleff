@@ -30,11 +30,9 @@
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
-  <!-- Sistemas Operativos -->
   <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" alt="archlinux" />
   <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" />
 
-  <!-- Lenguajes -->
   <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" />
   <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" />
   <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" />
@@ -42,13 +40,10 @@
   <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" alt="json" />
   <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" />
 
-  <!-- Herramientas -->
-  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" alt="neovim" />
-  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" />
-  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/alacritty/alacritty-original.svg" alt="alacritty" />
+  <img height="48" src="https://cdn.simpleicons.org/neovim/57a143" alt="neovim" />
+  <img height="48" src="https://cdn.simpleicons.org/git/F05032" alt="git" />
 
 </div>
-
 <p align="center">
   <b>Precision over clutter. Clarity over noise.</b><br>
   <sub>Minimal tools, maximum control.</sub>
