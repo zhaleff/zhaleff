@@ -6,22 +6,22 @@
   <sub>Designing clean and coherent environments. Thinking before writing.</sub>
 </p>
 
-<h1>Socials</h1>
+<h1 align="center">Socials</h1>
 
 <details>
-  <summary><strong>Redes disponibles</strong></summary>
+  <summary><strong>Available Links</strong></summary>
 
-  <div align="center">
+  <div align="center" style="margin-top: 12px;">
     <a href="https://www.instagram.com/zephardev" target="_blank">
-      <img height="36" src="https://raw.githubusercontent.com/skydoves/icons/main/svg/instagram.svg" alt="Instagram" />
+      <img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/instagram.svg" alt="Instagram" />
     </a>
     &nbsp;&nbsp;&nbsp;
     <a href="https://www.reddit.com/user/zephardev" target="_blank">
-      <img height="36" src="https://raw.githubusercontent.com/skydoves/icons/main/svg/reddit.svg" alt="Reddit" />
+      <img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/reddit.svg" alt="Reddit" />
     </a>
     &nbsp;&nbsp;&nbsp;
     <a href="mailto:zephardev@gmail.com">
-      <img height="36" src="https://raw.githubusercontent.com/skydoves/icons/main/svg/gmail.svg" alt="Gmail" />
+      <img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/gmail.svg" alt="Gmail" />
     </a>
   </div>
 
