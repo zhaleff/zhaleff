@@ -26,7 +26,7 @@
   </a>
 </p>
 
-<h1 align="center">Tech Stack</h1>
+<h1 align="center">Tech Stack 🍁</h1>
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
@@ -49,10 +49,10 @@
   <sub>Minimal tools, maximum control.</sub>
 </p>
 
-<h1>📈 GitHub Activity</h1>
+<h1>GitHub Activity 🌪️ </h1>
 
 <details>
-  <summary><strong>📦 General Stats</strong></summary>
+  <summary><strong>🍂 General Stats</strong></summary>
 
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=zephardev&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&theme=tokyonight&icon_color=7dcfff" alt="GitHub Stats"/>
@@ -60,20 +60,14 @@
 </details>
 
 <details>
-  <summary><strong>📌 Top Languages</strong></summary>
+  <summary><strong>🦅 Top Languages</strong></summary>
 
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zephardev&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&hide=html,scss" alt="Top Langs"/>
   </p>
 </details>
 
-<details>
-  <summary><strong>🔥 Contribution Streak</strong></summary>
 
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=zephardev&hide_border=true&theme=tokyonight" alt="GitHub Streak"/>
-  </p>
-</details>
 
 <h1 align="center">ZepharDev 🗝️</h1>
 
