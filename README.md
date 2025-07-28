@@ -28,33 +28,24 @@
 
 <h1 align="center">Tech Stack</h1>
 
-<div align="center" style="display: flex; justify-content: center; gap: 18px; flex-wrap: wrap;">
-
-  <!-- Lenguajes -->
-  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" />
-  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" />
-  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="c++" />
-  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" />
-  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" alt="json" />
-  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" />
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
   <!-- Sistemas Operativos -->
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" alt="archlinux" />
   <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" />
-  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" alt="arch" />
 
-  <!-- Terminal y Editor -->
-  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/alacritty/alacritty-original.svg" alt="alacritty" />
+  <!-- Lenguajes -->
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" />
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" />
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" />
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" />
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" alt="json" />
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" />
+
+  <!-- Herramientas -->
   <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" alt="neovim" />
-
-  <!-- Hacking / OSINT -->
-  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kali/kali-original.svg" alt="kali" />
-  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/metasploit/metasploit-original.svg" alt="metasploit" />
-
-  <!-- Personalización de entorno -->
-  <img height="48" src="https://raw.githubusercontent.com/ZepharDev/assets/main/icons/hyprland.svg" alt="hyprland" />
-  <img height="48" src="https://raw.githubusercontent.com/ZepharDev/assets/main/icons/hyprlock.svg" alt="hyprlock" />
-  <img height="48" src="https://raw.githubusercontent.com/ZepharDev/assets/main/icons/hypridle.svg" alt="hypridle" />
-  <img height="48" src="https://raw.githubusercontent.com/ZepharDev/assets/main/icons/clipse.svg" alt="clipse" />
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" />
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/alacritty/alacritty-original.svg" alt="alacritty" />
 
 </div>
 
