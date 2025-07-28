@@ -1,5 +1,3 @@
-
-
 <h1 align="center">ZepharDev</h1>
 
 
@@ -17,27 +15,24 @@
   <summary><strong>📡 Click to expand</strong></summary>
 
   <div align="center" style="margin-top: 10px;">
-    
-    <a href="https://www.instagram.com/zephardev" target="_blank">
-      <img src="https://cdn.simpleicons.org/instagram/E4405F/ffffff" width="40" alt="Instagram"/>
+
+    <a href="https://www.instagram.com/zephardev" target="_blank" title="Instagram">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" height="40" alt="Instagram"/>
     </a>
     &nbsp;&nbsp;&nbsp;
-    <a href="https://www.reddit.com/user/zephardev" target="_blank">
-      <img src="https://cdn.simpleicons.org/reddit/FF4500/ffffff" width="40" alt="Reddit"/>
+
+    <a href="https://www.reddit.com/user/zephardev" target="_blank" title="Reddit">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reddit/reddit-original.svg" width="40" height="40" alt="Reddit"/>
     </a>
     &nbsp;&nbsp;&nbsp;
-    <a href="mailto:zephardev@gmail.com">
-      <img src="https://cdn.simpleicons.org/gmail/EA4335/ffffff" width="40" alt="Gmail"/>
+
+    <a href="mailto:zephardev@gmail.com" target="_blank" title="Gmail">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" alt="Gmail"/>
     </a>
 
-  </div>
-
-  <div align="center" style="margin-top: 10px;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&color=7DD3FC&width=380&lines=Let's+connect!;Feel+free+to+reach+out!" alt="Typing SVG" />
   </div>
 
 </details>
-
 <h1 align="center">Tech Stack 🍁</h1>
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
