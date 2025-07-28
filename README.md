@@ -29,6 +29,19 @@
 
 <h1 align="center">Tech Stack</h1>
 
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" />
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" />
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="c++" />
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" />
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" alt="json" />
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" />
+
+</div>
+
+<h1 align="center">Tech Stack</h1>
+
 <p align="center" style="margin: 0; padding: 0;">
   <img src="https://img.shields.io/badge/Hyprland-WM-cba6f7?style=for-the-badge&logo=hyprland&logoColor=white&labelColor=1e1e2e" style="margin: 4px;" />
   <img src="https://img.shields.io/badge/Arch_Linux-Base-eba0ac?style=for-the-badge&logo=arch-linux&logoColor=white&labelColor=1e1e2e" style="margin: 4px;" />
