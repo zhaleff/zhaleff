@@ -1,17 +1,5 @@
 <h1 align="center">ZepharDev</h1>
 
-<p align="center" style="font-size: 18px;">
-  <strong>🗝️ Cybersecurity &nbsp; · &nbsp; OSINT &nbsp; · &nbsp; Philosophy &nbsp; · &nbsp; Programming</strong>
-</p>
-
-<p align="center">
-  <em>Designing clean and coherent environments. Thinking before writing.</em>
-</p>
-
-
-<h1 align="center">ZepharDev</h1>
-
-
 <p align="center">
   <b>🗝️ Cybersecurity  · OSINT · Philosophy  · Programming</b><br>
   <sub>Designing clean and coherent environments. Thinking before writing.</sub>
