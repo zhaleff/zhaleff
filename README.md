@@ -26,11 +26,11 @@
   </a>
 </p>
 
-
 <h1 align="center">Tech Stack</h1>
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
+  <!-- Lenguajes -->
   <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" />
   <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" />
   <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="c++" />
@@ -38,24 +38,25 @@
   <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" alt="json" />
   <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" />
 
+  <!-- Sistema -->
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" />
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" alt="arch" />
+
+  <!-- Terminal -->
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terminal/terminal-original.svg" alt="terminal" />
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" alt="neovim" />
+
+  <!-- Hacking / OSINT -->
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kali/kali-original.svg" alt="kali" />
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/metasploit/metasploit-original.svg" alt="metasploit" />
+  
+  <!-- Personalización -->
+  <img height="48" src="https://raw.githubusercontent.com/ZepharDev/assets/main/icons/hyprland.svg" alt="hyprland" />
+  <img height="48" src="https://raw.githubusercontent.com/ZepharDev/assets/main/icons/rofi.svg" alt="rofi" />
+  <img height="48" src="https://raw.githubusercontent.com/ZepharDev/assets/main/icons/waybar.svg" alt="waybar" />
+  <img height="48" src="https://raw.githubusercontent.com/ZepharDev/assets/main/icons/kitty.svg" alt="kitty" />
+
 </div>
-
-<h1 align="center">Tech Stack</h1>
-
-<p align="center" style="margin: 0; padding: 0;">
-  <img src="https://img.shields.io/badge/Hyprland-WM-cba6f7?style=for-the-badge&logo=hyprland&logoColor=white&labelColor=1e1e2e" style="margin: 4px;" />
-  <img src="https://img.shields.io/badge/Arch_Linux-Base-eba0ac?style=for-the-badge&logo=arch-linux&logoColor=white&labelColor=1e1e2e" style="margin: 4px;" />
-  <img src="https://img.shields.io/badge/Bash-Scripts-f5c2e7?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=1e1e2e" style="margin: 4px;" />
-  <img src="https://img.shields.io/badge/C-Core-eba0ac?style=for-the-badge&logo=c&logoColor=white&labelColor=1e1e2e" style="margin: 4px;" />
-  <img src="https://img.shields.io/badge/C%2B%2B-Performance-f9e2af?style=for-the-badge&logo=linux&logoColor=white&labelColor=1e1e2e" style="margin: 4px;" />
-  <img src="https://img.shields.io/badge/Java-Logic-cba6f7?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=1e1e2e" style="margin: 4px;" />
-  <img src="https://img.shields.io/badge/JSONC-Config-89b4fa?style=for-the-badge&logo=json&logoColor=white&labelColor=1e1e2e" style="margin: 4px;" />
-  <img src="https://img.shields.io/badge/CSS-UI%20Tweak-f5c2e7?style=for-the-badge&logo=css3&logoColor=white&labelColor=1e1e2e" style="margin: 4px;" />
-</p>
-
-
-
-
 <p align="center">
   <b>Precision over clutter. Clarity over noise.</b><br>
   <sub>Minimal tools, maximum control.</sub>
