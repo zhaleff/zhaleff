@@ -14,23 +14,28 @@
 <h1>🌐 Socials</h1>
 
 <details>
-  <summary><strong>📡 Connect with me</strong></summary>
+  <summary><strong>📡 Click to expand</strong></summary>
 
-  <p align="center">
+  <div align="center" style="margin-top: 10px;">
+    
     <a href="https://www.instagram.com/zephardev" target="_blank">
-      <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40"/>
+      <img src="https://cdn.simpleicons.org/instagram/E4405F/ffffff" width="40" alt="Instagram"/>
     </a>
-    &nbsp;
+    &nbsp;&nbsp;&nbsp;
     <a href="https://www.reddit.com/user/zephardev" target="_blank">
-      <img src="https://skillicons.dev/icons?i=reddit" alt="Reddit" height="40"/>
+      <img src="https://cdn.simpleicons.org/reddit/FF4500/ffffff" width="40" alt="Reddit"/>
     </a>
-    &nbsp;
-    <a href="mailto:zephardev@gmail.com" target="_blank">
-      <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40"/>
+    &nbsp;&nbsp;&nbsp;
+    <a href="mailto:zephardev@gmail.com">
+      <img src="https://cdn.simpleicons.org/gmail/EA4335/ffffff" width="40" alt="Gmail"/>
     </a>
-  </p>
 
-  <p align="center"><i>Reach out for collaboration, feedback or just a good chat.</i></p>
+  </div>
+
+  <div align="center" style="margin-top: 10px;">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&color=7DD3FC&width=380&lines=Let's+connect!;Feel+free+to+reach+out!" alt="Typing SVG" />
+  </div>
+
 </details>
 
 <h1 align="center">Tech Stack 🍁</h1>
