@@ -28,7 +28,7 @@
 
 <h1 align="center">Tech Stack</h1>
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: center; gap: 18px; flex-wrap: wrap;">
 
   <!-- Lenguajes -->
   <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" />
@@ -38,25 +38,26 @@
   <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" alt="json" />
   <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" />
 
-  <!-- Sistema -->
+  <!-- Sistemas Operativos -->
   <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" />
   <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" alt="arch" />
 
-  <!-- Terminal -->
-  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terminal/terminal-original.svg" alt="terminal" />
+  <!-- Terminal y Editor -->
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/alacritty/alacritty-original.svg" alt="alacritty" />
   <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" alt="neovim" />
 
   <!-- Hacking / OSINT -->
   <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kali/kali-original.svg" alt="kali" />
   <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/metasploit/metasploit-original.svg" alt="metasploit" />
-  
-  <!-- Personalización -->
+
+  <!-- Personalización de entorno -->
   <img height="48" src="https://raw.githubusercontent.com/ZepharDev/assets/main/icons/hyprland.svg" alt="hyprland" />
-  <img height="48" src="https://raw.githubusercontent.com/ZepharDev/assets/main/icons/rofi.svg" alt="rofi" />
-  <img height="48" src="https://raw.githubusercontent.com/ZepharDev/assets/main/icons/waybar.svg" alt="waybar" />
-  <img height="48" src="https://raw.githubusercontent.com/ZepharDev/assets/main/icons/kitty.svg" alt="kitty" />
+  <img height="48" src="https://raw.githubusercontent.com/ZepharDev/assets/main/icons/hyprlock.svg" alt="hyprlock" />
+  <img height="48" src="https://raw.githubusercontent.com/ZepharDev/assets/main/icons/hypridle.svg" alt="hypridle" />
+  <img height="48" src="https://raw.githubusercontent.com/ZepharDev/assets/main/icons/clipse.svg" alt="clipse" />
 
 </div>
+
 <p align="center">
   <b>Precision over clutter. Clarity over noise.</b><br>
   <sub>Minimal tools, maximum control.</sub>
