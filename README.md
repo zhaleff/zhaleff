@@ -11,20 +11,27 @@
 <p align="center">
   <img src="https://img.shields.io/badge/License-GNU%20GPLv3-cba6f7?style=for-the-badge&labelColor=1e1e2e&logo=gnu&logoColor=white" />
 </p>
+<h1>🌐 Socials</h1>
 
-<h1 align="center">Socials & Contact</h1>
+<details>
+  <summary><strong>📡 Connect with me</strong></summary>
 
-<p align="center">
-  <a href="https://www.instagram.com/zephartw" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-zephartw-eba0ac?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1e1e2e" />
-  </a>
-  <a href="https://www.reddit.com/u/Zephar_WO" target="_blank">
-    <img src="https://img.shields.io/badge/Reddit-Zephar_WO-f9e2af?style=for-the-badge&logo=reddit&logoColor=white&labelColor=1e1e2e" />
-  </a>
-  <a href="mailto:zephartw@gmail.com">
-    <img src="https://img.shields.io/badge/Email-zephartw@gmail.com-cba6f7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1e2e" />
-  </a>
-</p>
+  <p align="center">
+    <a href="https://www.instagram.com/zephardev" target="_blank">
+      <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40"/>
+    </a>
+    &nbsp;
+    <a href="https://www.reddit.com/user/zephardev" target="_blank">
+      <img src="https://skillicons.dev/icons?i=reddit" alt="Reddit" height="40"/>
+    </a>
+    &nbsp;
+    <a href="mailto:zephardev@gmail.com" target="_blank">
+      <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40"/>
+    </a>
+  </p>
+
+  <p align="center"><i>Reach out for collaboration, feedback or just a good chat.</i></p>
+</details>
 
 <h1 align="center">Tech Stack 🍁</h1>
 
