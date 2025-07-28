@@ -6,25 +6,22 @@
   <sub>Designing clean and coherent environments. Thinking before writing.</sub>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/License-GNU%20GPLv3-cba6f7?style=for-the-badge&labelColor=1e1e2e&logo=gnu&logoColor=white" />
-</p>
-<h1>🌐 Socials</h1>
+<h1>Socials</h1>
 
 <details>
-  <summary><strong>📡 Click to expand</strong></summary>
+  <summary><strong>Redes disponibles</strong></summary>
 
   <div align="center">
     <a href="https://www.instagram.com/zephardev" target="_blank">
-      <img height="40" src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" />
+      <img height="36" src="https://raw.githubusercontent.com/skydoves/icons/main/svg/instagram.svg" alt="Instagram" />
     </a>
     &nbsp;&nbsp;&nbsp;
     <a href="https://www.reddit.com/user/zephardev" target="_blank">
-      <img height="40" src="https://cdn.simpleicons.org/reddit/FF4500" alt="Reddit" />
+      <img height="36" src="https://raw.githubusercontent.com/skydoves/icons/main/svg/reddit.svg" alt="Reddit" />
     </a>
     &nbsp;&nbsp;&nbsp;
     <a href="mailto:zephardev@gmail.com">
-      <img height="40" src="https://cdn.simpleicons.org/gmail/D14836" alt="Gmail" />
+      <img height="36" src="https://raw.githubusercontent.com/skydoves/icons/main/svg/gmail.svg" alt="Gmail" />
     </a>
   </div>
 
