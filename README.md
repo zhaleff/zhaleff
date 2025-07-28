@@ -5,17 +5,17 @@
   <sub>Designing clean and coherent environments. Thinking before writing.</sub>
 </p>
 
-<h1 align="center">ZepharDev</h1>
+<h1 align="center">Contact</h1>
 
 <p align="center">
   <b>
-    <img src="https://img.shields.io/badge/Cybersecurity-89b4fa?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=1e1e2e" alt="Cybersecurity" />
-    <img src="https://img.shields.io/badge/OSINT-cba6f7?style=for-the-badge&logo=searchengin&logoColor=white&labelColor=1e1e2e" alt="OSINT" />
-    <img src="https://img.shields.io/badge/Philosophy-eba0ac?style=for-the-badge&logo=scribd&logoColor=white&labelColor=1e1e2e" alt="Philosophy" />
-    <img src="https://img.shields.io/badge/Programming-f5c2e7?style=for-the-badge&logo=programming&logoColor=white&labelColor=1e1e2e" alt="Programming" />
+    <img src="https://img.shields.io/badge/Contact-Instagram-cba6f7?style=for-the-badge&logo=instagram&logoColor=#cdd6f4&labelColor=#1e1e2e" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Contact-Reddit-89b4fa?style=for-the-badge&logo=reddit&logoColor=#cdd6f4&labelColor=#1e1e2e" alt="Reddit" />
+    <img src="https://img.shields.io/badge/Contact-Gmail-eba0ac?style=for-the-badge&logo=gmail&logoColor=#cdd6f4&labelColor=#1e1e2e" alt="Gmail" />
   </b><br>
-  <sub style="color:#9399b2">Designing clean and coherent environments. Thinking before writing.</sub>
+  <sub style="color:#9399b2">Connect with me on socials. Open to chat and collaborations.</sub>
 </p>
+
 <h1 align="center">Tech Stack 🍁</h1>
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
