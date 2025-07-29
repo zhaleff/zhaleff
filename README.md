@@ -7,15 +7,15 @@
 
 <details>
   <summary><strong>Contact</strong></summary>
-  <p align="center">
-    <a href="https://www.instagram.com/zephardev" target="_blank" title="Instagram">
-      <img src="https://cdn.simpleicons.org/instagram/cba6f7/cba6f7" height="32" alt="Instagram" />
-    </a>&nbsp;&nbsp;
-    <a href="https://www.reddit.com/user/zephardev" target="_blank" title="Reddit">
-      <img src="https://cdn.simpleicons.org/reddit/cba6f7/cba6f7" height="32" alt="Reddit" />
-    </a>&nbsp;&nbsp;
-    <a href="mailto:zephardev@gmail.com" title="Gmail">
-      <img src="https://cdn.simpleicons.org/gmail/cba6f7/f5c2e7" height="32" alt="Gmail" />
+  <p align="center" style="padding: 10px; border-radius: 8px;">
+    <a href="https://www.instagram.com/zephardev" target="_blank" title="Instagram" style="margin: 0 15px;">
+      <img src="https://cdn.simpleicons.org/instagram/E4405F" height="32" alt="Instagram" />
+    </a>
+    <a href="https://www.reddit.com/user/zephardev" target="_blank" title="Reddit" style="margin: 0 15px;">
+      <img src="https://cdn.simpleicons.org/reddit/FF4500" height="32" alt="Reddit" />
+    </a>
+    <a href="mailto:zephardev@gmail.com" title="Gmail" style="margin: 0 15px;">
+      <img src="https://cdn.simpleicons.org/gmail/D14836" height="32" alt="Gmail" />
     </a>
   </p>
 </details>
