@@ -9,7 +9,7 @@
   <summary><strong>Contact</strong></summary>
   <p align="center">
     <a href="https://www.instagram.com/zephardev" target="_blank" title="Instagram">
-      <img src="https://cdn.simpleicons.org/instagram/cba6f7/1e1e2e" height="32" alt="Instagram" />
+      <img src="https://cdn.simpleicons.org/instagram/cba6f7/cba6f7" height="32" alt="Instagram" />
     </a>&nbsp;&nbsp;
     <a href="https://www.reddit.com/user/zephardev" target="_blank" title="Reddit">
       <img src="https://cdn.simpleicons.org/reddit/cba6f7/1e1e2e" height="32" alt="Reddit" />
