@@ -6,15 +6,18 @@
 </p>
 
 <details>
-  <summary><b>Contact</b></summary>
-  <table>
-    <tr>
-      <td><a href="https://github.com/zephardev" target="_blank"><img src="https://cdn.simpleicons.org/github/cdd6f4/1e1e2e" height="28" alt="GitHub"/></a></td>
-      <td><a href="https://www.instagram.com/zephar.exe" target="_blank"><img src="https://cdn.simpleicons.org/instagram/cdd6f4/1e1e2e" height="28" alt="Instagram"/></a></td>
-      <td><a href="https://www.reddit.com/user/zephardev" target="_blank"><img src="https://cdn.simpleicons.org/reddit/cdd6f4/1e1e2e" height="28" alt="Reddit"/></a></td>
-      <td><a href="mailto:zephardev@protonmail.com" target="_blank"><img src="https://cdn.simpleicons.org/gmail/cdd6f4/1e1e2e" height="28" alt="Gmail"/></a></td>
-    </tr>
-  </table>
+  <summary><strong>Contact</strong></summary>
+  <p align="center">
+    <a href="https://www.instagram.com/zephardev" target="_blank" title="Instagram">
+      <img src="https://cdn.simpleicons.org/instagram/cdd6f4/1e1e2e" height="32" alt="Instagram" />
+    </a>&nbsp;&nbsp;
+    <a href="https://www.reddit.com/user/zephardev" target="_blank" title="Reddit">
+      <img src="https://cdn.simpleicons.org/reddit/cdd6f4/1e1e2e" height="32" alt="Reddit" />
+    </a>&nbsp;&nbsp;
+    <a href="mailto:zephardev@gmail.com" title="Gmail">
+      <img src="https://cdn.simpleicons.org/gmail/cdd6f4/1e1e2e" height="32" alt="Gmail" />
+    </a>
+  </p>
 </details>
 <h1 align="center">Tech Stack 🍁</h1>
 
