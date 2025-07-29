@@ -5,17 +5,17 @@
   <sub>Designing clean and coherent environments. Thinking before writing.</sub>
 </p>
 
-<h1 align="center">Contact</h1>
-
-<p align="center">
-  <b>
-    <img src="https://img.shields.io/badge/Contact-Instagram-cba6f7?style=for-the-badge&logo=instagram&logoColor=#cdd6f4&labelColor=#1e1e2e" alt="Instagram" />
-    <img src="https://img.shields.io/badge/Contact-Reddit-89b4fa?style=for-the-badge&logo=reddit&logoColor=#cdd6f4&labelColor=#1e1e2e" alt="Reddit" />
-    <img src="https://img.shields.io/badge/Contact-Gmail-eba0ac?style=for-the-badge&logo=gmail&logoColor=#cdd6f4&labelColor=#1e1e2e" alt="Gmail" />
-  </b><br>
-  <sub style="color:#9399b2">Connect with me on socials. Open to chat and collaborations.</sub>
-</p>
-
+<details>
+  <summary><b>Contact</b></summary>
+  <table>
+    <tr>
+      <td><a href="https://github.com/zephardev" target="_blank"><img src="https://cdn.simpleicons.org/github/cdd6f4/1e1e2e" height="28" alt="GitHub"/></a></td>
+      <td><a href="https://www.instagram.com/zephar.exe" target="_blank"><img src="https://cdn.simpleicons.org/instagram/cdd6f4/1e1e2e" height="28" alt="Instagram"/></a></td>
+      <td><a href="https://www.reddit.com/user/zephardev" target="_blank"><img src="https://cdn.simpleicons.org/reddit/cdd6f4/1e1e2e" height="28" alt="Reddit"/></a></td>
+      <td><a href="mailto:zephardev@protonmail.com" target="_blank"><img src="https://cdn.simpleicons.org/gmail/cdd6f4/1e1e2e" height="28" alt="Gmail"/></a></td>
+    </tr>
+  </table>
+</details>
 <h1 align="center">Tech Stack 🍁</h1>
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
