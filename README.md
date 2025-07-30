@@ -74,3 +74,16 @@
   <sub>Christ is my foundation. YHWH is my wisdom.<br>
   Every workflow, every line, every project — under His grace.</sub>
 </p>
+
+<h1 align="center">ZepharDev 🗝️</h1>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40" title="Workflow Optimization (WO)" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="True Work (TW)" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openaccess.svg" width="40" title="Christ is King" />
+</p>
+
+<p align="center">
+  <sub>Christ is my foundation. YHWH is my wisdom.<br>
+  Every workflow, every line, every project — under His grace.</sub>
+</p>
