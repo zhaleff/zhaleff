@@ -53,21 +53,20 @@ Not just tools, but experiences that serve.
 
 <h3 align="center">🛠️ Tech Stack</h3>
 <p align="center">
-  <img src="https://cdn.simpleicons.org/linux/FFFFFF" height="34" alt="Linux" title="Linux" />
-  <img src="https://cdn.simpleicons.org/hyprland/FFFFFF" height="34" alt="Hyprland" title="Hyprland" />
-  <img src="https://cdn.simpleicons.org/hackthebox/9FEF00" height="34" alt="Hack The Box" title="Hack The Box (HTB)" />
-  <img src="https://cdn.simpleicons.org/archlinux/1793D1" height="34" alt="Arch Linux" title="Arch Linux" />
-  <img src="https://cdn.simpleicons.org/wayland/FFFFFF" height="34" alt="Wayland" title="Wayland" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="34" alt="Bash" title="Bash" />
-  <img src="https://cdn.simpleicons.org/css3/264DE4" height="34" alt="CSS" title="CSS" />
-  <img src="https://cdn.simpleicons.org/json/FFFFFF" height="34" alt="JSONC" title="JSONC" />
-  <img src="https://cdn.simpleicons.org/java/007396" height="34" alt="Java" title="Java" />
-  <img src="https://cdn.simpleicons.org/c/659AD2" height="34" alt="C" title="C" />
-  <img src="https://cdn.simpleicons.org/cplusplus/00599C" height="34" alt="C++" title="C++" />
-  <img src="https://cdn.simpleicons.org/neovim/57A143" height="34" alt="Neovim" title="Neovim" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="34" alt="Git" title="Git" />
-  <img src="https://cdn.simpleicons.org/github/FFFFFF" height="34" alt="GitHub" title="GitHub" />
-  <img src="https://cdn.simpleicons.org/kitty/FFFFFF" height="34" alt="Kitty" title="Kitty terminal" />
+  <img src="https://cdn.simpleicons.org/linux/cdd6f4" height="34" alt="Linux" title="Linux" />
+  <img src="https://cdn.simpleicons.org/hyprland/cdd6f4" height="34" alt="Hyprland" title="Hyprland" />
+  <img src="https://cdn.simpleicons.org/hackthebox/cdd6f4" height="34" alt="Hack The Box" title="Hack The Box (HTB)" />
+  <img src="https://cdn.simpleicons.org/archlinux/cdd6f4" height="34" alt="Arch Linux" title="Arch Linux" />
+  <img src="https://cdn.simpleicons.org/wayland/cdd6f4" height="34" alt="Wayland" title="Wayland" />
+  <img src="https://cdn.simpleicons.org/gnubash/cdd6f4" height="34" alt="Bash" title="Bash" />
+  <img src="https://cdn.simpleicons.org/css3/cdd6f4" height="34" alt="CSS" title="CSS" />
+  <img src="https://cdn.simpleicons.org/java/cdd6f4" height="34" alt="Java" title="Java" />
+  <img src="https://cdn.simpleicons.org/c/cdd6f4" height="34" alt="C" title="C" />
+  <img src="https://cdn.simpleicons.org/cplusplus/cdd6f4" height="34" alt="C++" title="C++" />
+  <img src="https://cdn.simpleicons.org/neovim/cdd6f4" height="34" alt="Neovim" title="Neovim" />
+  <img src="https://cdn.simpleicons.org/git/cdd6f4" height="34" alt="Git" title="Git" />
+  <img src="https://cdn.simpleicons.org/github/cdd6f4" height="34" alt="GitHub" title="GitHub" />
+  <img src="https://cdn.simpleicons.org/kitty/cdd6f4" height="34" alt="Kitty" title="Kitty terminal" />
 </p>
 <h1>GitHub Activity 🌪️ </h1>
 
