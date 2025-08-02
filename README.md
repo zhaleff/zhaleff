@@ -1,25 +1,24 @@
 <h1 align="center">ZepharDev</h1>
 
 <p align="center">
-  <strong>🗝️ Cybersecurity · OSINT · Philosophy · Programming</strong><br>
-  <sub>Clean systems. Silent thinking. Meaningful execution.</sub>
+  <strong>Cybersecurity · OSINT · Philosophy · Programming</strong><br>
+  <sub>Faith in Christ. Precision in code. Depth in thought.</sub>
 </p>
 
 <details>
   <summary><strong>Contact</strong></summary>
-  <p align="center" style="margin-top: 10px;">
-    <a href="https://www.instagram.com/zephardev" target="_blank" title="Instagram" style="margin: 0 12px;">
-      <img src="https://cdn.simpleicons.org/instagram/E4405F" height="32" alt="Instagram" />
+  <p align="center" style="margin-top: 12px;">
+    <a href="https://www.instagram.com/zephardev" target="_blank" title="Instagram" style="margin: 0 15px;">
+      <img src="https://api.iconify.design/mdi:instagram.svg?color=%23e4405f" height="30" alt="Instagram" />
     </a>
-    <a href="https://www.reddit.com/user/zephardev" target="_blank" title="Reddit" style="margin: 0 12px;">
-      <img src="https://cdn.simpleicons.org/reddit/FF4500" height="32" alt="Reddit" />
+    <a href="https://www.reddit.com/user/zephardev" target="_blank" title="Reddit" style="margin: 0 15px;">
+      <img src="https://api.iconify.design/mdi:reddit.svg?color=%23ff4500" height="30" alt="Reddit" />
     </a>
-    <a href="mailto:zephardev@gmail.com" title="Email" style="margin: 0 12px;">
-      <img src="https://cdn.simpleicons.org/gmail/D14836" height="32" alt="Gmail" />
+    <a href="mailto:zephardev@gmail.com" title="Email" style="margin: 0 15px;">
+      <img src="https://api.iconify.design/mdi:email-outline.svg?color=%23d14836" height="30" alt="Email" />
     </a>
   </p>
 </details>
-
 <h1 align="center">Tech Stack 🍁</h1>
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
