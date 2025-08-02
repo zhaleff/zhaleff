@@ -1,75 +1,59 @@
-<h1 align="center">ZepharDev</h1>
+<h1 align="center">🗝️ ZepharDev</h1>
 
 <p align="center">
-  🗝️ <strong>Cybersecurity · OSINT · Programming · Philosophy</strong><br>
-  <sub>Simplicity is power. Clarity is resistance.</sub>
-</p>
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/shield.svg" height="26" style="margin: 0 12px;" title="Cybersecurity" />
-  <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/radar.svg" height="26" style="margin: 0 12px;" title="OSINT" />
-  <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/code-2.svg" height="26" style="margin: 0 12px;" title="Programming" />
-  <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/brain-cog.svg" height="26" style="margin: 0 12px;" title="Thought" />
+  <b>Cybersecurity · OSINT · Programming · Philosophy</b><br>
+  <sub>Precision before design. Thought before code. Always with purpose.</sub>
 </p>
 
 ---
 
-<h3 align="center">Toolset & Workflow</h3>
+### 🧭 Approach
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/globe.svg" height="30" /><br>
-      <sub>OSINT</sub><br>
-      <sup>Spiderfoot · Recon-ng · Maigret</sup>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/terminal-square.svg" height="30" /><br>
-      <sub>Code</sub><br>
-      <sup>Neovim · Bash · Python · Rust</sup>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/wifi.svg" height="30" /><br>
-      <sub>Networking</sub><br>
-      <sup>Nmap · Wireshark · Intercept</sup>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/git-branch.svg" height="30" /><br>
-      <sub>Dotfiles</sub><br>
-      <sup>Hyprland · Waybar · Custom</sup>
-    </td>
-  </tr>
-</table>
+I build with purpose — every detail matters.  
+My focus is on simplicity, intention, and clarity.  
+Not just tools, but experiences that serve.
 
 ---
 
-<h3 align="center">Approach</h3>
+### 🧰 Toolset
 
 <p align="center">
-  I build with intention, not impulse.  
-  My environments reflect precision, not perfection.  
-  Clean design, structured systems, and meaningful tools—  
-  that's where I work, and that's where I stay.
+  <a href="https://neovim.io" target="_blank" title="Neovim" style="margin: 0 10px;">
+    <img src="https://cdn.simpleicons.org/neovim/00ff9f" height="40" alt="Neovim" />
+  </a>
+  <a href="https://archlinux.org" target="_blank" title="Arch Linux" style="margin: 0 10px;">
+    <img src="https://cdn.simpleicons.org/archlinux/1793D1" height="40" alt="Arch Linux" />
+  </a>
+  <a href="https://hyprland.org" target="_blank" title="Hyprland" style="margin: 0 10px;">
+    <img src="https://cdn.simpleicons.org/wayland/ffffff" height="40" alt="Hyprland" />
+  </a>
+  <a href="https://github.com" target="_blank" title="GitHub" style="margin: 0 10px;">
+    <img src="https://cdn.simpleicons.org/github/cdd6f4" height="40" alt="GitHub" />
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" title="VSCode" style="margin: 0 10px;">
+    <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="40" alt="VSCode" />
+  </a>
 </p>
 
 ---
 
-<details>
-  <summary><strong>Contact</strong></summary>
-  <p align="center" style="margin-top: 12px;">
-    <a href="https://www.instagram.com/zephardev" title="Instagram" style="margin: 0 15px;">
-      <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/instagram.svg" height="30" alt="Instagram"/>
-    </a>
-    <a href="https://www.reddit.com/user/zephardev" title="Reddit" style="margin: 0 15px;">
-      <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/reddit.svg" height="30" alt="Reddit"/>
-    </a>
-    <a href="mailto:zephardev@gmail.com" title="Email" style="margin: 0 15px;">
-      <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/mail.svg" height="30" alt="Email"/>
-    </a>
-  </p>
-</details>
+### 📬 Contact
 
+<p align="center">
+  <a href="mailto:zephardev@gmail.com" title="Gmail" style="margin: 0 15px;">
+    <img src="https://cdn.simpleicons.org/gmail/D14836" height="32" alt="Gmail" />
+  </a>
+  <a href="https://www.instagram.com/zephardev" target="_blank" title="Instagram" style="margin: 0 15px;">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="32" alt="Instagram" />
+  </a>
+  <a href="https://www.reddit.com/user/zephardev" target="_blank" title="Reddit" style="margin: 0 15px;">
+    <img src="https://cdn.simpleicons.org/reddit/FF4500" height="32" alt="Reddit" />
+  </a>
+</p>
 
+---
+
+<p align="center"><sub>In all things, Christ remains the center.</sub></p>
 <h1 align="center">Tech Stack 🍁</h1>
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
