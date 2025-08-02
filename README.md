@@ -17,24 +17,25 @@ Not just tools, but experiences that serve.
 
 ### 🧰 Toolset
 
-<p align="center">
-  <a href="https://neovim.io" target="_blank" title="Neovim" style="margin: 0 10px;">
-    <img src="https://cdn.simpleicons.org/neovim/00ff9f" height="40" alt="Neovim" />
-  </a>
-  <a href="https://archlinux.org" target="_blank" title="Arch Linux" style="margin: 0 10px;">
-    <img src="https://cdn.simpleicons.org/archlinux/1793D1" height="40" alt="Arch Linux" />
-  </a>
-  <a href="https://hyprland.org" target="_blank" title="Hyprland" style="margin: 0 10px;">
-    <img src="https://cdn.simpleicons.org/wayland/ffffff" height="40" alt="Hyprland" />
-  </a>
-  <a href="https://github.com" target="_blank" title="GitHub" style="margin: 0 10px;">
-    <img src="https://cdn.simpleicons.org/github/cdd6f4" height="40" alt="GitHub" />
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" title="VSCode" style="margin: 0 10px;">
-    <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="40" alt="VSCode" />
-  </a>
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 25px; max-width: 700px; margin: auto;">
+  <img src="https://cdn.simpleicons.org/neovim/00ff9f" height="40" alt="Neovim" title="Neovim" />
+  <img src="https://cdn.simpleicons.org/archlinux/1793D1" height="40" alt="Arch Linux" title="Arch Linux" />
+  <img src="https://cdn.simpleicons.org/hyprland/cba6f7" height="40" alt="Hyprland" title="Hyprland" />
+  <img src="https://cdn.simpleicons.org/github/f5c2e7" height="40" alt="GitHub" title="GitHub" />
+  <img src="https://cdn.simpleicons.org/git/eba0ac" height="40" alt="Git" title="Git" />
+  <img src="https://cdn.simpleicons.org/linux/cdd6f4" height="40" alt="Linux" title="Linux" />
+  <img src="https://cdn.simpleicons.org/hackthebox/f9e2af" height="40" alt="Hack The Box" title="Hack The Box" />
+  <img src="https://cdn.simpleicons.org/wayland/94e2d5" height="40" alt="Wayland" title="Wayland" />
+  <img src="https://cdn.simpleicons.org/bash/eba0ac" height="40" alt="Bash" title="Bash" />
+  <img src="https://cdn.simpleicons.org/css/cba6f7" height="40" alt="CSS" title="CSS" />
+  <img src="https://cdn.simpleicons.org/java/f5c2e7" height="40" alt="Java" title="Java" />
+  <img src="https://cdn.simpleicons.org/c/eba0ac" height="40" alt="C" title="C" />
+  <img src="https://cdn.simpleicons.org/cplusplus/f5c2e7" height="40" alt="C++" title="C++" />
+  <img src="https://cdn.simpleicons.org/neovim/00ff9f" height="40" alt="Neovim" title="Neovim" />
+  <img src="https://cdn.simpleicons.org/git/f5c2e7" height="40" alt="Git" title="Git" />
+  <img src="https://cdn.simpleicons.org/github/f5c2e7" height="40" alt="GitHub" title="GitHub" />
+  <img src="https://cdn.simpleicons.org/kitty/cba6f7" height="40" alt="Kitty" title="Kitty" />
 </p>
-
 ---
 
 ### 📬 Contact
