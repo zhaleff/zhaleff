@@ -100,17 +100,3 @@ Not just tools, but experiences that serve.
   <sub>Christ is my foundation. YHWH is my wisdom.<br>
   Every workflow, every line, every project — under His grace.</sub>
 </p>
-
-<h1 align="center">ZepharDev 🗝️</h1>
-
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=Hyprcraft&message=Workflow%20Artisan&color=cba6f7&labelColor=1e1e2e&style=for-the-badge" alt="Hyprcraft Badge" />
-  <img src="https://img.shields.io/static/v1?label=OSINT&message=Cyber%20Recon&color=94e2d5&labelColor=1e1e2e&style=for-the-badge" alt="OSINT Badge" />
-  <img src="https://img.shields.io/static/v1?label=ASCII&message=Terminal%20Design&color=89b4fa&labelColor=1e1e2e&style=for-the-badge" alt="ASCII Badge" />
-  <img src="https://img.shields.io/static/v1?label=✝️&message=Christ%20is%20King&color=f5c2e7&labelColor=1e1e2e&style=for-the-badge" alt="Faith Badge" />
-</p>
-
-<p align="center">
-  <sub>Code as worship. Terminal as canvas. Recon with purpose.<br>
-  Under grace, with precision. Always for YHWH.</sub>
-</p>
