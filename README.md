@@ -1,20 +1,20 @@
 <h1 align="center">ZepharDev</h1>
 
 <p align="center">
-  <b>🗝️ Cybersecurity  · OSINT · Philosophy  · Programming</b><br>
-  <sub>Designing clean and coherent environments. Thinking before writing.</sub>
+  <strong>🗝️ Cybersecurity · OSINT · Philosophy · Programming</strong><br>
+  <sub>Clean systems. Silent thinking. Meaningful execution.</sub>
 </p>
 
 <details>
   <summary><strong>Contact</strong></summary>
-  <p align="center" style="padding: 10px; border-radius: 8px;">
-    <a href="https://www.instagram.com/zephardev" target="_blank" title="Instagram" style="margin: 0 15px;">
+  <p align="center" style="margin-top: 10px;">
+    <a href="https://www.instagram.com/zephardev" target="_blank" title="Instagram" style="margin: 0 12px;">
       <img src="https://cdn.simpleicons.org/instagram/E4405F" height="32" alt="Instagram" />
     </a>
-    <a href="https://www.reddit.com/user/zephardev" target="_blank" title="Reddit" style="margin: 0 15px;">
+    <a href="https://www.reddit.com/user/zephardev" target="_blank" title="Reddit" style="margin: 0 12px;">
       <img src="https://cdn.simpleicons.org/reddit/FF4500" height="32" alt="Reddit" />
     </a>
-    <a href="mailto:zephardev@gmail.com" title="Gmail" style="margin: 0 15px;">
+    <a href="mailto:zephardev@gmail.com" title="Email" style="margin: 0 12px;">
       <img src="https://cdn.simpleicons.org/gmail/D14836" height="32" alt="Gmail" />
     </a>
   </p>
