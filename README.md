@@ -1,34 +1,44 @@
 <h1 align="center">ZepharDev</h1>
 
 <p align="center">
-  <strong>⛓️ Faith-led Hacker · 📡 OSINT Specialist · 🛡️ Cybersecurity Analyst · 🧠 Philosophy Seeker · 🧬 Clean Code Dev</strong><br>
-  <sub>Precision over noise. Depth over speed. Christ over all.</sub>
+  🗝️ <strong>Cybersecurity · OSINT · Philosophy · Clean Code</strong><br>
+  <sub>Faith defines my direction. Depth defines my work.</sub>
 </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/terminal.svg" height="24" alt="Terminal" style="margin-right: 8px;" />
-  <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/search.svg" height="24" alt="OSINT" style="margin-right: 8px;" />
-  <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/shield.svg" height="24" alt="Security" style="margin-right: 8px;" />
-  <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/book-open.svg" height="24" alt="Philosophy" style="margin-right: 8px;" />
-  <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/code.svg" height="24" alt="Code" />
+  <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/lock.svg" height="22" style="margin: 0 10px;" title="Cybersecurity" />
+  <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/radar.svg" height="22" style="margin: 0 10px;" title="OSINT" />
+  <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/book-open.svg" height="22" style="margin: 0 10px;" title="Philosophy" />
+  <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/terminal.svg" height="22" style="margin: 0 10px;" title="Coding" />
 </p>
 
 ---
+
+<h3 align="center">Toolset</h3>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/globe.svg" height="20" style="margin: 0 10px;" title="Recon-ng / Spiderfoot / OSINT Framework" />
+  <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/shield-check.svg" height="20" style="margin: 0 10px;" title="Burp Suite / Nmap / Wireshark" />
+  <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/github.svg" height="20" style="margin: 0 10px;" title="Git · GitHub · Dotfiles" />
+  <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/code.svg" height="20" style="margin: 0 10px;" title="Neovim · Bash · Python · Rust" />
+</p>
 
 <details>
   <summary><strong>Contact</strong></summary>
   <p align="center" style="margin-top: 12px;">
     <a href="https://www.instagram.com/zephardev" title="Instagram" style="margin: 0 15px;">
-      <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/instagram.svg" height="32" alt="Instagram"/>
+      <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/instagram.svg" height="28" alt="Instagram"/>
     </a>
     <a href="https://www.reddit.com/user/zephardev" title="Reddit" style="margin: 0 15px;">
-      <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/reddit.svg" height="32" alt="Reddit"/>
+      <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/reddit.svg" height="28" alt="Reddit"/>
     </a>
     <a href="mailto:zephardev@gmail.com" title="Email" style="margin: 0 15px;">
-      <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/mail.svg" height="32" alt="Email"/>
+      <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/mail.svg" height="28" alt="Email"/>
     </a>
   </p>
 </details>
+
+
 <h1 align="center">Tech Stack 🍁</h1>
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
