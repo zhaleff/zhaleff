@@ -53,23 +53,22 @@ Not just tools, but experiences that serve.
 
 <h3 align="center">🛠️ Tech Stack</h3>
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/linux.svg" height="36" alt="Linux" title="Linux" />
-  <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/terminal.svg" height="36" alt="Hyprland" title="Hyprland" />
-  <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/shield.svg" height="36" alt="Hack The Box" title="Hack The Box (HTB)" />
-  <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/archlinux.svg" height="36" alt="Arch Linux" title="Arch Linux" />
-  <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/window.svg" height="36" alt="Wayland" title="Wayland" />
-  <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/terminal-square.svg" height="36" alt="Bash" title="Bash shell" />
-  <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/code.svg" height="36" alt="CSS" title="CSS" />
-  <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/package.json.svg" height="36" alt="JSONC" title="JSONC config" />
-  <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/java.svg" height="36" alt="Java" title="Java" />
-  <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/triangle.svg" height="36" alt="C" title="C language" />
-  <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/mountain.svg" height="36" alt="C++" title="C++" />
-  <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/edit-2.svg" height="36" alt="Neovim" title="Neovim editor" />
-  <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/git-branch.svg" height="36" alt="Git" title="Git version control" />
-  <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/github.svg" height="36" alt="GitHub" title="GitHub platform" />
-  <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/terminal.svg" height="36" alt="Kitty" title="Kitty terminal" />
+  <img src="https://cdn.simpleicons.org/linux/FFFFFF" height="34" alt="Linux" title="Linux" />
+  <img src="https://cdn.simpleicons.org/hyprland/FFFFFF" height="34" alt="Hyprland" title="Hyprland" />
+  <img src="https://cdn.simpleicons.org/hackthebox/9FEF00" height="34" alt="Hack The Box" title="Hack The Box (HTB)" />
+  <img src="https://cdn.simpleicons.org/archlinux/1793D1" height="34" alt="Arch Linux" title="Arch Linux" />
+  <img src="https://cdn.simpleicons.org/wayland/FFFFFF" height="34" alt="Wayland" title="Wayland" />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="34" alt="Bash" title="Bash" />
+  <img src="https://cdn.simpleicons.org/css3/264DE4" height="34" alt="CSS" title="CSS" />
+  <img src="https://cdn.simpleicons.org/json/FFFFFF" height="34" alt="JSONC" title="JSONC" />
+  <img src="https://cdn.simpleicons.org/java/007396" height="34" alt="Java" title="Java" />
+  <img src="https://cdn.simpleicons.org/c/659AD2" height="34" alt="C" title="C" />
+  <img src="https://cdn.simpleicons.org/cplusplus/00599C" height="34" alt="C++" title="C++" />
+  <img src="https://cdn.simpleicons.org/neovim/57A143" height="34" alt="Neovim" title="Neovim" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="34" alt="Git" title="Git" />
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" height="34" alt="GitHub" title="GitHub" />
+  <img src="https://cdn.simpleicons.org/kitty/FFFFFF" height="34" alt="Kitty" title="Kitty terminal" />
 </p>
-```0
 <h1>GitHub Activity 🌪️ </h1>
 
 <details>
