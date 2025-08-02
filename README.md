@@ -1,8 +1,8 @@
 <h1 align="center">🗝️ ZepharDev</h1>
 
 <p align="center">
-  <b>Cybersecurity · OSINT · Programming · Philosophy</b><br>
-  <sub>Precision before design. Thought before code. Always with purpose.</sub>
+  <b>Cybersecurity · Hacking · Programming · Philosophy</b><br>
+  <sub>Development of minimalist and clean software, ensuring the privacy of each user..</sub>
 </p>
 
 ---
@@ -34,7 +34,6 @@ Not just tools, but experiences that serve.
   <img src="https://cdn.simpleicons.org/neovim/00ff9f" height="40" alt="Neovim" title="Neovim" />
   <img src="https://cdn.simpleicons.org/git/f5c2e7" height="40" alt="Git" title="Git" />
   <img src="https://cdn.simpleicons.org/github/f5c2e7" height="40" alt="GitHub" title="GitHub" />
-  <img src="https://cdn.simpleicons.org/kitty/cba6f7" height="40" alt="Kitty" title="Kitty" />
 </p>
 ---
 
@@ -49,60 +48,6 @@ Not just tools, but experiences that serve.
   </a>
   <a href="https://www.reddit.com/user/zephardev" target="_blank" title="Reddit" style="margin: 0 15px;">
     <img src="https://cdn.simpleicons.org/reddit/FF4500" height="32" alt="Reddit" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://neovim.io" target="_blank" title="Neovim" style="margin: 0 10px;">
-    <img src="https://cdn.simpleicons.org/neovim/00ff9f" height="40" alt="Neovim" />
-  </a>
-  <a href="https://archlinux.org" target="_blank" title="Arch Linux" style="margin: 0 10px;">
-    <img src="https://cdn.simpleicons.org/archlinux/1793D1" height="40" alt="Arch Linux" />
-  </a>
-  <a href="https://hyprland.org" target="_blank" title="Hyprland" style="margin: 0 10px;">
-    <img src="https://cdn.simpleicons.org/hyprland/cba6f7" height="40" alt="Hyprland" />
-  </a>
-  <a href="https://github.com" target="_blank" title="GitHub" style="margin: 0 10px;">
-    <img src="https://cdn.simpleicons.org/github/f5c2e7" height="40" alt="GitHub" />
-  </a>
-  <a href="https://git-scm.com" target="_blank" title="Git" style="margin: 0 10px;">
-    <img src="https://cdn.simpleicons.org/git/eba0ac" height="40" alt="Git" />
-  </a>
-  <a href="https://www.archlinux.org" target="_blank" title="Linux" style="margin: 0 10px;">
-    <img src="https://cdn.simpleicons.org/linux/cdd6f4" height="40" alt="Linux" />
-  </a>
-  <a href="https://www.hackthebox.com" target="_blank" title="Hack The Box" style="margin: 0 10px;">
-    <img src="https://cdn.simpleicons.org/hackthebox/f9e2af" height="40" alt="Hack The Box" />
-  </a>
-  <a href="https://wayland.freedesktop.org" target="_blank" title="Wayland" style="margin: 0 10px;">
-    <img src="https://cdn.simpleicons.org/wayland/94e2d5" height="40" alt="Wayland" />
-  </a>
-  <a href="https://www.gnu.org/software/bash" target="_blank" title="Bash" style="margin: 0 10px;">
-    <img src="https://cdn.simpleicons.org/gnu/eba0ac" height="40" alt="Bash" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" title="CSS" style="margin: 0 10px;">
-    <img src="https://cdn.simpleicons.org/w3c-css/cba6f7" height="40" alt="CSS" />
-  </a>
-  <a href="https://openjdk.org" target="_blank" title="Java" style="margin: 0 10px;">
-    <img src="https://cdn.simpleicons.org/openjdk/f5c2e7" height="40" alt="Java" />
-  </a>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" title="C" style="margin: 0 10px;">
-    <img src="https://cdn.simpleicons.org/c/f5c2e7" height="40" alt="C" />
-  </a>
-  <a href="https://isocpp.org" target="_blank" title="C++" style="margin: 0 10px;">
-    <img src="https://cdn.simpleicons.org/cplusplus/cba6f7" height="40" alt="C++" />
-  </a>
-  <a href="https://neovim.io" target="_blank" title="Neovim" style="margin: 0 10px;">
-    <img src="https://cdn.simpleicons.org/neovim/00ff9f" height="40" alt="Neovim" />
-  </a>
-  <a href="https://git-scm.com" target="_blank" title="Git" style="margin: 0 10px;">
-    <img src="https://cdn.simpleicons.org/git/eba0ac" height="40" alt="Git" />
-  </a>
-  <a href="https://github.com" target="_blank" title="GitHub" style="margin: 0 10px;">
-    <img src="https://cdn.simpleicons.org/github/f5c2e7" height="40" alt="GitHub" />
-  </a>
-  <a href="https://sw.kovidgoyal.net/kitty" target="_blank" title="Kitty" style="margin: 0 10px;">
-    <img src="https://cdn.simpleicons.org/kitty/cba6f7" height="40" alt="Kitty" />
   </a>
 </p>
 
