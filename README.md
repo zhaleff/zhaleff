@@ -1,21 +1,31 @@
 <h1 align="center">ZepharDev</h1>
 
 <p align="center">
-  <strong>Cybersecurity · OSINT · Philosophy · Programming</strong><br>
-  <sub>Faith in Christ. Precision in code. Depth in thought.</sub>
+  <strong>⛓️ Faith-led Hacker · 📡 OSINT Specialist · 🛡️ Cybersecurity Analyst · 🧠 Philosophy Seeker · 🧬 Clean Code Dev</strong><br>
+  <sub>Precision over noise. Depth over speed. Christ over all.</sub>
 </p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/terminal.svg" height="24" alt="Terminal" style="margin-right: 8px;" />
+  <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/search.svg" height="24" alt="OSINT" style="margin-right: 8px;" />
+  <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/shield.svg" height="24" alt="Security" style="margin-right: 8px;" />
+  <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/book-open.svg" height="24" alt="Philosophy" style="margin-right: 8px;" />
+  <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/code.svg" height="24" alt="Code" />
+</p>
+
+---
 
 <details>
   <summary><strong>Contact</strong></summary>
   <p align="center" style="margin-top: 12px;">
-    <a href="https://www.instagram.com/zephardev" target="_blank" title="Instagram" style="margin: 0 15px;">
-      <img src="https://api.iconify.design/mdi:instagram.svg?color=%23e4405f" height="30" alt="Instagram" />
+    <a href="https://www.instagram.com/zephardev" title="Instagram" style="margin: 0 15px;">
+      <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/instagram.svg" height="32" alt="Instagram"/>
     </a>
-    <a href="https://www.reddit.com/user/zephardev" target="_blank" title="Reddit" style="margin: 0 15px;">
-      <img src="https://api.iconify.design/mdi:reddit.svg?color=%23ff4500" height="30" alt="Reddit" />
+    <a href="https://www.reddit.com/user/zephardev" title="Reddit" style="margin: 0 15px;">
+      <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/reddit.svg" height="32" alt="Reddit"/>
     </a>
     <a href="mailto:zephardev@gmail.com" title="Email" style="margin: 0 15px;">
-      <img src="https://api.iconify.design/mdi:email-outline.svg?color=%23d14836" height="30" alt="Email" />
+      <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/mail.svg" height="32" alt="Email"/>
     </a>
   </p>
 </details>
