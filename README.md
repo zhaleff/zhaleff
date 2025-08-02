@@ -60,7 +60,7 @@ Not just tools, but experiences that serve.
   <img src="https://cdn.simpleicons.org/wayland/cdd6f4" height="34" alt="Wayland" title="Wayland" />
   <img src="https://cdn.simpleicons.org/gnubash/cdd6f4" height="34" alt="Bash" title="Bash" />
   <img src="https://cdn.simpleicons.org/css3/cdd6f4" height="34" alt="CSS" title="CSS" />
-  <img src="https://cdn.simpleicons.org/java/cdd6f4" height="34" alt="Java" title="Java" />
+  <img src="https://cdn.simpleicons.org/openjdk/cdd6f4" height="34" alt="Java" title="Java" />
   <img src="https://cdn.simpleicons.org/c/cdd6f4" height="34" alt="C" title="C" />
   <img src="https://cdn.simpleicons.org/cplusplus/cdd6f4" height="34" alt="C++" title="C++" />
   <img src="https://cdn.simpleicons.org/neovim/cdd6f4" height="34" alt="Neovim" title="Neovim" />
