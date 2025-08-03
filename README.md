@@ -15,27 +15,24 @@ Not just tools, but experiences that serve.
 
 ---
 
-### 🧰 Toolset
+<h3 align="center">🛠️ Tech Stack</h3>
 
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 25px; max-width: 700px; margin: auto;">
-  <img src="https://cdn.simpleicons.org/neovim/00ff9f" height="40" alt="Neovim" title="Neovim" />
-  <img src="https://cdn.simpleicons.org/archlinux/1793D1" height="40" alt="Arch Linux" title="Arch Linux" />
-  <img src="https://cdn.simpleicons.org/hyprland/cba6f7" height="40" alt="Hyprland" title="Hyprland" />
-  <img src="https://cdn.simpleicons.org/github/f5c2e7" height="40" alt="GitHub" title="GitHub" />
-  <img src="https://cdn.simpleicons.org/git/eba0ac" height="40" alt="Git" title="Git" />
-  <img src="https://cdn.simpleicons.org/linux/cdd6f4" height="40" alt="Linux" title="Linux" />
-  <img src="https://cdn.simpleicons.org/hackthebox/f9e2af" height="40" alt="Hack The Box" title="Hack The Box" />
-  <img src="https://cdn.simpleicons.org/wayland/94e2d5" height="40" alt="Wayland" title="Wayland" />
-  <img src="https://cdn.simpleicons.org/bash/eba0ac" height="40" alt="Bash" title="Bash" />
-  <img src="https://cdn.simpleicons.org/css/cba6f7" height="40" alt="CSS" title="CSS" />
-  <img src="https://cdn.simpleicons.org/java/f5c2e7" height="40" alt="Java" title="Java" />
-  <img src="https://cdn.simpleicons.org/c/eba0ac" height="40" alt="C" title="C" />
-  <img src="https://cdn.simpleicons.org/cplusplus/f5c2e7" height="40" alt="C++" title="C++" />
-  <img src="https://cdn.simpleicons.org/neovim/00ff9f" height="40" alt="Neovim" title="Neovim" />
-  <img src="https://cdn.simpleicons.org/git/f5c2e7" height="40" alt="Git" title="Git" />
-  <img src="https://cdn.simpleicons.org/github/f5c2e7" height="40" alt="GitHub" title="GitHub" />
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 24px; max-width: 800px; margin: auto;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/hyprland.svg?color=cba6f7" height="40" alt="Hyprland" title="Hyprland">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linux.svg?color=cdd6f4" height="40" alt="Linux" title="Linux">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/bash.svg?color=eba0ac" height="40" alt="Bash" title="Bash">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/hackthebox.svg?color=a6e3a1" height="40" alt="HackTheBox" title="HackTheBox">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/tryhackme.svg?color=f38ba8" height="40" alt="TryHackMe" title="TryHackMe">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/archlinux.svg?color=89b4fa" height="40" alt="Arch Linux" title="Arch Linux">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/java.svg?color=f5c2e7" height="40" alt="Java" title="Java">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/c.svg?color=eba0ac" height="40" alt="C" title="C">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/cplusplus.svg?color=ebeaff" height="40" alt="C++" title="C++">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/css3.svg?color=cba6f7" height="40" alt="CSS" title="CSS">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg?color=cdd6f4" height="40" alt="GitHub" title="GitHub">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/git.svg?color=eba0ac" height="40" alt="Git" title="Git">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/neovim.svg?color=a6e3a1" height="40" alt="Neovim" title="Neovim">
 </p>
----
+```0
 
 ### 📬 Contact
 
