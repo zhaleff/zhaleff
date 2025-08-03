@@ -13,23 +13,23 @@ I build with purpose — every detail matters.
 My focus is on simplicity, intention, and clarity.  
 Not just tools, but experiences that serve.
 
----
-<h3 align="center">🛠️ Tech Stack</h3>
-
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; max-width: 900px; margin: auto;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/hyprland.svg" height="52" alt="Hyprland" title="Hyprland" style="fill:#cba6f7;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linux.svg" height="52" alt="Linux" title="Linux" style="fill:#cdd6f4;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gnubash.svg" height="52" alt="Bash" title="Bash" style="fill:#eba0ac;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/hackthebox.svg" height="52" alt="HackTheBox" title="HackTheBox" style="fill:#a6e3a1;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/tryhackme.svg" height="52" alt="TryHackMe" title="TryHackMe" style="fill:#f38ba8;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/archlinux.svg" height="52" alt="Arch Linux" title="Arch Linux" style="fill:#89b4fa;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/java.svg" height="52" alt="Java" title="Java" style="fill:#f5c2e7;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/c.svg" height="52" alt="C" title="C" style="fill:#eba0ac;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/cplusplus.svg" height="52" alt="C++" title="C++" style="fill:#cdd6f4;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/css3.svg" height="52" alt="CSS" title="CSS" style="fill:#cba6f7;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" height="52" alt="GitHub" title="GitHub" style="fill:#cdd6f4;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/git.svg" height="52" alt="Git" title="Git" style="fill:#eba0ac;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/neovim.svg" height="52" alt="Neovim" title="Neovim" style="fill:#a6e3a1;">
+<h1 align="center">Tech Stack</h1>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hyprland/hyprland-original.svg" height="48" alt="Hyprland" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="48" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="48" alt="Bash" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="48" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="48" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="48" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="48" alt="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="48" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" height="48" alt="Neovim" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" height="48" alt="Arch Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" height="48" alt="Wayland" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" height="48" alt="Kitty" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" height="48" alt="HTB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" height="48" alt="TryHackMe" />
 </p>
 
 ### 📬 Contact
