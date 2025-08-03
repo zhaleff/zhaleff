@@ -14,25 +14,23 @@ My focus is on simplicity, intention, and clarity.
 Not just tools, but experiences that serve.
 
 ---
-
 <h3 align="center">🛠️ Tech Stack</h3>
 
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 24px; max-width: 800px; margin: auto;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/hyprland.svg?color=cba6f7" height="40" alt="Hyprland" title="Hyprland">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linux.svg?color=cdd6f4" height="40" alt="Linux" title="Linux">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/bash.svg?color=eba0ac" height="40" alt="Bash" title="Bash">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/hackthebox.svg?color=a6e3a1" height="40" alt="HackTheBox" title="HackTheBox">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/tryhackme.svg?color=f38ba8" height="40" alt="TryHackMe" title="TryHackMe">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/archlinux.svg?color=89b4fa" height="40" alt="Arch Linux" title="Arch Linux">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/java.svg?color=f5c2e7" height="40" alt="Java" title="Java">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/c.svg?color=eba0ac" height="40" alt="C" title="C">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/cplusplus.svg?color=ebeaff" height="40" alt="C++" title="C++">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/css3.svg?color=cba6f7" height="40" alt="CSS" title="CSS">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg?color=cdd6f4" height="40" alt="GitHub" title="GitHub">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/git.svg?color=eba0ac" height="40" alt="Git" title="Git">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/neovim.svg?color=a6e3a1" height="40" alt="Neovim" title="Neovim">
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; max-width: 900px; margin: auto;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/hyprland.svg" height="52" alt="Hyprland" title="Hyprland" style="fill:#cba6f7;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linux.svg" height="52" alt="Linux" title="Linux" style="fill:#cdd6f4;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gnubash.svg" height="52" alt="Bash" title="Bash" style="fill:#eba0ac;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/hackthebox.svg" height="52" alt="HackTheBox" title="HackTheBox" style="fill:#a6e3a1;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/tryhackme.svg" height="52" alt="TryHackMe" title="TryHackMe" style="fill:#f38ba8;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/archlinux.svg" height="52" alt="Arch Linux" title="Arch Linux" style="fill:#89b4fa;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/java.svg" height="52" alt="Java" title="Java" style="fill:#f5c2e7;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/c.svg" height="52" alt="C" title="C" style="fill:#eba0ac;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/cplusplus.svg" height="52" alt="C++" title="C++" style="fill:#cdd6f4;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/css3.svg" height="52" alt="CSS" title="CSS" style="fill:#cba6f7;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" height="52" alt="GitHub" title="GitHub" style="fill:#cdd6f4;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/git.svg" height="52" alt="Git" title="Git" style="fill:#eba0ac;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/neovim.svg" height="52" alt="Neovim" title="Neovim" style="fill:#a6e3a1;">
 </p>
-```0
 
 ### 📬 Contact
 
