@@ -7,7 +7,7 @@
 
 <h1 align="center">Contact</h1>
 
-https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg
+![snake]https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg
 
 
 <h1 align="center">Zephar</h1>
