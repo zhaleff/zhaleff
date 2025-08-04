@@ -12,5 +12,5 @@
 
 <p align="center">
   <sub>Everything is based on YHWH, no one else.<br>
-  Every workflow, every line, every project — under His grace.</sub>
+  Creating coherent, minimalist, and clean workflows, all at YHWH's will .</sub>
 </p>
