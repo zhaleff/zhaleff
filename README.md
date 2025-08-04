@@ -7,11 +7,6 @@
 
 ---
 
-### 🧭 Approach
-
-I build with purpose — every detail matters.  
-My focus is on simplicity, intention, and clarity.  
-Not just tools, but experiences that serve.
 
 <h1 align="center">Tech Stack</h1>
 <p align="center">
@@ -46,23 +41,6 @@ Not just tools, but experiences that serve.
   </a>
 </p>
 
-<h3 align="center">🛠️ Tech Stack</h3>
-<p align="center">
-  <img src="https://cdn.simpleicons.org/linux/cdd6f4" height="34" alt="Linux" title="Linux" />
-  <img src="https://cdn.simpleicons.org/hyprland/cdd6f4" height="34" alt="Hyprland" title="Hyprland" />
-  <img src="https://cdn.simpleicons.org/hackthebox/cdd6f4" height="34" alt="Hack The Box" title="Hack The Box (HTB)" />
-  <img src="https://cdn.simpleicons.org/archlinux/cdd6f4" height="34" alt="Arch Linux" title="Arch Linux" />
-  <img src="https://cdn.simpleicons.org/wayland/cdd6f4" height="34" alt="Wayland" title="Wayland" />
-  <img src="https://cdn.simpleicons.org/gnubash/cdd6f4" height="34" alt="Bash" title="Bash" />
-  <img src="https://cdn.simpleicons.org/css3/cdd6f4" height="34" alt="CSS" title="CSS" />
-  <img src="https://cdn.simpleicons.org/openjdk/cdd6f4" height="34" alt="Java" title="Java" />
-  <img src="https://cdn.simpleicons.org/c/cdd6f4" height="34" alt="C" title="C" />
-  <img src="https://cdn.simpleicons.org/cplusplus/cdd6f4" height="34" alt="C++" title="C++" />
-  <img src="https://cdn.simpleicons.org/neovim/cdd6f4" height="34" alt="Neovim" title="Neovim" />
-  <img src="https://cdn.simpleicons.org/git/cdd6f4" height="34" alt="Git" title="Git" />
-  <img src="https://cdn.simpleicons.org/github/cdd6f4" height="34" alt="GitHub" title="GitHub" />
-  <img src="https://cdn.simpleicons.org/kitty/cdd6f4" height="34" alt="Kitty" title="Kitty terminal" />
-</p>
 <h1>GitHub Activity 🌪️ </h1>
 
 <details>
