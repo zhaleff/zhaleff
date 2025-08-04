@@ -11,6 +11,6 @@
 
 
 <p align="center">
-  <sub>Christ is my foundation. YHWH is my wisdom.<br>
+  <sub>Everything is based on YHWH, no one else.<br>
   Every workflow, every line, every project — under His grace.</sub>
 </p>
