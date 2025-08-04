@@ -5,7 +5,9 @@
   <sub>Development of minimalist and clean software, ensuring the privacy of each user..</sub>
 </p>
 
----
+<h1 align="center">Contact</h1>
+
+
 
 <h1 align="center">Zephar</h1>
 
