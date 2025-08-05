@@ -6,6 +6,8 @@
   <sub>We can achieve everything with YHWH; without Him, everything we achieve is empty </sub>
 </p>
 
+---
+
 <div align="center">
   <a href="https://discord.gg/qAQMh3Wg" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
