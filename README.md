@@ -4,5 +4,5 @@
   <b>Cybersecurity · Hacking · Programming · OSINT · Philosophy</b>
   <br>Hey, I'm Zephar, a self-taught student who programs in his free time.</br>
   <sub>We can achieve everything with YHWH; without Him, everything we achieve is empty </sub>
-  <br>I'm just a person with a lot of free time.<br>
+  <small>I'm just a person with a lot of free time.</small>
 </p>
