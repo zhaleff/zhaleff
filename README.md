@@ -22,8 +22,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/composer/885630" height="60" alt="composer logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/discord/5865F2" height="60" alt="discord logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/neovim/57A143" height="60" alt="neovim logo"  />
