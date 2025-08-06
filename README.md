@@ -8,7 +8,7 @@
 
 <h1 align="center">Contact</h1>
 
-<img height="52"
+<img height="62"
   src="https://raw.githubusercontent.com/zephardev/zephardev/main/assets/52b758159599b33bb5e458325f6b96a1.jpg" alt="discord">
 
 <p align="center"> 
