@@ -10,21 +10,20 @@
 
 
 
-<div align="center">
-  <a href="https://discord.gg/qAQMh3Wg" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="70" alt="discord logo"  />
-  </a>
-  <a href="https://www.youtube.com/@zephartw" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="70" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/zephartw" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="70" alt="instagram logo"  />
-  </a>
-  <a href="mailto:zephartw@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="70" alt="gmail logo"  />
-  </a>
-</div>
+<!-- Reddit -->
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reddit/reddit-original.svg" alt="Reddit" />
 
+<!-- Discord -->
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" alt="Discord" />
+
+<!-- Instagram -->
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" />
+
+<!-- YouTube -->
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" alt="YouTube" />
+
+<!-- Gmail (Google) -->
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" />
 <p align="center"> 
   <sub>This is my contact, although for better communication, it would be best to reach me via email. However, I also respond on Discord and Reddit.</sub>
 </p>
