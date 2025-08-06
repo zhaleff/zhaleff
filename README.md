@@ -9,18 +9,7 @@
 <h1 align="center">Contact</h1>
 
 <img height="62"
-  src="https://raw.githubusercontent.com/zephardev/zephardev/main/assets/52b758159599b33bb5e458325f6b96a1.jpg" alt="discord">
-
-<a href="https://instagram.com/tu_usuario" target="_blank">
-  <img
-    src="https://raw.githubusercontent.com/zephardev/zephardev/main/assets/52b758159599b33bb5e458325f6b96a1.jpg"
-    alt="Instagram"
-    width="45"
-    height="45"
-    style="border-radius: 8px; margin: 0 6px; cursor: pointer;"
-  />
-</a>
-
+  src="https://raw.githubusercontent.com/zephardev/zephardev/main/assets/discord.png" alt="discord">
 
 <p align="center"> 
   <sub>This is my contact, although for better communication, it would be best to reach me via email. However, I also respond on Discord and Reddit.</sub>
