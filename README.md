@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://instagram.com/tu_usuario" target="_blank">
-    <img src="https://raw.githubusercontent.com/zephardev/zephardev/main/assets/instagram.png" width="100" height="120" alt="Instagram"/>
+    <img src="https://raw.githubusercontent.com/zephardev/zephardev/main/assets/instagram.png" width="62" height="82" alt="Instagram"/>
   </a>
   <a href="mailto:tu_correo@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/zephardev/zephardev/main/assets/gmail.png" width="40" alt="Gmail"/>
