@@ -16,7 +16,7 @@
     <img src="https://raw.githubusercontent.com/zephardev/zephardev/main/assets/gmail.png" width="72" height="90"alt="Gmail"/>
   </a>
   <a href="https://youtube.com/@zephartw" target="_blank">
-    <img src="https://raw.githubusercontent.com/zephardev/zephardev/main/assets/youtube.png" width="72" height="90" alt="YouTube"/>
+    <img src="https://raw.githubusercontent.com/zephardev/zephardev/main/assets/youtube.png" width="72" height="96" alt="YouTube"/>
   </a>
   <a href="https://www.reddit.com/u/Zephar_WO/s/nbauF1uP9m" target="_blank">
     <img src="https://raw.githubusercontent.com/zephardev/zephardev/main/assets/reddit.png" width="76" height="90" alt="Reddit"/>
