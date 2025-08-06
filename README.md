@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://instagram.com/zephartw" target="_blank">
-    <img src="https://raw.githubusercontent.com/zephardev/zephardev/main/assets/instagram.png" width="78" height="92" alt="Instagram"/>
+    <img src="https://raw.githubusercontent.com/zephardev/zephardev/main/assets/instagram.png" width="72" height="90" alt="Instagram"/>
   </a>
   <a href="mailto:zephartw@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/zephardev/zephardev/main/assets/gmail.png" width="72" height="90"alt="Gmail"/>
@@ -25,7 +25,7 @@
     <img src="https://raw.githubusercontent.com/zephardev/zephardev/main/assets/spotify.png" width="72" height="90" alt="Discord"/>
   </a>
     <a href="https://pinterest.com/users/" target="_blank">
-    <img src="https://raw.githubusercontent.com/zephardev/zephardev/main/assets/pinterest.png" width="40" alt="Discord"/>
+    <img src="https://raw.githubusercontent.com/zephardev/zephardev/main/assets/pinterest.png" width="72" height="90" alt="Discord"/>
   </a>
 </p>
 <p align="center"> 
