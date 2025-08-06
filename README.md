@@ -6,6 +6,27 @@
   <sub>We can achieve everything with YHWH; without Him, everything we achieve is empty </sub>
 </p>
 
+<h2 align="center">Contact</h2>
+
+<p align="center"> 
+  <sub>This is my contact, although for better communication, it would be best to reach me via email. However, I also respond on Discord and Reddit.</sub>
+</p>
+
+
+<div align="center">
+  <a href="https://discord.gg/qAQMh3Wg" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="70" alt="discord logo"  />
+  </a>
+  <a href="https://www.youtube.com/@zephartw" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="70" alt="youtube logo"  />
+  </a>
+  <a href="https://www.instagram.com/zephartw" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="70" alt="instagram logo"  />
+  </a>
+  <a href="mailto:zephartw@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="70" alt="gmail logo"  />
+  </a>
+</div>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="56" alt="git logo"  />
@@ -27,19 +48,5 @@
 ---
 
 
-<div align="center">
-  <a href="https://discord.gg/qAQMh3Wg" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="70" alt="discord logo"  />
-  </a>
-  <a href="https://www.youtube.com/@zephartw" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="70" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/zephartw" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="70" alt="instagram logo"  />
-  </a>
-  <a href="mailto:zephartw@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="70" alt="gmail logo"  />
-  </a>
-</div>
 
 ###
