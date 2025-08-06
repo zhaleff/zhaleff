@@ -8,12 +8,23 @@
 
 <h1 align="center">Contact</h1>
 
-<div align="center">
-  <a> href="https://www.instagram.com/zephartw" target="_blank">
-    <img src="https://raw.githubusercontent.com/zephardev/zephardev/assets/instagram.png" width="52" height="60" alt="instagram"
+<p align="center">
+  <a href="https://instagram.com/tu_usuario" target="_blank">
+    <img src="https://raw.githubusercontent.com/zephardev/zephardev/main/assets/instagram.png" width="40" alt="Instagram"/>
   </a>
-</div>
-
+  <a href="mailto:tu_correo@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/zephardev/zephardev/main/assets/gmail.png" width="40" alt="Gmail"/>
+  </a>
+  <a href="https://youtube.com/@tu_usuario" target="_blank">
+    <img src="https://raw.githubusercontent.com/zephardev/zephardev/main/assets/youtube.png" width="40" alt="YouTube"/>
+  </a>
+  <a href="https://reddit.com/user/tu_usuario" target="_blank">
+    <img src="https://raw.githubusercontent.com/zephardev/zephardev/main/assets/reddit.png" width="40" alt="Reddit"/>
+  </a>
+  <a href="https://discord.com/users/tu_id" target="_blank">
+    <img src="https://raw.githubusercontent.com/zephardev/zephardev/main/assets/discord.png" width="40" alt="Discord"/>
+  </a>
+</p>
 <p align="center"> 
   <sub>This is my contact, although for better communication, it would be best to reach me via email. However, I also respond on Discord and Reddit.</sub>
 </p>
