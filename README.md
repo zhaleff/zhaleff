@@ -10,7 +10,7 @@
 
 <div align="center">
   <a> href="https://www.instagram.com/zephartw" target="_blank">
-    <img src="https://raw.githubusercontent.com/zephardev/zephardev/assets/instagram.png" width="52" height="60" alt="instagram"/>
+    <img src="https://raw.githubusercontent.com/zephardev/zephardev/assets/instagram.png" width="52" height="60" alt="instagram"
   </a>
 </div>
 
