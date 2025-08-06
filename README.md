@@ -8,8 +8,11 @@
 
 <h1 align="center">Contact</h1>
 
-<img height="62"
-  src="https://raw.githubusercontent.com/zephardev/zephardev/main/assets/discord.png" alt="discord">
+<div align="center">
+  <a href="https://www.instagram.com/zephartw" target="_blank">
+    <img src="https://raw.githubusercontent.com/zephardev/zephardev/assets/instagram.png" width="52" height="60" alt="instagram">
+  </a>
+</div>
 
 <p align="center"> 
   <sub>This is my contact, although for better communication, it would be best to reach me via email. However, I also respond on Discord and Reddit.</sub>
