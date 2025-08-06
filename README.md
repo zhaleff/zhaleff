@@ -10,13 +10,13 @@
 
 <p align="center">
   <a href="https://instagram.com/tu_usuario" target="_blank">
-    <img src="https://raw.githubusercontent.com/zephardev/zephardev/main/assets/instagram.png" width="72" height="82" alt="Instagram"/>
+    <img src="https://raw.githubusercontent.com/zephardev/zephardev/main/assets/instagram.png" width="72" height="88" alt="Instagram"/>
   </a>
   <a href="mailto:tu_correo@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/zephardev/zephardev/main/assets/gmail.png" width="40" alt="Gmail"/>
+    <img src="https://raw.githubusercontent.com/zephardev/zephardev/main/assets/gmail.png" width="72" height="88"alt="Gmail"/>
   </a>
   <a href="https://youtube.com/@tu_usuario" target="_blank">
-    <img src="https://raw.githubusercontent.com/zephardev/zephardev/main/assets/youtube.png" width="40" alt="YouTube"/>
+    <img src="https://raw.githubusercontent.com/zephardev/zephardev/main/assets/youtube.png" width="72" height="88" alt="YouTube"/>
   </a>
   <a href="https://reddit.com/user/tu_usuario" target="_blank">
     <img src="https://raw.githubusercontent.com/zephardev/zephardev/main/assets/reddit.png" width="40" alt="Reddit"/>
