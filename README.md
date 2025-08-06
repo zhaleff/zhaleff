@@ -6,24 +6,11 @@
   <sub>We can achieve everything with YHWH; without Him, everything we achieve is empty </sub>
 </p>
 
-<h2 align="center">Contact</h2>
+<h1 align="center">Contact</h1>
 
+<img height="52"
+  src="https://raw.githubusercontent.com/zephardev/zephardev/main/assets/52b758159599b33bb5e458325f6b96a1.jpg" alt="discord">
 
-
-<!-- Reddit -->
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reddit/reddit-original.svg" alt="Reddit" />
-
-<!-- Discord -->
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" alt="Discord" />
-
-<!-- Instagram -->
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" />
-
-<!-- YouTube -->
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" alt="YouTube" />
-
-<!-- Gmail (Google) -->
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" />
 <p align="center"> 
   <sub>This is my contact, although for better communication, it would be best to reach me via email. However, I also respond on Discord and Reddit.</sub>
 </p>
