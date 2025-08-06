@@ -13,16 +13,16 @@
     <img src="https://raw.githubusercontent.com/zephardev/zephardev/main/assets/instagram.png" width="78" height="92" alt="Instagram"/>
   </a>
   <a href="mailto:zephartw@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/zephardev/zephardev/main/assets/gmail.png" width="72" height="88"alt="Gmail"/>
+    <img src="https://raw.githubusercontent.com/zephardev/zephardev/main/assets/gmail.png" width="72" height="90"alt="Gmail"/>
   </a>
   <a href="https://youtube.com/@zephartw" target="_blank">
-    <img src="https://raw.githubusercontent.com/zephardev/zephardev/main/assets/youtube.png" width="72" height="88" alt="YouTube"/>
+    <img src="https://raw.githubusercontent.com/zephardev/zephardev/main/assets/youtube.png" width="72" height="90" alt="YouTube"/>
   </a>
   <a href="https://www.reddit.com/u/Zephar_WO/s/nbauF1uP9m" target="_blank">
-    <img src="https://raw.githubusercontent.com/zephardev/zephardev/main/assets/reddit.png" width="40" alt="Reddit"/>
+    <img src="https://raw.githubusercontent.com/zephardev/zephardev/main/assets/reddit.png" width="76" height="90" alt="Reddit"/>
   </a>
   <a href="https:/open.spotify.com/sv/zephar" target="_blank">
-    <img src="https://raw.githubusercontent.com/zephardev/zephardev/main/assets/spotify.png" width="40" alt="Discord"/>
+    <img src="https://raw.githubusercontent.com/zephardev/zephardev/main/assets/spotify.png" width="72" height="90" alt="Discord"/>
   </a>
     <a href="https://pinterest.com/users/" target="_blank">
     <img src="https://raw.githubusercontent.com/zephardev/zephardev/main/assets/pinterest.png" width="40" alt="Discord"/>
