@@ -8,9 +8,6 @@
 
 <h2 align="center">Contact</h2>
 
-<p align="center"> 
-  <sub>This is my contact, although for better communication, it would be best to reach me via email. However, I also respond on Discord and Reddit.</sub>
-</p>
 
 
 <div align="center">
@@ -27,6 +24,13 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="70" alt="gmail logo"  />
   </a>
 </div>
+
+<p align="center"> 
+  <sub>This is my contact, although for better communication, it would be best to reach me via email. However, I also respond on Discord and Reddit.</sub>
+</p>
+
+<h2 align="center">Tech stack</h2>
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="56" alt="git logo"  />
