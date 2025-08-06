@@ -21,7 +21,7 @@
   <a href="https://www.reddit.com/u/Zephar_WO/s/nbauF1uP9m" target="_blank">
     <img src="https://raw.githubusercontent.com/zephardev/zephardev/main/assets/reddit.png" width="40" alt="Reddit"/>
   </a>
-  <a href="https:/spotify.com/zephar" target="_blank">
+  <a href="https:/open.spotify.com/sv/zephar" target="_blank">
     <img src="https://raw.githubusercontent.com/zephardev/zephardev/main/assets/spotify.png" width="40" alt="Discord"/>
   </a>
     <a href="https://pinterest.com/users/" target="_blank">
