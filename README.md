@@ -18,7 +18,7 @@
   <a href="https://youtube.com/@zephartw" target="_blank">
     <img src="https://raw.githubusercontent.com/zephardev/zephardev/main/assets/youtube.png" width="72" height="88" alt="YouTube"/>
   </a>
-  <a href="https://reddit.com/user/tu_usuario" target="_blank">
+  <a href="https://www.reddit.com/u/Zephar_WO/s/nbauF1uP9m" target="_blank">
     <img src="https://raw.githubusercontent.com/zephardev/zephardev/main/assets/reddit.png" width="40" alt="Reddit"/>
   </a>
   <a href="https:/spotify.com/zephar" target="_blank">
