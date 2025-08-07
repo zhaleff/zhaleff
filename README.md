@@ -39,5 +39,6 @@
 
 <p align="center"> 
   <b>I’m a calm person who studies in my free time if possible.</b>
+  <br>We all started from zero, so if you're reading this and haven't started yet, I encourage you to do it. ZP: Zephar.</br>
   <sub>Any project or help you need, you can reach out to me.</sub>
 </p>
