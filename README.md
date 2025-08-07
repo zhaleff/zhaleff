@@ -38,5 +38,6 @@
 <h1 align="center">About zephar</h1>
 
 <p align="center"> 
+  <b>I’m a calm person who studies in my free time if possible.</b>
   <sub>Any project or help you need, you can reach out to me.</sub>
 </p>
