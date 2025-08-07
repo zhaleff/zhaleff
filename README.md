@@ -32,31 +32,8 @@
   <sub>This is my contact, although for better communication, it would be best to reach me via email. However, I also respond on Discord and Reddit.</sub>
 </p>
 
-<h2 align="center">Tech stack</h2>
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="52" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="52" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="52" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="52" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/neovim/57A143" height="52" alt="neovim logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="52" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="52" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="52" alt="bash logo"  />
-</div>
+<h1 align="center">About zephar</h1>
 
-###
-###
-
-
----
-
-
-
-###
+<p align="center"> 
+Hey, I'm a self-taught independent developer who does everything out of boredom or as a hobby. If you want to reach out for any project, believe me, I'll be 100% in, as long as it's for ethical and educational purposes. I'll be there for any project. I'm Zephar. I hope you like my content and my way of writing code and trying to optimize it. I'm not the best programmer, but I try to learn as much as I can. We all started from zero, so if you're reading this and haven't started yet, I encourage you to do it. ZP: Zephar.
+</p>
