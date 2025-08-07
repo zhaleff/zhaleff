@@ -35,5 +35,5 @@
 <h1 align="center">About zephar</h1>
 
 <p align="center"> 
-Hey, I'm a self-taught independent developer who does everything out of boredom or as a hobby. If you want to reach out for any project, believe me, I'll be 100% in, as long as it's for ethical and educational purposes. I'll be there for any project. I'm Zephar. I hope you like my content and my way of writing code and trying to optimize it. I'm not the best programmer, but I try to learn as much as I can. We all started from zero, so if you're reading this and haven't started yet, I encourage you to do it. ZP: Zephar.
+  <sub>Any project or help you need, you can reach out to me.</sub>
 </p>
