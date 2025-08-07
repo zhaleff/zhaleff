@@ -43,3 +43,9 @@
    I like drinking water, the most essential thing. I love something called reading, so yeah</br>
   <sub>Any project or help you need, you can reach out to me.</sub>
 </p>
+
+<h1 align="center">Tech Stack</h1>
+
+<p align="center">
+  <b>I’m not an expert in this, the idea is to have fun while programming.</b>
+</p>
