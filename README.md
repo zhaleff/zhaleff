@@ -50,8 +50,3 @@
   <b>I’m not an expert in this, the idea is to have fun while programming.</b>
 </p>
 
-https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/neovim.png
-
-[!]"https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/arch_linux.png*
-
-[!]"https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png"
