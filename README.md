@@ -52,6 +52,6 @@
 
 https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/neovim.png
 
-[!]https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/arch_linux.png
+[!]"https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/arch_linux.png*
 
-[!]https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png
+[!]"https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png"
