@@ -60,7 +60,6 @@
 <p align="center">
   <b>I’m not an expert in this, the idea is to have fun while programming.</b>
 </p>
-
-  <a href="https://github.com/zemmsoares/awesome-rices">
-    <img src="https://raw.githubusercontent.com/zemmsoares/awesome-rices/main/assets/awesome-rice-badge.svg" alt="awesome-rice-badge">
-  </a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
+</p>
