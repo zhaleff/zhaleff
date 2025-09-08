@@ -6,6 +6,17 @@
   <sub>We can achieve everything with YHWH; without Him, everything we achieve is empty </sub>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="400" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
+</p>
+
+
+
+
 <h1 align="center">Contact</h1>
 
 <p align="center">
@@ -50,3 +61,6 @@
   <b>I’m not an expert in this, the idea is to have fun while programming.</b>
 </p>
 
+  <a href="https://github.com/zemmsoares/awesome-rices">
+    <img src="https://raw.githubusercontent.com/zemmsoares/awesome-rices/main/assets/awesome-rice-badge.svg" alt="awesome-rice-badge">
+  </a>
