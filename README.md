@@ -10,28 +10,55 @@
 <h1 align="center">Contact</h1>
 
 <p align="center">
-  <a href="https://instagram.com/zephartw" target="_blank">
-    <img src="https://raw.githubusercontent.com/zephardev/zephardev/main/assets/instagram.png" width="72" height="90" alt="Instagram"/>
+  <a href="https://github.com/catppuccin">
+    <picture>
+      <source srcset="assets/social/macchiato_github.svg" width="64" height="64" alt="Github Logo" media="(prefers-color-scheme: dark)"/>
+      <source srcset="assets/social/latte_github.svg" width="64" height="64" alt="Github Logo" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+      <img src="assets/social/latte_github.svg" width="64" height="64" alt="Github Logo"/>
+    </picture>
   </a>
-  <a href="mailto:zephartw@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/zephardev/zephardev/main/assets/gmail.png" width="72" height="90"alt="Gmail"/>
+  <img src="assets/misc/transparent.png" height="1" width="5"/>
+  <a href="https://www.npmjs.com/org/catppuccin">
+    <picture>
+      <source srcset="assets/social/macchiato_npm.svg" width="64" height="64" alt="NPM Logo" media="(prefers-color-scheme: dark)"/>
+      <source srcset="assets/social/latte_npm.svg" width="64" height="64" alt="NPM Logo" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+      <img src="assets/social/latte_npm.svg" width="64" height="64" alt="NPM Logo"/>
+    </picture>
   </a>
-  <a href="https://youtube.com/@zephartw" target="_blank">
-    <img src="https://raw.githubusercontent.com/zephardev/zephardev/main/assets/youtube.png" width="82" height="130" alt="YouTube"/>
+  <img src="assets/misc/transparent.png" height="1" width="5"/>
+  <a href="https://discord.com/servers/907385605422448742">
+    <picture>
+      <source srcset="assets/social/macchiato_discord.svg" width="64" height="64" alt="Discord Logo" media="(prefers-color-scheme: dark)"/>
+      <source srcset="assets/social/latte_discord.svg" width="64" height="64" alt="Discord Logo" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+      <img src="assets/social/latte_discord.svg" width="64" height="64" alt="Discord Logo"/>
+    </picture>
   </a>
-  <a href="https://www.reddit.com/u/Zephar_WO/s/nbauF1uP9m" target="_blank">
-    <img src="https://raw.githubusercontent.com/zephardev/zephardev/main/assets/reddit.png" width="82" height="120" alt="Reddit"/>
+  <img src="assets/misc/transparent.png" height="1" width="5"/>
+  <a href="https://twitter.com/catppuccintheme">
+    <picture>
+      <source srcset="assets/social/macchiato_twitter.svg" width="64" height="64" alt="Twitter Logo" media="(prefers-color-scheme: dark)"/>
+      <source srcset="assets/social/latte_twitter.svg" width="64" height="64" alt="Twitter Logo" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+      <img src="assets/social/latte_twitter.svg" width="64" height="64" alt="Twitter Logo"/>
+    </picture>
   </a>
-  <a href="https:/open.spotify.com/sv/zephar" target="_blank">
-    <img src="https://raw.githubusercontent.com/zephardev/zephardev/main/assets/spotify.png" width="72" height="90" alt="Spotify"/>
+  <img src="assets/misc/transparent.png" height="1" width="5"/>
+  <a href="https://fosstodon.org/@catppuccin">
+    <picture>
+      <source srcset="assets/social/macchiato_mastodon.svg" width="64" height="64" alt="Mastodon Logo" media="(prefers-color-scheme: dark)"/>
+      <source srcset="assets/social/latte_mastodon.svg" width="64" height="64" alt="Mastodon Logo" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+      <img src="assets/social/latte_mastodon.svg" width="64" height="64" alt="Mastodon Logo"/>
+    </picture>
   </a>
-    <a href="https://pin.it/7442DeDwa" target="_blank">
-    <img src="https://raw.githubusercontent.com/zephardev/zephardev/main/assets/pinterest.png" width="72" height="90" alt="pinterest"/>
-  </a>
-    <a href="https://discord.gg/KkZUwXgn/" target="_blank">
-    <img src="https://raw.githubusercontent.com/zephardev/zephardev/main/assets/discord.png" width="72" height="90" alt="Discord"/>
+  <img src="assets/misc/transparent.png" height="1" width="5"/>
+  <a href="https://reddit.com/r/catppuccin">
+    <picture>
+      <source srcset="assets/social/macchiato_reddit.svg" width="64" height="64" alt="Reddit Logo" media="(prefers-color-scheme: dark)"/>
+      <source srcset="assets/social/latte_reddit.svg" width="64" height="64" alt="Reddit Logo" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+      <img src="assets/social/latte_reddit.svg" width="64" height="64" alt="Reddit Logo"/>
+    </picture>
   </a>
 </p>
+
 <p align="center"> 
   <sub>This is my contact, although for better communication, it would be best to reach me via email. However, I also respond on Discord and Reddit.</sub>
 </p>
@@ -53,3 +80,4 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
 </p>
+
