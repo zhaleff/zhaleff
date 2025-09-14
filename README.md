@@ -25,14 +25,6 @@
     </picture>
   </a>
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="1" width="5"/>
-  <a href="https://twitter.com/catppuccintheme">
-    <picture>
-      <source srcset="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/social/macchiato_twitter.svg" width="64" height="64" alt="Twitter Logo" media="(prefers-color-scheme: dark)"/>
-      <source srcset="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/social/latte_twitter.svg" width="64" height="64" alt="Twitter Logo" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-      <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/social/latte_twitter.svg" width="64" height="64" alt="Twitter Logo"/>
-    </picture>
-  </a>
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="1" width="5"/>
   <a href="https://reddit.com/r/catppuccin">
     <picture>
       <source srcset="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/social/macchiato_reddit.svg" width="64" height="64" alt="Reddit Logo" media="(prefers-color-scheme: dark)"/>
@@ -64,6 +56,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
 </p>
+
 
 
 
