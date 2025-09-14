@@ -5,17 +5,6 @@
   <br>Hey, I'm Zephar, a self-taught student who programs in his free time.</br>
   <sub>We can achieve everything with YHWH; without Him, everything we achieve is empty </sub>
 </p>
-
-
-<h1 align="center">Contact</h1>
-<p align="center">
-  <a href="https://github.com/catppuccin">
-    <picture>
-      <source srcset="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/social/macchiato_github.svg" width="64" height="64" alt="Github Logo" media="(prefers-color-scheme: dark)"/>
-      <source srcset="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/social/latte_github.svg" width="64" height="64" alt="Github Logo" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-      <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/social/latte_github.svg" width="64" height="64" alt="Github Logo"/>
-    </picture>
-  </a>
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="1" width="5"/>
   <a href="https://discord.com/servers/907385605422448742">
     <picture>
@@ -56,6 +45,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
 </p>
+
 
 
 
