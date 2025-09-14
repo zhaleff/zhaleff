@@ -5,6 +5,7 @@
   <br>Hey, I'm Zephar, a self-taught student who programs in his free time.</br>
   <sub>We can achieve everything with YHWH; without Him, everything we achieve is empty </sub>
 </p>
+  <p align="center">
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="1" width="5"/>
   <a href="https://discord.com/servers/907385605422448742">
     <picture>
