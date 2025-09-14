@@ -21,15 +21,14 @@
       <source srcset="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/social/latte_reddit.svg" width="64" height="64" alt="Reddit Logo" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
       <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/social/latte_reddit.svg" width="64" height="64" alt="Reddit Logo"/>
     </picture>
-<p align="center">
-  <a href="https://github.com/zephardev/zephardev">
-    <picture>
-      <source srcset="https://github.com/zephardev/zephardev/assets/instagram.svg" width="64" height="64" alt="Instagram Logo" media="(prefers-color-scheme: dark)"/>
-      <source srcset="https://github.com/zephardev/zephardev/assets/instagram.svg" width="64" height="64" alt="Instagram Logo" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-      <img src="https://github.com/zephardev/zephardev/assets/instagram.svg" width="64" height="64" alt="Instagram Logo"/>
-    </picture>
-  </a>
-</p>
+<img src="https://raw.githubusercontent.com/zephardev/zephardev/assets/instagram.svg" height="64" width="64" alt="Instagram Logo"/>
+<img src="https://raw.githubusercontent.com/zephardev/zephardev/assets/instagram.svg" height="1" width="5"/>
+<a href="https://www.instagram.com/yourusername">
+  <picture>
+    <source srcset="https://raw.githubusercontent.com/zephardev/zephardev/assets/instagram.svg" width="64" height="64" alt="Instagram Logo" media="(prefers-color-scheme: dark)"/>
+    <source srcset="https://raw.githubusercontent.com/zephardev/zephardev/assets/instagram.svg" width="64" height="64" alt="Instagram Logo" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+    <img src="https://raw.githubusercontent.com/zephardev/zephardev/assets/instagram.svg" width="64" height="64" alt="Instagram Logo"/>
+  </picture>
 
   </a>
 </p>
