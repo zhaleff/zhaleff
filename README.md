@@ -3,6 +3,16 @@
 <p align="center">
   <b>Cybersecurity · Hacking · Programming · OSINT · Philosophy</b>
 </p>
+
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="400" />
+</p>
+
+
+
+
   <p align="center">
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="1" width="5"/>
   <a href="https://discord.com/servers/907385605422448742">
