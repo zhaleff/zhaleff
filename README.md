@@ -39,7 +39,7 @@
 </a>
 </p>
 
-<h1 align="center">YHWH</h1>
+<h2 align="center">YHWH</h2>
 
 <img src="https://raw.githubusercontent.com/zephardev/zephardev/output/snake.svg" alt="Snake animation" />
 
@@ -47,6 +47,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
 </p>
+
 
 
 
