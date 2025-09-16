@@ -39,7 +39,9 @@
 </a>
 </p>
 
----
+<p align="center">
+  <h2>Tech Stack</h2>
+</p>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="64" alt="java logo"  />
@@ -57,6 +59,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
 </p>
+
 
 
 
