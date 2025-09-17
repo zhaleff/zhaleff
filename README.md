@@ -1,7 +1,7 @@
 <h1 align="left">Zhaleff Development</h1>
 
 <p align="left">
-  <b>Cybersecurity · Hacking · Programming · OSINT · Philosophy</b>
+  <b>Cybersecurity - Hacking - Programming - OSINT - Philosophy</b>
 </p>
 
 
@@ -65,6 +65,7 @@ HyprCraft is a development environment for anyone who wants a comfortable setup 
 <p align="center">
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
 </p>
+
 
 
 
