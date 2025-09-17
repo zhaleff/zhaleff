@@ -39,6 +39,10 @@
 </a>
 </p>
 
+# Hey, I'm Zhaleff. 
+
+<p align="left">a self-taught programmer focused on cybersecurity and user privacy (still studying). I try to approach everything with critical thinking. I don't know everything, but I can learn along the way if necessary.</p>
+
 <h2 align="center">YHWH</h2>
 
 
@@ -52,6 +56,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
 </p>
+
 
 
 
