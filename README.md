@@ -53,6 +53,11 @@ Hacking - Hack the box - TryHackMe - Hack4u
 
 HyprCraft is a development environment for anyone who wants a comfortable setup on Hyprland - Arch. The environment uses Catppuccin Mocha colors, highlighting colors like #1e1e2e and #cba6f7.
 
+## Discord of HyprCraft 
+
+You can find the HyprCraft community through the Discord link. You can join and ask for information or help with anything related to Linux.  
+https://discord.gg/rYn9fTca
+
 # Contributions
 
 <picture>
@@ -65,6 +70,7 @@ HyprCraft is a development environment for anyone who wants a comfortable setup 
 <p align="center">
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
 </p>
+
 
 
 
