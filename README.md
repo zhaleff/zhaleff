@@ -1,19 +1,19 @@
-<h1 align="center">Zhaleff Development</h1>
+<h1 align="left">Zhaleff Development</h1>
 
-<p align="center">
+<p align="left">
   <b>Cybersecurity · Hacking · Programming · OSINT · Philosophy</b>
 </p>
 
 
 
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="400" />
 </p>
 
 
 
 
-  <p align="center">
+  <p align="left">
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="1" width="5"/>
   <a href="https://discord.com/servers/907385605422448742">
     <picture>
@@ -59,3 +59,4 @@ Hacking - Hack the box - TryHackMe - Hack4u
 <p align="center">
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
 </p>
+
