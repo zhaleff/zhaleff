@@ -43,8 +43,17 @@
 
 <p align="left">a self-taught programmer focused on cybersecurity and user privacy (still studying). I try to approach everything with critical thinking. I don't know everything, but I can learn along the way if necessary. Without teamwork, nothing is sustainable. I’ve learned languages like Java, CSS, Bash, among others, but these are the only ones I know well, and I love their syntax. Arch user + Catppuccin Mocha colors. </p>
 
-<h2 align="center">YHWH</h2>
+# Tech Stack 
 
+System - Linux - Hyprland - Arch  
+Lenguaje programming - Java - Bash - Css - C 
+Hacking - Hack the box - TryHackMe - Hack4u  
+
+# About proyects 
+
+## HyprCraft 
+
+HyprCraft is a development environment for anyone who wants a comfortable setup on Hyprland - Arch. The environment uses Catppuccin Mocha colors, highlighting colors like #1e1e2e and #cba6f7.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zhaleff/zhaleff/output/pacman-contribution-graph-dark.svg">
@@ -56,6 +65,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
 </p>
+
 
 
 
