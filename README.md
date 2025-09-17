@@ -29,7 +29,7 @@
       <source srcset="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/social/latte_reddit.svg" width="64" height="64" alt="Reddit Logo" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
       <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/social/latte_reddit.svg" width="64" height="64" alt="Reddit Logo"/>
     </picture>
-<img src="https://raw.githubusercontent.com/zephardev/zephardev/main/assets/instagram.svg" height="1" width="5"/>
+<img src="https://raw.githubusercontent.com/zephardev/zephardev/main/assets/instagra.svg" height="1" width="5"/>
 <a href="https://www.instagram.com/zephartw">
   <picture>
     <source srcset="https://raw.githubusercontent.com/zephardev/zephardev/main/assets/instagram.svg" width="64" height="64" alt="Instagram Logo" media="(prefers-color-scheme: dark)"/>
@@ -37,6 +37,7 @@
     <img src="https://raw.githubusercontent.com/zephardev/zephardev/main/assets/instagram.svg" width="64" height="64" alt="Instagram Logo"/>
   </picture>
 </a>
+    <img src="https://raw.githubusercontent.com/zhaleff/zhaleff/main/assets/spotify.svg" width="5" height="1" />
     <a href="https://open.spotify.com/user/31qp5b4dwgpbngzzycn6frrwgm7y?si=421567b8445641df">
   <picture>
     <source srcset="https://raw.githubusercontent.com/zephardev/zephardev/main/assets/spotify.svg" width="64" height="64" alt="Instagram Logo" media="(prefers-color-scheme: dark)"/>
@@ -67,6 +68,7 @@ Hacking - Hack the box - TryHackMe - Hack4u
 <p align="center">
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
 </p>
+
 
 
 
