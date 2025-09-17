@@ -49,6 +49,8 @@ System - Linux - Hyprland - Arch
 Lenguaje programming - Java - Bash - Css - C  
 Hacking - Hack the box - TryHackMe - Hack4u   
 
+I don't know everything, but I can learn it if needed. Everything is part of YHWH's path.  
+
 # HyprCraft
 
 HyprCraft is a development environment for anyone who wants a comfortable setup on Hyprland - Arch. The environment uses Catppuccin Mocha colors, highlighting colors like #1e1e2e and #cba6f7.
@@ -70,6 +72,7 @@ https://discord.gg/rYn9fTca
 <p align="center">
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
 </p>
+
 
 
 
