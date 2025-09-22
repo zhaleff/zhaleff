@@ -45,7 +45,7 @@
 
 # Tech Stack 
 
-System - Linux - Hyprland - Arch  
+System - Linux - Hyprland - Arch Linux  
 Lenguaje programming - Java - Bash - Css - C  
 Hacking - Hack the box - TryHackMe - Hack4u   
 
