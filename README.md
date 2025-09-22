@@ -64,7 +64,7 @@ https://discord.gg/rYn9fTca
 ## Website of HyprCraft
 
 On the project website you can find detailed information on the packages used. There you can find everything you need for the project. 
-https://hyprcraft.netfily.app
+https://hyprcraft.netlify.app
 
 # Contributions
 
