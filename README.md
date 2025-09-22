@@ -60,6 +60,12 @@ HyprCraft is a development environment for anyone who wants a comfortable setup 
 You can find the HyprCraft community through the Discord link. You can join and ask for information or help with anything related to Linux.  
 https://discord.gg/rYn9fTca
 
+
+## Website of HyprCraft
+
+On the project website you can find detailed information on the packages used. There you can find everything you need for the project. 
+https://hyprcraft.netfily.app
+
 # Contributions
 
 <picture>
