@@ -1,7 +1,7 @@
 <h1 align="left">Zhaleff Development</h1>
 
 <p align="left">
-  <b>Cybersecurity - Hacking - Programming - OSINT - Philosophy</b>
+  <b>Cybersecurity - Hacking - Programming - OSINT - Philosophy - Ricing - Christianity</b>
 </p>
 
 
