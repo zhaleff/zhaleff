@@ -69,13 +69,6 @@ https://hyprcraft.netlify.app
 # Statistics 
 
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zhaleff&theme=catppuccin_mocha&border_radius=12" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zhaleff&theme=catppuccin_mocha&border_radius=12" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zhaleff&theme=tokyonight&hide_border=true&background=1e1e2e&stroke=cdd6f4&ring=cba6f7&fire=cdd6f4&currStreakNum=cdd6f4&currStreakLabel=94e2d5&sideNums=cdd6f4&sideLabels=94e2d5" />
@@ -84,6 +77,10 @@ https://hyprcraft.netlify.app
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zhaleff&theme=react-dark&hide_border=true&bg_color=1e1e2e&line=cba6f7&point=cdd6f4&area=true" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/zhaleff/output/main/language.svg" alt="Top Languages" />
 </p>
 
 # Contributions
