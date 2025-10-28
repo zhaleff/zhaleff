@@ -69,11 +69,19 @@ https://hyprcraft.netlify.app
 # Statistics 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zhaleff&show_icons=true&count_private=true&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=f38ba8&title_color=89b4fa&hide_rank=false&theme=catppuccin-mocha&line_height=35&border_radius=10" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zhaleff&theme=catppuccin_mocha&border_radius=12&show_icons=true&hide_rank=false" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zhaleff&theme=catppuccin-mocha&hide_border=true&bg_color=1e1e2e&line=89b4fa&point=f5c2e7&area=true&area_color=313244&custom_title=Mi%20Actividad%20GitHub" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zhaleff&theme=catppuccin_mocha&border_radius=12" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zhaleff&theme=catppuccin_mocha&border_radius=12" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zhaleff&theme=catppuccin_mocha&border_radius=12" />
 </p>
 
 <p align="center">
