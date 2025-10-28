@@ -74,13 +74,6 @@ https://hyprcraft.netlify.app
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zhaleff&theme=tokyonight&hide_border=true&background=1e1e2e&stroke=cdd6f4&ring=cba6f7&fire=cdd6f4&currStreakNum=cdd6f4&currStreakLabel=94e2d5&sideNums=cdd6f4&sideLabels=94e2d5" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhaleff&layout=compact&theme=tokyonight&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&title_color=94e2d5" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?username=zhaleff&layout=grid&theme=mocha" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zhaleff&theme=react-dark&hide_border=true&bg_color=1e1e2e&line=cba6f7&point=cdd6f4&area=true" />
