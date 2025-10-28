@@ -82,7 +82,7 @@ https://hyprcraft.netlify.app
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zhaleff/zhaleff/output/top-languages-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zhaleff/zhaleff/output/top-languages.svg">
-  <img alt="Top Languages" src="https://raw.githubusercontent.com/zhaleff/zhaleff/output/top-languages.svg">
+  <img alt="Top Languages" src="https://raw.githubusercontent.com/zhaleff/zhaleff/output/lenguaje.svg">
 </picture>
 
 # Contributions
