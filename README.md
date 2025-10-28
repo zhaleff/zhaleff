@@ -79,9 +79,11 @@ https://hyprcraft.netlify.app
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zhaleff&theme=react-dark&hide_border=true&bg_color=1e1e2e&line=cba6f7&point=cdd6f4&area=true" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/zhaleff/output/main/language.svg" alt="Top Languages" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zhaleff/zhaleff/output/top-languages-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zhaleff/zhaleff/output/top-languages.svg">
+  <img alt="Top Languages" src="https://raw.githubusercontent.com/zhaleff/zhaleff/output/top-languages.svg">
+</picture>
 
 # Contributions
 
