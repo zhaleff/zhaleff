@@ -68,13 +68,6 @@ https://hyprcraft.netlify.app
 
 # Statistics 
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zhaleff&theme=catppuccin_mocha&border_radius=12&show_icons=true&hide_rank=false" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zhaleff&theme=catppuccin_mocha&border_radius=12" />
-</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zhaleff&theme=catppuccin_mocha&border_radius=12" />
