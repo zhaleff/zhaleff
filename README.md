@@ -69,11 +69,11 @@ https://hyprcraft.netlify.app
 # Statistics 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zhaleff&show_icons=true&count_private=true&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=f5c2e7&title_color=89b4fa&hide_rank=false&hide=prs,issues" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zhaleff&show_icons=true&count_private=true&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=f38ba8&title_color=89b4fa&hide_rank=false&theme=catppuccin-mocha&line_height=35&border_radius=10" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zhaleff&theme=catppuccin-mocha&hide_border=true&bg_color=1e1e2e&line=cba6f7&point=cdd6f4&area=true&custom_title=Mi%20Actividad%20de%20GitHub" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zhaleff&theme=catppuccin-mocha&hide_border=true&bg_color=1e1e2e&line=89b4fa&point=f5c2e7&area=true&area_color=313244&custom_title=Mi%20Actividad%20GitHub" />
 </p>
 
 <p align="center">
