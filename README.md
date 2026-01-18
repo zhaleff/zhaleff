@@ -51,20 +51,9 @@ Hacking - Hack the box - TryHackMe - Hack4u
 
 I don't know everything, but I can learn it if needed. Everything is part of YHWH's path.  
 
-# HyprCraft
 
-HyprCraft is a development environment for anyone who wants a comfortable setup on Hyprland - Arch. The environment uses Catppuccin Mocha colors, highlighting colors like #1e1e2e and #cba6f7.
+## HollowSEC
 
-## Discord of HyprCraft 
-
-You can find the HyprCraft community through the Discord link. You can join and ask for information or help with anything related to Linux.  
-https://discord.gg/rYn9fTca
-
-
-## Website of HyprCraft
-
-On the project website you can find detailed information on the packages used. There you can find everything you need for the project.   
-https://hyprcraft.netlify.app
 
 # Statistics 
 
