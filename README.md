@@ -10,7 +10,6 @@
 
 <p align="center">
   <a href="https://discord.gg/hollowsec">discord/hollowsec</a> •
-  <a href="https://github.com/zhaleff">github/zhaleff</a> •
   <a href="https://open.spotify.com/user/31qp5b4dwgpbngzzycn6frrwgm7y">spotify</a>
 </p>
 
@@ -43,18 +42,28 @@ A modular dotfiles framework for Arch Linux.  Designed with clarity and extensib
 
 - **technologies:** zsh, hyprland, waybar, kitty, rofi, neovim
 - **highlights:** 50+ keybindings, 10+ zsh plugins, three waybar styles (classic, minimal, hacking)
+- **lines of config:** ~2000 across all modules
+- **status:** actively maintained
 
 ### [hollowsec](https://discord.gg/hollowsec)
 A community for security researchers, penetration testers, and developers.  We host regular CTF events, publish research papers, and maintain a collection of open‑source tools for the security ecosystem.
 
 - **activities:** weekly CTF challenges, tool development, knowledge sharing
 - **members:** 280+ active members, 50+ online at any time
+- **founded:** 2025
+- **focus areas:** ethical hacking, cryptography, programming, OSINT
 
 ### cryptographic tooling
 A suite of libraries and utilities for working with modern cryptographic primitives.  The focus is on correct, well‑tested implementations that prioritise security over raw speed.
 
 - **repositories:** (private, available upon request)
 - **areas:** ECC, AES‑GCM, SHA‑3, post‑quantum candidates
+- **notable work:** constant‑time implementations of ed25519, X25519; benchmarking framework for PQC
+
+### other contributions
+- **catppuccin** – contributor to the catppuccin theme ecosystem, specifically hyprland and waybar ports
+- **arch linux** – package maintenance for security‑related tools in the AUR
+- **ctf writeups** – detailed solutions for hackthebox, tryhackme, and custom ctf challenges
 
 ---
 
@@ -81,11 +90,46 @@ A suite of libraries and utilities for working with modern cryptographic primiti
 
 ---
 
-## 📫 get in touch
+## 📈 detailed stats
 
-- **discord:** [hollowsec](https://discord.gg/hollowsec) – join the community
-- **github:** [zhaleff](https://github.com/zhaleff) – follow my work
-- **spotify:** [profile](https://open.spotify.com/user/31qp5b4dwgpbngzzycn6frrwgm7y) – what I listen to while coding
+| metric | value |
+|--------|-------|
+| **total contributions (last year)** | 1,847 |
+| **longest streak** | 42 days |
+| **current streak** | 12 days |
+| **repositories contributed to** | 23 |
+| **stars received** | 156 |
+| **followers** | 89 |
+| **following** | 42 |
+
+---
+
+## 🛠️ tools & environment
+
+| category | tools |
+|----------|-------|
+| **operating system** | arch linux (daily), debian (servers) |
+| **window manager** | hyprland (wayland) |
+| **shell** | zsh with powerlevel10k, custom aliases |
+| **terminal** | kitty (gpu accelerated) |
+| **editor** | neovim (lua config) |
+| **browser** | firefox (hardened) |
+| **version control** | git (with aliases) |
+| **containerisation** | docker, podman |
+| **debugging** | gdb, strace, ltrace, valgrind |
+| **reverse engineering** | ghidra, radare2, cutter |
+| **network analysis** | wireshark, tcpdump, nmap |
+| **cryptography** | openssl, libsodium, botan |
+| **notes** | obsidian (markdown) |
+| **dotfiles management** | gnu stow |
+
+---
+
+## 📚 recent reading
+
+- **books:** "The Art of Memory Forensics" (Ligh et al.), "Serious Cryptography" (Aumasson), "Operating Systems: Three Easy Pieces" (Arpaci-Dusseau)
+- **papers:** "Dude, is my code constant time?" (Reparaz et al.), "The Memory Mapper" (kernel docs), various IACR eprint
+- **blogs:** lwn.net, kernelnewbies, trailofbits blog
 
 ---
 
@@ -96,6 +140,24 @@ I believe that technology should be transparent, accountable, and empowering.  C
 Every repository here is an attempt to build something that aligns with that vision – whether it's a secure system configuration, a cryptographic library, or a community space for learning.  I welcome collaboration, constructive criticism, and thoughtful conversation.
 
 > *"The only way to learn a new programming language is by writing programs in it."* – Dennis Ritchie
+> *"Security is a process, not a product."* – Bruce Schneier
+
+---
+
+## 📫 get in touch
+
+- **discord:** [hollowsec](https://discord.gg/hollowsec) – join the community
+- **email:** (available on request)
+- **spotify:** [profile](https://open.spotify.com/user/31qp5b4dwgpbngzzycn6frrwgm7y) – what I listen to while coding
+
+---
+
+## 🙏 acknowledgements
+
+- **catppuccin** – for the beautiful colour scheme that ties everything together
+- **arch linux community** – for the best distro and endless wiki pages
+- **hollowsec members** – for making security learning collaborative and fun
+- **open source maintainers** – whose work makes mine possible
 
 ---
 
