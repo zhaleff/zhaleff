@@ -1,19 +1,8 @@
-# zhaleff
+<h1 align="left">Zhaleff Development</h1>
 
-<p align="center">
-  <b>security researcher · systems programmer · open source contributor</b>
+<p align="left">
+  <b>Cybersecurity · Hacking · Programming · OSINT · Philosophy · Ricing · Christianity</b>
 </p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="600" />
-</p>
-
-<p align="center">
-  <a href="https://discord.gg/hollowsec">discord/hollowsec</a> •
-  <a href="https://open.spotify.com/user/31qp5b4dwgpbngzzycn6frrwgm7y">spotify</a>
-</p>
-
----
 
 ## 👤 about
 
@@ -65,20 +54,7 @@ A suite of libraries and utilities for working with modern cryptographic primiti
 - **arch linux** – package maintenance for security‑related tools in the AUR
 - **ctf writeups** – detailed solutions for hackthebox, tryhackme, and custom ctf challenges
 
----
 
-## 📊 github statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zhaleff&show_icons=true&hide_border=true&bg_color=1e1e2e&icon_color=cdd6f4&text_color=cdd6f4&title_color=ffffff&count_private=true&include_all_commits=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zhaleff&hide_border=true&background=1e1e2e&stroke=cdd6f4&ring=ffffff&fire=ffffff&currStreakNum=cdd6f4&currStreakLabel=ffffff&sideNums=cdd6f4&sideLabels=ffffff" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zhaleff&hide_border=true&bg_color=1e1e2e&line=cdd6f4&point=cdd6f4&area=true&color=ffffff" width="98%" />
-</p>
-
----
 
 ## 🕒 contribution history
 
@@ -90,48 +66,8 @@ A suite of libraries and utilities for working with modern cryptographic primiti
 
 ---
 
-## 📈 detailed stats
 
-| metric | value |
-|--------|-------|
-| **total contributions (last year)** | 1,847 |
-| **longest streak** | 42 days |
-| **current streak** | 12 days |
-| **repositories contributed to** | 23 |
-| **stars received** | 156 |
-| **followers** | 89 |
-| **following** | 42 |
 
----
-
-## 🛠️ tools & environment
-
-| category | tools |
-|----------|-------|
-| **operating system** | arch linux (daily), debian (servers) |
-| **window manager** | hyprland (wayland) |
-| **shell** | zsh with powerlevel10k, custom aliases |
-| **terminal** | kitty (gpu accelerated) |
-| **editor** | neovim (lua config) |
-| **browser** | firefox (hardened) |
-| **version control** | git (with aliases) |
-| **containerisation** | docker, podman |
-| **debugging** | gdb, strace, ltrace, valgrind |
-| **reverse engineering** | ghidra, radare2, cutter |
-| **network analysis** | wireshark, tcpdump, nmap |
-| **cryptography** | openssl, libsodium, botan |
-| **notes** | obsidian (markdown) |
-| **dotfiles management** | gnu stow |
-
----
-
-## 📚 recent reading
-
-- **books:** "The Art of Memory Forensics" (Ligh et al.), "Serious Cryptography" (Aumasson), "Operating Systems: Three Easy Pieces" (Arpaci-Dusseau)
-- **papers:** "Dude, is my code constant time?" (Reparaz et al.), "The Memory Mapper" (kernel docs), various IACR eprint
-- **blogs:** lwn.net, kernelnewbies, trailofbits blog
-
----
 
 ## 🧭 philosophy
 
@@ -168,3 +104,4 @@ Every repository here is an attempt to build something that aligns with that vis
 <p align="center">
   <sub>colourscheme: catppuccin mocha · system: arch linux · editor: neovim</sub>
 </p>
+
