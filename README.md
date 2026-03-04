@@ -1,62 +1,58 @@
-<h1 align="left">Zhaleff Development</h1>
+<h1 align="left">zhaleff</h1>
 
 <p align="left">
-  <b>Cybersecurity · Hacking · Programming · OSINT · Philosophy · Ricing · Christianity</b>
+  <b>cybersecurity student · programming · linux · ricing</b>
 </p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/arch-1793D1?style=flat-square&logo=archlinux&logoColor=white&labelColor=000000&color=000000" />
+  <img src="https://img.shields.io/badge/hyprland-000000?style=flat-square&logo=hyprland&logoColor=white&labelColor=000000&color=000000" />
+  <img src="https://img.shields.io/badge/neovim-000000?style=flat-square&logo=neovim&logoColor=white&labelColor=000000&color=000000" />
+  <img src="https://img.shields.io/badge/zsh-000000?style=flat-square&logo=gnu-bash&logoColor=white&labelColor=000000&color=000000" />
+  <img src="https://img.shields.io/badge/java-000000?style=flat-square&logo=openjdk&logoColor=white&labelColor=000000&color=000000" />
+  <img src="https://img.shields.io/badge/c-000000?style=flat-square&logo=c&logoColor=white&labelColor=000000&color=000000" />
+</p>
+
+---
 
 ## 👤 about
 
-Hello.  I am a security researcher and systems programmer with a deep interest in low‑level software architecture, cryptographic primitives, and the design of resilient digital environments.  I approach problems from first principles and believe that clarity in code leads to clarity in thought.
+Hello.  I am a cybersecurity student and self‑taught programmer based on Arch Linux.  I focus on understanding how systems work at a low level – from the kernel up to the desktop environment.  I do not know everything, but I enjoy learning by building and breaking things.
 
-Currently I focus on Linux internals, exploit development, and building tools for the security community.  I am the founder of **HollowSec**, a collective of researchers and developers who organise CTFs, publish research, and maintain open‑source security tooling.
-
----
-
-## 🧠 areas of expertise
-
-| domain | technologies & topics |
-|--------|----------------------|
-| **systems programming** | linux kernel internals, hyprland, systemd, container runtimes (docker, podman), performance optimisation |
-| **security research** | binary exploitation, reverse engineering (ghidra, radare2), threat modelling, ctf infrastructure |
-| **cryptography** | elliptic curve cryptography (ECC), post‑quantum algorithms, PKI, hardware security modules (HSM) |
-| **programming languages** | java (JVM tuning, concurrency), c (memory safety, embedded), bash (automation), css (design systems) |
-| **osint & forensics** | digital footprint analysis, memory forensics (volatility), network traffic analysis (wireshark) |
+I am part of **HollowSec**, a community where we share knowledge about ethical hacking, programming, and security.  I also spend time ricing my setup with Catppuccin colours because I believe your environment should feel like home.
 
 ---
 
-## 📦 notable projects
+## 🧠 currently learning
+
+| area | topics |
+|------|--------|
+| **systems** | linux internals, hyprland configuration, systemd, bash scripting |
+| **security** | hack the box, tryhackme, ctf basics, reverse engineering fundamentals |
+| **languages** | java (data structures, concurrency), c (pointers, memory), css (design) |
+
+---
+
+## 📦 projects
 
 ### [blacknode](https://github.com/zhaleff/BlackNode)
-A modular dotfiles framework for Arch Linux.  Designed with clarity and extensibility in mind – each component is isolated, thoroughly documented, and easily replaceable.  It powers my daily driver and serves as a foundation for others to build their own custom environments.
+My personal dotfiles for Arch Linux.  I built this to learn how window managers, shells, and terminal tools work together.  It includes configurations for hyprland, waybar, kitty, zsh, and more.  Everything is commented so I (and others) can understand it later.
 
-- **technologies:** zsh, hyprland, waybar, kitty, rofi, neovim
-- **highlights:** 50+ keybindings, 10+ zsh plugins, three waybar styles (classic, minimal, hacking)
-- **lines of config:** ~2000 across all modules
-- **status:** actively maintained
+- **status:** actively used and tweaked daily
+- **lines:** ~2000 across all configs
+- **philosophy:** simple, readable, modular
 
-### [hollowsec](https://discord.gg/hollowsec)
-A community for security researchers, penetration testers, and developers.  We host regular CTF events, publish research papers, and maintain a collection of open‑source tools for the security ecosystem.
+### hollowsec community
+I am a member of HollowSec, a Discord community focused on cybersecurity learning.  We share writeups, help each other with labs, and work on projects together.  It is a great place to ask questions and grow.
 
-- **activities:** weekly CTF challenges, tool development, knowledge sharing
-- **members:** 280+ active members, 50+ online at any time
-- **founded:** 2025
-- **focus areas:** ethical hacking, cryptography, programming, OSINT
+[![hollowsec](https://img.shields.io/badge/discord-hollowsec-000000?style=flat-square&logo=discord&logoColor=white&labelColor=000000)](https://discord.gg/hollowsec)
 
-### cryptographic tooling
-A suite of libraries and utilities for working with modern cryptographic primitives.  The focus is on correct, well‑tested implementations that prioritise security over raw speed.
+### ctf writeups
+I occasionally write up solutions for hack the box and tryhackme machines to solidify what I learn.  These are shared in the HollowSec community and sometimes on my github.
 
-- **repositories:** (private, available upon request)
-- **areas:** ECC, AES‑GCM, SHA‑3, post‑quantum candidates
-- **notable work:** constant‑time implementations of ed25519, X25519; benchmarking framework for PQC
+---
 
-### other contributions
-- **catppuccin** – contributor to the catppuccin theme ecosystem, specifically hyprland and waybar ports
-- **arch linux** – package maintenance for security‑related tools in the AUR
-- **ctf writeups** – detailed solutions for hackthebox, tryhackme, and custom ctf challenges
-
-
-
-## 🕒 contribution history
+## 🕒 contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zhaleff/zhaleff/output/pacman-contribution-graph-dark.svg" />
@@ -66,34 +62,32 @@ A suite of libraries and utilities for working with modern cryptographic primiti
 
 ---
 
+## 🛠️ tools i use
 
-
-
-## 🧭 philosophy
-
-I believe that technology should be transparent, accountable, and empowering.  Code is not just a set of instructions for machines; it is a medium for expressing ideas about how we want to structure our digital lives.
-
-Every repository here is an attempt to build something that aligns with that vision – whether it's a secure system configuration, a cryptographic library, or a community space for learning.  I welcome collaboration, constructive criticism, and thoughtful conversation.
-
-> *"The only way to learn a new programming language is by writing programs in it."* – Dennis Ritchie
-> *"Security is a process, not a product."* – Bruce Schneier
-
----
-
-## 📫 get in touch
-
-- **discord:** [hollowsec](https://discord.gg/hollowsec) – join the community
-- **email:** (available on request)
-- **spotify:** [profile](https://open.spotify.com/user/31qp5b4dwgpbngzzycn6frrwgm7y) – what I listen to while coding
+| category | tools |
+|----------|-------|
+| **os** | arch linux |
+| **wm** | hyprland |
+| **shell** | zsh with powerlevel10k |
+| **terminal** | kitty |
+| **editor** | neovim |
+| **launcher** | rofi |
+| **bar** | waybar |
+| **browser** | firefox |
+| **notes** | obsidian |
 
 ---
 
-## 🙏 acknowledgements
+## 📫 where to find me
 
-- **catppuccin** – for the beautiful colour scheme that ties everything together
-- **arch linux community** – for the best distro and endless wiki pages
-- **hollowsec members** – for making security learning collaborative and fun
-- **open source maintainers** – whose work makes mine possible
+- **discord:** [hollowsec](https://discord.gg/hollowsec) – i hang out here
+- **spotify:** [profile](https://open.spotify.com/user/31qp5b4dwgpbngzzycn6frrwgm7y) – coding playlist
+
+---
+
+## 🧭 a note
+
+I am still learning.  My code is not perfect, my configs are not the cleanest, and my writeups may contain mistakes.  But I share them anyway because that is how we grow.  If you have feedback or want to collaborate, reach out.
 
 ---
 
@@ -102,6 +96,5 @@ Every repository here is an attempt to build something that aligns with that vis
 </p>
 
 <p align="center">
-  <sub>colourscheme: catppuccin mocha · system: arch linux · editor: neovim</sub>
+  <sub>colours: catppuccin mocha · editor: neovim</sub>
 </p>
-
