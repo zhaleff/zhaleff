@@ -42,11 +42,6 @@ A self‑taught programmer focused on cybersecurity and user privacy (still stud
 
 ## tech stack
 
-System Linux · Hyprland · Arch Linux
-Programming Java · Bash · CSS · C
-Hacking Hack The Box · TryHackMe · Hack4u
-
-
 I do not know everything, but I can learn it if needed.  Everything is part of YHWH's path.
 
 ---
@@ -91,4 +86,4 @@ I am part of **HollowSec**, a community dedicated to cybersecurity education and
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" width="100%" />
-</p> 
+</p>
