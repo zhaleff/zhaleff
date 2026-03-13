@@ -1,44 +1,49 @@
-<h1 align="left">zhaleff</h1>
+# zhaleff
 
-<p align="left">
-  <b>osint enthusiast · self‑taught · linux · ricing</b>
-</p>
+**OSINT enthusiast · self‑taught · Linux · ricing**
 
-<p align="left">
-  <a href="https://discord.gg/hollowsec"><img src="https://img.shields.io/badge/discord-hollowsec-000000?style=flat-square&logo=discord&logoColor=white&labelColor=000000&color=000000" /></a>
-  <a href="https://github.com/zhaleff/BlackNode"><img src="https://img.shields.io/badge/project-blacknode-000000?style=flat-square&logo=github&logoColor=white&labelColor=000000&color=000000" /></a>
-</p>
+[![Discord - HollowSec](https://img.shields.io/badge/discord-hollowsec-000000?style=flat-square&logo=discord&logoColor=white&labelColor=000000&color=000000)](https://discord.gg/hollowsec)
+[![Project - BlackNode](https://img.shields.io/badge/project-blacknode-000000?style=flat-square&logo=github&logoColor=white&labelColor=000000&color=000000)](https://github.com/zhaleff/BlackNode)
 
 ---
 
 ## about
 
-Hello.  I am zhaleff, a self‑taught learner wandering through the worlds of OSINT, Linux, and digital aesthetics.  I do not have formal degrees or certifications – just curiosity and a willingness to break things until they make sense.
+I'm zhaleff, a self‑taught learner exploring OSINT, Linux, and digital aesthetics.  
+No formal qualifications — just curiosity and a habit of breaking things until they make sense.
 
-I spend my time digging into open source intelligence, tweaking my Arch Linux setup until it feels right, and hanging out in the HollowSec community where people help each other grow.  I believe that the best way to learn is to share what you discover, even if it is not perfect.
+I spend my time digging into open‑source intelligence, tweaking my Arch Linux setup, and hanging out with the [HollowSec](https://discord.gg/hollowsec) community.  
+I believe the best way to learn is to share what you discover, even if it's not perfect.
 
 ---
 
 ## what i do
 
-| area | notes |
-|------|-------|
-| **osint** | digital footprints, metadata analysis, online investigations – still learning, always experimenting |
-| **linux** | arch user, hyprland tiling, terminal obsession, dotfiles that evolve daily |
-| **ricing** | making the desktop a place i want to be.  catppuccin colours everywhere |
-| **programming** | bash scripts to automate the boring, a little java, a little c, just enough to be dangerous |
+| area        | notes                                                                     |
+|-------------|---------------------------------------------------------------------------|
+| **OSINT**   | digital footprints, metadata analysis, online investigations — always experimenting |
+| **Linux**   | Arch user, Hyprland tiling, terminal obsession, dotfiles that evolve daily |
+| **ricing**  | making the desktop a place I want to be — Catppuccin colours everywhere   |
+| **code**    | Bash scripts to automate the boring, a little Java, a little C — just enough to be dangerous |
+
+**Currently learning:** Python for OSINT automation, better Neovim fu, and how to write cleaner markdown.
 
 ---
 
 ## projects
 
-### [blacknode](https://github.com/zhaleff/BlackNode)
-My dotfiles repository.  It started as a way to backup my configs and became a living document of how I learn.  Everything is commented so future me (and you) can understand why things are the way they are.  Not perfect, but mine.
+### [BlackNode](https://github.com/zhaleff/BlackNode)
+My dotfiles repository. Started as a backup, became a living document of how I learn.  
+Everything is commented so future me (and you) can understand why things are the way they are.  
+Not perfect, but mine.
 
-### hollowsec
-A Discord community where I found my people.  We talk about OSINT, hacking, programming, and life.  If you are curious about any of this, come say hi.
+### HollowSec
+A Discord community where I found my people. We talk about OSINT, security, programming, and life.  
+If you're curious, come say hi.
 
-[![hollowsec](https://img.shields.io/badge/discord-hollowsec-000000?style=flat-square&logo=discord&logoColor=white&labelColor=000000&color=000000)](https://discord.gg/hollowsec)
+[![Join HollowSec](https://img.shields.io/badge/discord-hollowsec-000000?style=flat-square&logo=discord&logoColor=white&labelColor=000000&color=000000)](https://discord.gg/hollowsec)
+
+---
 
 ## contributions
 
@@ -48,16 +53,35 @@ A Discord community where I found my people.  We talk about OSINT, hacking, prog
   <img alt="contribution graph" src="https://raw.githubusercontent.com/zhaleff/zhaleff/output/pacman-contribution-graph.svg" width="100%" />
 </picture>
 
+---
+
+## setup
+
+- **OS:** Arch Linux (btw)
+- **WM:** Hyprland
+- **Shell:** zsh + starship
+- **Editor:** Neovim (LazyVim config)
+- **Terminal:** Kitty
+- **Colours:** Catppuccin Mocha everywhere
+- **Dotfiles:** [BlackNode](https://github.com/zhaleff/BlackNode)
+
+---
+
 ## find me
 
-- **discord:** [hollowsec](https://discord.gg/hollowsec) – i am there most days
-- **spotify:** [profile](https://open.spotify.com/user/31qp5b4dwgpbngzzycn6frrwgm7y) – music while i tinker
+- **discord:** [HollowSec](https://discord.gg/hollowsec) – I'm there most days
+- **spotify:** [my profile](https://open.spotify.com/user/31qp5b4dwgpbngzzycn6frrwgm7y) – music while I tinker
+- **github:** you're already here
 
+---
 
 ## a thought
 
-I do not claim to be an expert.  I am just someone who enjoys learning out loud.  If something here helps you, great.  If you see a mistake, tell me.  If you want to collaborate, reach out.  We all start somewhere.
+I don't claim to be an expert. I'm just someone who enjoys learning out loud.  
+If something here helps you, great. If you spot a mistake, tell me. If you want to collaborate, reach out.  
+We all start somewhere.
 
+---
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" width="100%" />
