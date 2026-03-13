@@ -1,46 +1,44 @@
 # zhaleff
 
-**OSINT enthusiast · self‑taught · Linux · ricing**
+**OSINT enthusiast · self-taught · Linux · ricing**
 
 [![Discord - HollowSec](https://img.shields.io/badge/discord-hollowsec-000000?style=flat-square&logo=discord&logoColor=white&labelColor=000000&color=000000)](https://discord.gg/hollowsec)
 [![Project - BlackNode](https://img.shields.io/badge/project-blacknode-000000?style=flat-square&logo=github&logoColor=white&labelColor=000000&color=000000)](https://github.com/zhaleff/BlackNode)
 
 ---
 
-## 👋 About
+## about
 
-I'm zhaleff, a self‑taught learner based somewhere on the internet. I spend my days (and nights) digging into open‑source intelligence, tweaking my Arch Linux setup, and making my desktop feel like home. No formal degrees — just curiosity, patience, and a willingness to break things until they work.
+I am zhaleff, a self‑taught learner with a strong interest in open‑source intelligence, Linux systems, and digital minimalism. I do not hold formal qualifications in these fields; instead, I learn by doing, by breaking things, and by sharing what I discover with others.
 
-I'm part of the [HollowSec](https://discord.gg/hollowsec) community, where we share knowledge about OSINT, security, and programming. I believe in learning out loud: sharing what I discover, even if it's not perfect, because it might help someone else on the same path.
-
----
-
-## 🧠 What I Do
-
-| Area        | Focus                                                                 |
-|-------------|-----------------------------------------------------------------------|
-| **OSINT**   | Digital footprints, metadata analysis, online investigations — always experimenting with new tools and techniques |
-| **Linux**   | Daily driving Arch, Hyprland tiling WM, terminal obsession, dotfiles that evolve with every lesson |
-| **Ricing**  | Making the desktop a place I want to be — Catppuccin colours everywhere, consistent aesthetics, function meets form |
-| **Code**    | Bash scripting to automate the boring stuff, a bit of Java, a bit of C — enough to be dangerous and learn more |
-
-**Currently exploring:** Python for OSINT automation, advanced Neovim workflows, and writing cleaner documentation.
+I am a member of HollowSec, a Spanish‑speaking community focused on OSINT, security, and programming. The community has been instrumental in my growth, providing a space to exchange ideas and learn collaboratively.
 
 ---
 
-## 🛠️ Projects
+## what i do
 
-### [BlackNode](https://github.com/zhaleff/BlackNode)
-My dotfiles repository. What started as a simple backup became a living document of my learning journey. Every config is commented so future me (and you) can understand the *why* behind the choices. It's not perfect, but it's mine.
-
-### HollowSec Community
-A Discord server where I found my people. We talk about OSINT, security, programming, and life. If you're curious about any of this, come say hi — it's a welcoming space for learners at all levels.
-
-[![Join HollowSec](https://img.shields.io/badge/discord-hollowsec-000000?style=flat-square&logo=discord&logoColor=white&labelColor=000000&color=000000)](https://discord.gg/hollowsec)
+- **OSINT** – I explore digital footprints, metadata, and online investigation techniques. I am constantly testing new tools and methods, documenting my process as I go.
+- **Linux** – I use Arch Linux on a daily basis, with Hyprland as my window manager. I am deeply interested in system customisation, terminal efficiency, and maintaining a clean, functional workflow.
+- **Ricing** – For me, ricing is about creating a cohesive and pleasant desktop environment. I favour the Catppuccin colour scheme across all applications, ensuring visual consistency.
+- **Programming** – I write Bash scripts to automate routine tasks, and I have dabbled in Java and C. My goal is not to be an expert programmer, but to be able to build the tools I need.
 
 ---
 
-## 📊 GitHub Activity
+## projects
+
+### BlackNode
+My dotfiles repository, available on GitHub. It began as a simple backup of configuration files and evolved into a commented collection that reflects my learning process. Every file includes explanations so that anyone (including my future self) can understand the reasoning behind each setting.
+
+[View BlackNode on GitHub →](https://github.com/zhaleff/BlackNode)
+
+### HollowSec
+A Discord community where Spanish‑speaking enthusiasts gather to discuss OSINT, cybersecurity, and programming. We welcome learners at all stages and encourage knowledge sharing in a respectful environment.
+
+[Join HollowSec on Discord →](https://discord.gg/hollowsec)
+
+---
+
+## contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zhaleff/zhaleff/output/pacman-contribution-graph-dark.svg" />
@@ -50,29 +48,29 @@ A Discord server where I found my people. We talk about OSINT, security, program
 
 ---
 
-## 💻 Current Setup
+## current setup
 
-- **OS:** Arch Linux (btw)
-- **WM:** Hyprland (tiling all the things)
+- **Operating system:** Arch Linux
+- **Window manager:** Hyprland (tiling)
 - **Shell:** Zsh with Starship prompt
-- **Editor:** Neovim (LazyVim distribution, customised over time)
-- **Terminal:** Kitty
-- **Colour Scheme:** Catppuccin Mocha (because it's easy on the eyes)
-- **Dotfiles:** [BlackNode](https://github.com/zhaleff/BlackNode)
+- **Text editor:** Neovim (LazyVim distribution, customised)
+- **Terminal emulator:** Kitty
+- **Colour theme:** Catppuccin Mocha
+- **Dotfiles:** managed in [BlackNode](https://github.com/zhaleff/BlackNode)
 
 ---
 
-## 📫 Find Me
+## contact
 
-- **Discord:** [HollowSec](https://discord.gg/hollowsec) – I'm active there most days
-- **Spotify:** [My Profile](https://open.spotify.com/user/31qp5b4dwgpbngzzycn6frrwgm7y) – what I listen to while tinkering
-- **GitHub:** You're already here — check out my repos if you're curious
+- **Discord:** [HollowSec server](https://discord.gg/hollowsec) – I am active there regularly
+- **Spotify:** [My profile](https://open.spotify.com/user/31qp5b4dwgpbngzzycn6frrwgm7y) – music I listen to while working
+- **GitHub:** [zhaleff](https://github.com/zhaleff) – you are already here
 
 ---
 
-## 🌱 A Thought
+## a final note
 
-I don't claim to be an expert. I'm just someone who enjoys learning out loud and sharing the process. If something here helps you, brilliant. If you spot a mistake, please tell me — I'm still learning. If you want to collaborate or just chat, reach out. We all start somewhere.
+I do not present myself as an authority on any of these topics. I am simply documenting my journey and hoping that it might be useful to someone else. If you notice an error, have a suggestion, or wish to collaborate, please feel free to reach out. Everyone starts somewhere.
 
 ---
 
@@ -81,5 +79,5 @@ I don't claim to be an expert. I'm just someone who enjoys learning out loud and
 </p>
 
 <p align="center">
-  <sub>colours: catppuccin mocha · editor: neovim · always learning</sub>
+  <sub>colour scheme: catppuccin mocha · editor: neovim · always learning</sub>
 </p>
