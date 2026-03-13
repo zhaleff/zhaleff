@@ -1,44 +1,34 @@
 # zhaleff
 
-**OSINT enthusiast · self-taught · Linux · ricing**
+**osint · linux · ricing**
 
-[![Discord - HollowSec](https://img.shields.io/badge/discord-hollowsec-000000?style=flat-square&logo=discord&logoColor=white&labelColor=000000&color=000000)](https://discord.gg/hollowsec)
-[![Project - BlackNode](https://img.shields.io/badge/project-blacknode-000000?style=flat-square&logo=github&logoColor=white&labelColor=000000&color=000000)](https://github.com/zhaleff/BlackNode)
+i'm zhaleff, a self-taught learner exploring open-source intelligence, linux systems, and digital aesthetics. no formal credentials — just time, patience, and a willingness to break things until they work.
 
----
-
-## about
-
-I am zhaleff, a self‑taught learner with a strong interest in open‑source intelligence, Linux systems, and digital minimalism. I do not hold formal qualifications in these fields; instead, I learn by doing, by breaking things, and by sharing what I discover with others.
-
-I am a member of HollowSec, a Spanish‑speaking community focused on OSINT, security, and programming. The community has been instrumental in my growth, providing a space to exchange ideas and learn collaboratively.
+i'm part of **hollowsec**, a spanish-speaking discord community focused on osint, security, and programming. it's where i learn, share, and geek out with people who actually get it.
 
 ---
 
-## what i do
+### what i do
 
-- **OSINT** – I explore digital footprints, metadata, and online investigation techniques. I am constantly testing new tools and methods, documenting my process as I go.
-- **Linux** – I use Arch Linux on a daily basis, with Hyprland as my window manager. I am deeply interested in system customisation, terminal efficiency, and maintaining a clean, functional workflow.
-- **Ricing** – For me, ricing is about creating a cohesive and pleasant desktop environment. I favour the Catppuccin colour scheme across all applications, ensuring visual consistency.
-- **Programming** – I write Bash scripts to automate routine tasks, and I have dabbled in Java and C. My goal is not to be an expert programmer, but to be able to build the tools I need.
+**osint** — digital footprints, metadata, online investigations. i test tools, document methods, and share what i find.
 
----
+**linux** — arch daily driver, hyprland tiling, terminal-first workflow. i care about efficiency and control.
 
-## projects
+**ricing** — cohesive desktops that feel like home. catppuccin across the board, consistent aesthetics, nothing wasted.
 
-### BlackNode
-My dotfiles repository, available on GitHub. It began as a simple backup of configuration files and evolved into a commented collection that reflects my learning process. Every file includes explanations so that anyone (including my future self) can understand the reasoning behind each setting.
-
-[View BlackNode on GitHub →](https://github.com/zhaleff/BlackNode)
-
-### HollowSec
-A Discord community where Spanish‑speaking enthusiasts gather to discuss OSINT, cybersecurity, and programming. We welcome learners at all stages and encourage knowledge sharing in a respectful environment.
-
-[Join HollowSec on Discord →](https://discord.gg/hollowsec)
+**code** — bash for automation, some java and c when needed. enough to build what i need, not trying to impress anyone.
 
 ---
 
-## contributions
+### projects
+
+**[blacknode](https://github.com/zhaleff/BlackNode)** – my dotfiles. started as a backup, became a commented archive of how i learn. every line has a reason, and i explain it so future me (or you) doesn't have to guess.
+
+**[hollowsec](https://discord.gg/hollowsec)** – spanish-speaking community for osint, security, and programming. we're beginner-friendly and actually helpful. come hang out.
+
+---
+
+### contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zhaleff/zhaleff/output/pacman-contribution-graph-dark.svg" />
@@ -48,36 +38,30 @@ A Discord community where Spanish‑speaking enthusiasts gather to discuss OSINT
 
 ---
 
-## current setup
+### currently running
 
-- **Operating system:** Arch Linux
-- **Window manager:** Hyprland (tiling)
-- **Shell:** Zsh with Starship prompt
-- **Text editor:** Neovim (LazyVim distribution, customised)
-- **Terminal emulator:** Kitty
-- **Colour theme:** Catppuccin Mocha
-- **Dotfiles:** managed in [BlackNode](https://github.com/zhaleff/BlackNode)
-
----
-
-## contact
-
-- **Discord:** [HollowSec server](https://discord.gg/hollowsec) – I am active there regularly
-- **Spotify:** [My profile](https://open.spotify.com/user/31qp5b4dwgpbngzzycn6frrwgm7y) – music I listen to while working
-- **GitHub:** [zhaleff](https://github.com/zhaleff) – you are already here
+**os** · arch  
+**wm** · hyprland  
+**shell** · zsh + starship  
+**editor** · neovim (lazyvim)  
+**terminal** · kitty  
+**colours** · catppuccin mocha  
+**dotfiles** · [blacknode](https://github.com/zhaleff/BlackNode)
 
 ---
 
-## a final note
+### where to find me
 
-I do not present myself as an authority on any of these topics. I am simply documenting my journey and hoping that it might be useful to someone else. If you notice an error, have a suggestion, or wish to collaborate, please feel free to reach out. Everyone starts somewhere.
+**discord** · [hollowsec](https://discord.gg/hollowsec)  
+**spotify** · [31qp5b4dwgpbngzzycn6frrwgm7y](https://open.spotify.com/user/31qp5b4dwgpbngzzycn6frrwgm7y)  
+**github** · you're already here
 
 ---
+
+### a note
+
+i'm not an expert. i'm someone who learns out loud and shares the process. if something here helps, great. if you spot a mistake, tell me. if you want to collaborate, reach out. we all start somewhere.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" width="100%" />
-</p>
-
-<p align="center">
-  <sub>colour scheme: catppuccin mocha · editor: neovim · always learning</sub>
+  <sub>always learning</sub>
 </p>
