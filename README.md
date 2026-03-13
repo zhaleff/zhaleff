@@ -1,67 +1,42 @@
-# zhaleff
 
-**osint · linux · ricing**
+# Zhaleff Development
 
-i'm zhaleff, a self-taught learner exploring open-source intelligence, linux systems, and digital aesthetics. no formal credentials — just time, patience, and a willingness to break things until they work.
+Hello, I'm zhaleff, a programmer of an unknown age. I've been working on various projects for some time now, some public, others private.
 
-i'm part of **hollowsec**, a spanish-speaking discord community focused on osint, security, and programming. it's where i learn, share, and geek out with people who actually get it.
+## HollowSec 
 
----
+HollowSec is undoubtedly the best community for ethical hacking; it is a Spanish-speaking community and is not yet open to English or other languages. Here you can learn without fear of being judged – we all start from the very bottom.
 
-### what i do
+- Ethical hacking methodologies
+- Roadme Of Hollowsec 
+- Linux hardening and ricing (Hyprland, etc.)
+- OSINT techniques and tooling
+- Programming for security (Python, Bash, C)
+- Capture The Flag (CTF) challenges
+- HackTheBox and TryHackMe
 
-**osint** — digital footprints, metadata, online investigations. i test tools, document methods, and share what i find.
+ The community is entirely volunteer-run and free. We value quality over quantity — meaningful conversations and mutual help over noise. 
 
-**linux** — arch daily driver, hyprland tiling, terminal-first workflow. i care about efficiency and control.
+### [Join discord Community](https://discord.gg/hollowsec) - [Resources](https://hollowsec.surge.sh/resources.html)
 
-**ricing** — cohesive desktops that feel like home. catppuccin across the board, consistent aesthetics, nothing wasted.
+ 
+ - **BlackNode**: Curated dotfiles for Hyprland, kitty, and neovim. Popular among members for security-focused ricing.. 
+ - **Roadme**: 
 
-**code** — bash for automation, some java and c when needed. enough to build what i need, not trying to impress anyone.
+# 
+# What do I use it for?
 
----
+I’m a hobbyist programmer, and these are the tools I use on a day-to-day basis, depending on what I need.
 
-### projects
+- **OsintDeck**: My favourite place to find OSINT tools easily
+- **Google Dorking**: Advanced Google search techniques 
+- **NeoVim**: A simple yet excellent text editor 
+- **Linux**: Arch Linux, my main system for browsing the internet
 
-**[blacknode](https://github.com/zhaleff/BlackNode)** – my dotfiles. started as a backup, became a commented archive of how i learn. every line has a reason, and i explain it so future me (or you) doesn't have to guess.
+# 
+# Where can I find you? 
 
-**[hollowsec](https://discord.gg/hollowsec)** – spanish-speaking community for osint, security, and programming. we're beginner-friendly and actually helpful. come hang out.
+On most websites, I’m called by the same name, though there might be a few variations 
 
----
+If you just do a quick search for my name, you’ll find everything 
 
-### contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zhaleff/zhaleff/output/pacman-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zhaleff/zhaleff/output/pacman-contribution-graph.svg" />
-  <img alt="contribution graph" src="https://raw.githubusercontent.com/zhaleff/zhaleff/output/pacman-contribution-graph.svg" width="100%" />
-</picture>
-
----
-
-### currently running
-
-**os** · arch  
-**wm** · hyprland  
-**shell** · zsh + starship  
-**editor** · neovim (lazyvim)  
-**terminal** · kitty  
-**colours** · catppuccin mocha  
-**dotfiles** · [blacknode](https://github.com/zhaleff/BlackNode)
-
----
-
-### where to find me
-
-**discord** · [hollowsec](https://discord.gg/hollowsec)  
-**spotify** · [31qp5b4dwgpbngzzycn6frrwgm7y](https://open.spotify.com/user/31qp5b4dwgpbngzzycn6frrwgm7y)  
-**github** · you're already here
-
----
-
-### a note
-
-i'm not an expert. i'm someone who learns out loud and shares the process. if something here helps, great. if you spot a mistake, tell me. if you want to collaborate, reach out. we all start somewhere.
-
-<p align="center">
-  <sub>always learning</sub>
-</p>
