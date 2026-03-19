@@ -3,7 +3,7 @@
 
 Hello, I'm zhaleff, a programmer of an unknown age. I've been working on various projects for some time now, some public, others private.
 
-## HollowSec 
+# HollowSec 
 
 HollowSec is undoubtedly the best community for ethical hacking; it is a Spanish-speaking community and is not yet open to English or other languages. Here you can learn without fear of being judged – we all start from the very bottom.
 
@@ -60,4 +60,29 @@ I know a few languages, including the following programming languages; incidenta
 - **C and C++**: I don’t use them as often as other programming languages, but I know a bit about them 
 - **Bash**: Scripts to automate my tasks on Linux, Hyprland
 
+# 
+# HollowSec hacking tools.
 
+## HollowSec Card Generador 
+
+Whip up custom cards for Red Team, Blue Team, and Purple Team ops. Sort out professional-looking resources for your reports and paperwor
+
+Website: https://hollowsec.surge.sh/Cards-Generators/
+
+## Cheat Sheet dynamics
+
+An interactive database of commands for nmap, ffuf, sqlmap, and more. Look up what you need and snag the command, ready to be pasted. 
+
+Website: https://hollowsec.surge.sh/cheatsheet
+
+## PrivEsc Lab
+
+Generate ready-to-go privilege escalation commands. XSS, SQLi, SUID, Kerberoasting, Buffer Overflow, and loads more — just pop in your IP and port, and the commands will update in a jiffy.
+
+Website: https://hollowsec.surge.sh/privesc
+
+## CipherLab
+
+Scramble and unscramble messages with over 20 methods: Base64, Hex, ROT13, Caesar, Vigenère, Morse, Binary, XOR, SHA and loads more. It even sniffs out the cipher for you automatically.
+
+Website: https://hollowsec.surge.sh/CipherLab/
