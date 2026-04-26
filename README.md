@@ -4,7 +4,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&width=300&height=55&lines=zhaleff" alt="zhaleff"/>
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=3000&pause=900&color=888888&center=true&vCenter=true&width=500&height=24&lines=Java+%7C+Bash+%7C+React;always+learning.+never+stopping.;El+Salvador+%F0%9F%87%B8%F0%9F%87%BB" alt="subtitle"/>
+
 </div>
 
 <br/>
