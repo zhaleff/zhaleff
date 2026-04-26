@@ -1,7 +1,11 @@
 <div align="center">
-  <img src="https://media3.giphy.com/media/1zgzISaYrnMAYRJJEr/giphy.gif" width="280"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://media4.giphy.com/media/SWhsTrEYSrGd4CAhNC/giphy.gif" width="280"/>
+  <img src="https://media3.giphy.com/media/Rzr6V9lPpSM8g/giphy.gif" width="120"/>
+  &nbsp;&nbsp;
+  <img src="https://media4.giphy.com/media/AgIcbOGTAeD3W/giphy.gif" width="120"/>
+  &nbsp;&nbsp;
+  <img src="https://media3.giphy.com/media/ST0xhMQc369P2/giphy.gif" width="120"/>
+  &nbsp;&nbsp;
+  <img src="https://media2.giphy.com/media/1jgLDGD1Bn27e/giphy.gif" width="120"/>
 </div>
 
 <br/>
@@ -51,5 +55,11 @@
 <br/>
 
 <div align="center">
-  <img src="https://media2.giphy.com/media/XEPS7eSwQA15GSkK2O/giphy.gif" width="180"/>
+  <img src="https://media0.giphy.com/media/68O3K8YoyQRvG/200.gif" width="100"/>
+  &nbsp;&nbsp;
+  <img src="https://media4.giphy.com/media/lv2Pwd5dgZ76U/giphy.gif" width="100"/>
+  &nbsp;&nbsp;
+  <img src="https://media0.giphy.com/media/0tO2FFpIRRZEImDPnZ/giphy.gif" width="100"/>
+  &nbsp;&nbsp;
+  <img src="https://media1.giphy.com/media/016jMX4UhzUioJ6bxX/200.gif" width="100"/>
 </div>
