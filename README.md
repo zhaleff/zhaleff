@@ -1,40 +1,5 @@
 
 
-<br/>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=36&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&width=400&height=60&lines=zhaleff" alt="zhaleff"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=3000&pause=1000&color=555555&center=true&vCenter=true&width=600&height=28&lines=Java+%7C+Bash+%7C+React+%E2%80%94+learning+the+hard+way;reading+real+code%2C+not+tutorials;break+it.+understand+it.+rebuild+it." alt="subtitle"/>
-</p>
-
-<br/>
-
-<div align="center">
-
-```
-  ❯ whoami ──────────────────────────────────────────────────
-
-    name     →  zhaleff
-    path     →  Java → Bash → React → [ next ]
-    method   →  break it, read it, rebuild it
-    status   →  [ actively breaking things ]
-
-  ────────────────────────────────────────────────────────────
-```
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zhaleff&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=6" alt="trophies"/>
-</div>
-
-<br/>
-
 <div align="center">
   <img height="190" src="https://github-readme-stats.vercel.app/api?username=zhaleff&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=666666&count_private=true&include_all_commits=true&rank_icon=github&hide=issues"/>
   &nbsp;
