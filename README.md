@@ -1,138 +1,116 @@
-# <samp>Zhaleff Development</samp>
+# <samp>Zhaleff</samp>
 
-<div align="center">
-
-![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Welcome!&fontSize=30)
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira%20Code&size=22&pause=1000&color=58A6FF&background=0D1117&center=true&vCenter=true&width=500" alt="Typing Effect" />
-
-<br>
-
-> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*
-> <br>— **Martin Fowler**
-
-<br>
-
-<a href="https://github.com/zhaleff">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://instagram.com/zhaleff">
-<img src="assets/instagram.svg" height="28" alt="Instagram"/>
-</a>
-<a href="https://open.spotify.com/playlist/your-playlist">
-<img src="assets/spotify.svg" height="28" alt="Spotify"/>
-</a>
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira%20Code&size=24&pause=1000&color=cba6f7&background=1e1e2e&center=true&vCenter=true&width=600&lines=programmer;unknown%20age;building%20in%20silence" alt="Typing Effect" />
+</p>
 
 ---
 
-## <samp>About Me</samp>
+<p align="center">
+  <a href="https://github.com/zhaleff">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
+  </a>
+  <a href="https://instagram.com/zhaleff">
+    <img src="assets/instagram.svg" height="28" alt="Instagram"/>
+  </a>
+  <a href="https://open.spotify.com/playlist/your-playlist">
+    <img src="assets/spotify.svg" height="28" alt="Spotify"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=zhaleff&label=Profile%20views&color=cba6f7&style=flat-square">
+</p>
+
+---
 
 <div align="center">
 
-| Property | Value |
-|----------|-------|
-| **Name** | Zhaleff |
-| **Role** | Software Developer |
-| **Focus** | Backend / Systems |
-| **Location** | Unknown |
-| **Status** | Building something new |
-
-</div>
-
-```yaml
-whoami:
-  name: Zhaleff
-  occupation: Programmer
-  experience: Several projects shipped
-  currently:
-    - Working on private projects
-    - Contributing to open source
-    - Learning new technologies
+```
+╭───────────────────────────────────────────────────────────╮
+│  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  │
+│  ▓                                                   ▓  │
+│  ▓   > whoami                                        ▓  │
+│  ▓   > zhaleff - programmer of unknown age              ▓  │
+│  ▓   > status: building in silence                    ▓  │
+│  ▓   > projects: private until they're ready          ▓  │
+│  ▓                                                   ▓  │
+│  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  │
+╰───────────────────────────────────────────────────────────╯
 ```
 
+</div>
+
 ---
 
-## <samp>Tech Stack</samp>
+## <samp>Skills & Stack</samp>
 
-<div align="center">
-
-**Languages & Tools I Work With**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-57A64A?style=flat-square&logo=neovim&logoColor=white)
-
-</div>
+<p align="center">
+  <img src="top-lenguajes-dark.svg" alt="Top Languages" />
+</p>
 
 ---
 
 ## <samp>GitHub Stats</samp>
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zhaleff&theme=catppuccin_mocha&border_color=313244&show_icons=true&include_all_commits=true&count_private=true&line_height=20&title_color=cba6f7&icon_color=f5c2e7&text_color=cdd6f4&bg_color=1e1e2e" alt="GitHub Stats" />
+</p>
 
-| <img src="https://github-readme-stats.vercel.app/api?username=zhaleff&theme=midnight-purple&border_color=30363D&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" /> | <img src="https://github-readme-streak-stats.demolab.com/?user=zhaleff&theme=midnight-purple&border=30363D" alt="Streak Stats" /> |
-|:---:|:---:|
-
-<br>
-
-| <img src="https://github-readme-activity-graph.vercel.app/graph?username=zhaleff&theme=react-dark&bgColor=0D1117&color=58A6FF&line=58A6FF&point=58A6FF&areaColor=1F6FEB&area=true" alt="Activity Graph" /> |
-|:---:|
-| *Contribution Graph* |
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.demolab.com/?user=zhaleff&theme=catppuccin_mocha&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats" />
+</p>
 
 ---
 
-## <samp>Top Languages</samp>
+## <samp>Trophies</samp>
 
-<div align="center">
-
-<img src="top-lenguajes-dark.svg" alt="Top Languages" />
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zhaleff&theme=catppuccin_mocha&column=4&margin-w=15&margin-h=15" alt="Trophies" />
+</p>
 
 ---
 
-## <samp>Projects</samp>
+## <samp>Activity</samp>
 
-> ### Featured Projects
-> *Some of my public work*
-
-| Project | Description | Language |
-|---------|-------------|----------|
-| Coming soon... | More projects on the way | Various |
-
-*Visit my [repositories](https://github.com/zhaleff?tab=repositories) for more*
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zhaleff&theme=catppuccin_mocha&area=true&areaColor=cba6f7&color=cba6f7&hide_border=true" alt="Activity Graph" />
+</p>
 
 ---
 
-## <samp>Currently Reading / Listening</samp>
+## <samp>Snake</samp>
 
-<div align="left">
-
-> Working on several private projects. If something interesting comes out, you'll be the first to know.
->
-> Currently vibing to some good tunes on [Spotify](https://open.spotify.com/playlist/your-playlist).
-
-</div>
+<p align="center">
+  <img src="https://github.com/zhaleff/zhaleff/blob/output/github-contribution-grid-snake.svg" alt="Snake Game" />
+</p>
 
 ---
 
-<div align="center">
+<details>
+<summary><samp>Connect</samp></summary>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&height=30&color=0D1117&background=181717&section=footer" />
+<p align="center">
+  <a href="https://github.com/zhaleff">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
+  </a>
+  <a href="https://instagram.com/zhaleff">
+    <img src="assets/instagram.svg" height="32" alt="Instagram"/>
+  </a>
+  <a href="https://open.spotify.com/playlist/your-playlist">
+    <img src="assets/spotify.svg" height="32" alt="Spotify"/>
+  </a>
+</p>
 
-**Thanks for visiting my profile!** ⭐
+</details>
 
-*Connect with me on [Instagram](https://instagram.com/zhaleff)*
+---
 
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&height=30&color=1e1e2e&background=181926&section=footer" />
+</p>
+
+---
+
+<p align="center">
+  <sub>
+    <em>silence is the loudest answer</em>
+  </sub>
+</p>
