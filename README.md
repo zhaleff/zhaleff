@@ -1,42 +1,116 @@
-# zhaleff
 
-Frontend engineer. I care about how things feel.
 
-I build interfaces with React and Next.js — things that are precise, intentional, and worth the user's attention. I'm not interested in adding complexity. I'm interested in removing it until something actually works.
+<br/>
 
----
+![header](./header.svg)
 
-### What I focus on
+<br/>
+<br/>
 
-| UI Engineering | Performance | Precision |
-|---|---|---|
-| Components that behave exactly as expected, every time. | Fast by default, not as an afterthought. | The details that most people skip — I don't. |
 
----
+I build the layer between logic and people. Interfaces that behave exactly as expected, transitions that carry meaning, components that ship without footnotes.
 
-### How I work
+My work lives at the intersection of engineering precision and design intent — not as separate disciplines, but as one continuous practice.
 
-**01 — Clarity over cleverness.**  
-Code that's easy to read is easier to maintain, scale, and hand off.
+<br/>
 
-**02 — Design and development aren't separate.**  
-I think in both — that changes what I ship.
 
-**03 — Interfaces have opinions.**  
-Every spacing choice, every transition — someone made a decision. I make those decisions deliberately.
+<br/>
 
----
 
-### Tools I reach for
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td width="50%" valign="top" align="left">
+<a href="https://github.com/zhaleff/AwesomeDotfiles">
 
-`React` · `Next.js` · `TypeScript` · `Tailwind` · `Framer Motion` · `CSS`
+![card-awesomed](./card-awesomed.svg)
 
----
+</a>
+</td>
+<td width="4%"></td>
+<td width="46%" valign="top" align="left">
+<a href="https://github.com/zhaleff/BlackNode">
 
-### Find me
+![card-blacknode](./card-blacknode.svg)
 
-[github.com/zhaleff](https://github.com/zhaleff) · open to conversations
+</a>
+</td>
+</tr>
+<tr><td colspan="3"><br/></td></tr>
+<tr>
+<td width="50%" valign="top" align="left">
+<a href="https://github.com/zhaleff/hyprcraft">
 
----
+![card-hyprcraft](./card-hyprcraft.svg)
 
-<sub>currently building something worth showing</sub>
+</a>
+</td>
+<td width="4%"></td>
+<td width="46%" valign="top" align="left" style="vertical-align: middle; padding-top: 8px;">
+
+**Currently building something worth showing.**
+
+In the meantime — the work above speaks more clearly than any description I could write here.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+
+<br/>
+
+
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td width="25%" align="left">
+
+**Reach for daily**
+
+React &nbsp;·&nbsp; Next.js  
+TypeScript &nbsp;·&nbsp; Tailwind  
+Framer Motion &nbsp;·&nbsp; CSS
+
+</td>
+<td width="25%" align="left">
+
+**Work on**
+
+UI architecture  
+Component systems  
+Interaction design  
+Performance budgets
+
+</td>
+<td width="25%" align="left">
+
+**Care about**
+
+Spacing as communication  
+Motion with purpose  
+APIs that don't leak  
+Code that reads itself
+
+</td>
+<td width="25%" align="left">
+
+**Open to**
+
+Meaningful projects  
+Hard interface problems  
+Collaboration with people  
+who have strong opinions
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+
+
+<br/>
+<br/>
+
+
