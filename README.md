@@ -1,5 +1,5 @@
 <div align="center">
 
-![profile](./profile.svg)
+![zhaleff](https://raw.githubusercontent.com/zhaleff/zhaleff/main/profile.svg)
 
 </div>
