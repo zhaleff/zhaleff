@@ -1,101 +1,93 @@
 <svg width="860" height="580" viewBox="0 0 860 580" xmlns="http://www.w3.org/2000/svg">
 <defs>
 <style>
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;800&amp;family=DM+Sans:opsz,wght@9..40,300;9..40,400;9..40,500&amp;display=swap');
 .bg-main  { fill: #0c0a09; }
 .bg-card  { fill: #1a1210; }
 .bg-card2 { fill: #150f0d; }
 .ac       { fill: #c9856a; }
-.ac-str   { stroke: #c9856a; stroke-width: 1; fill: none; }
-.ac-str-t { stroke: #2a1f1a; stroke-width: 0.75; fill: none; }
-.title    { font-family: 'Playfair Display', Georgia, serif; font-size: 72px; font-weight: 800; fill: #f0ebe6; letter-spacing: -2px; }
-.sub      { font-family: 'DM Sans', system-ui, sans-serif; font-size: 14px; font-weight: 300; fill: #7a6560; letter-spacing: 0.04em; }
-.label    { font-family: 'DM Sans', system-ui, sans-serif; font-size: 10px; font-weight: 500; fill: #c9856a; letter-spacing: 0.18em; }
-.body     { font-family: 'DM Sans', system-ui, sans-serif; font-size: 14px; font-weight: 300; fill: #8a7570; }
-.body-em  { font-family: 'DM Sans', system-ui, sans-serif; font-size: 14px; font-weight: 400; fill: #b09080; }
-.ct       { font-family: 'Playfair Display', Georgia, serif; font-size: 18px; font-weight: 700; fill: #e8e0d8; }
-.ct-sm    { font-family: 'Playfair Display', Georgia, serif; font-size: 15px; font-weight: 700; fill: #d4c8be; }
-.star     { font-family: 'DM Sans', system-ui, sans-serif; font-size: 12px; font-weight: 500; fill: #c9856a; }
-.muted    { font-family: 'DM Sans', system-ui, sans-serif; font-size: 11px; font-weight: 400; fill: #4a3830; }
-.dot-js   { fill: #c9856a; }
-.dot-sh   { fill: #7a9e6a; }
-.dot-sc   { fill: #9a6aab; }
+.ac-t     { stroke: #2a1f1a; stroke-width: 0.75; fill: none; }
+.title    { font-family: Georgia, 'Times New Roman', serif; font-size: 72px; font-weight: bold; fill: #f0ebe6; letter-spacing: -2px; }
+.sub      { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; font-weight: 300; fill: #7a6560; letter-spacing: 0.06em; }
+.label    { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 10px; font-weight: 600; fill: #c9856a; letter-spacing: 0.2em; }
+.body     { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; font-weight: 300; fill: #7a6560; }
+.body-em  { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; font-weight: 500; fill: #a08070; }
+.ct       { font-family: Georgia, 'Times New Roman', serif; font-size: 17px; font-weight: bold; fill: #e8ddd5; }
+.ct-sm    { font-family: Georgia, 'Times New Roman', serif; font-size: 14px; font-style: italic; fill: #c4b5aa; }
+.star     { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 12px; font-weight: 500; fill: #c9856a; }
+.muted    { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 11px; fill: #3d2e28; }
 </style>
 </defs>
 
 <rect width="860" height="580" class="bg-main"/>
+<rect x="0" y="0" width="860" height="2" class="ac"/>
 
-<rect x="0" y"0" width="860" height="2" class="ac"/>
+<text x="48" y="110" class="title">Zhaleff</text>
+<rect x="48" y="126" width="48" height="2" class="ac"/>
+<text x="48" y="158" class="sub">OSINT · WEB DEVELOPMENT · LINUX CUSTOMIZATION</text>
 
+<text x="48" y="196" class="body">Self-taught developer. One year in, still questioning —</text>
+<text x="48" y="214" class="body">but that's the point.</text>
 
-<text x="48" y="118" class="title">Zhaleff</text>
+<line x1="48" y1="240" x2="400" y2="240" class="ac-t"/>
 
-<rect x="48" y="136" width="40" height="2" class="ac"/>
-
-<text x="48" y="168" class="sub">OSINT · Web Development · Linux Customization</text>
-
-<text x="48" y="202" class="body">Self-taught developer. One year in, still questioning —</text>
-<text x="48" y="220" class="body">but that's the point.</text>
-
-<line x1="48" y1="246" x2="420" y2="246" class="ac-str-t"/>
-
-
-<rect x="480" y="24" width="352" height="120" rx="10" class="bg-card"/>
-<rect x="480" y="24" width="3" height="120" rx="1" class="ac"/>
-<text x="500" y="55" class="ct">AwesomeDotfiles</text>
-<text x="500" y="74" class="body">Community Linux desktop config index.</text>
-<text x="500" y="91" class="body">Submitted and browsed by the community.</text>
-<line x1="500" y1="110" x2="818" y2="110" class="ac-str-t"/>
-<circle cx="510" cy="128" r="4" class="dot-js"/>
-<text x="522" y="132" class="muted">JavaScript</text>
-<text x="680" y="132" class="star">★ 185</text>
-<text x="750" y="132" class="muted">3 forks</text>
-
-<rect x="480" y="160" width="352" height="120" rx="10" class="bg-card"/>
-<rect x="480" y="160" width="3" height="120" rx="1" class="ac"/>
-<text x="500" y="191" class="ct">BlackNode</text>
-<text x="500" y="210" class="body">Your home in the terminal.</text>
-<text x="500" y="227" class="body">Simple, clean, yours.</text>
-<line x1="500" y1="246" x2="818" y2="246" class="ac-str-t"/>
-<circle cx="510" cy="264" r="4" class="dot-sh"/>
-<text x="522" y="268" class="muted">Shell</text>
-<text x="680" y="268" class="star">★ 141</text>
-<text x="750" y="268" class="muted">5 forks</text>
-
-<rect x="480" y="296" width="352" height="120" rx="10" class="bg-card"/>
-<rect x="480" y="296" width="3" height="120" rx="1" class="ac"/>
-<text x="500" y="327" class="ct">hyprcraft</text>
-<text x="500" y="346" class="body">A beautiful development environment,</text>
-<text x="500" y="363" class="body">built with care.</text>
-<line x1="500" y1="382" x2="818" y2="382" class="ac-str-t"/>
-<circle cx="510" cy="400" r="4" class="dot-sc"/>
-<text x="522" y="404" class="muted">SCSS</text>
-<text x="680" y="404" class="star">★ 117</text>
-<text x="750" y="404" class="muted">4 forks</text>
+<text x="48" y="272" class="label">FOCUS</text>
+<text x="48" y="300" class="body-em">Web Development</text>
+<text x="48" y="318" class="body">React · Next.js · TypeScript · Tailwind</text>
+<text x="48" y="350" class="body-em">OSINT Research</text>
+<text x="48" y="368" class="body">Open-source intelligence · Pattern recognition</text>
+<text x="48" y="400" class="body-em">Linux Customization</text>
+<text x="48" y="418" class="body">Hyprland · NeoVim · Waybar · dotfiles</text>
 
 
-<text x="48" y="282" class="label">FOCUS</text>
+<rect x="478" y="24" width="356" height="118" rx="8" class="bg-card"/>
+<rect x="478" y="24" width="3" height="118" rx="1" class="ac"/>
+<text x="498" y="54" class="ct">AwesomeDotfiles</text>
+<text x="498" y="74" class="body">Community Linux desktop config index.</text>
+<text x="498" y="91" class="body">Submitted and browsed by the community.</text>
+<line x1="498" y1="108" x2="820" y2="108" class="ac-t"/>
+<circle cx="507" cy="126" r="4" fill="#c9856a"/>
+<text x="518" y="130" class="muted">JavaScript</text>
+<text x="680" y="130" class="star">★ 185</text>
+<text x="748" y="130" class="muted">3 forks</text>
 
-<text x="48" y="312" class="body-em">Web Development</text>
-<text x="48" y="330" class="body">React · Next.js · TypeScript · Tailwind</text>
+<rect x="478" y="158" width="356" height="118" rx="8" class="bg-card"/>
+<rect x="478" y="158" width="3" height="118" rx="1" class="ac"/>
+<text x="498" y="188" class="ct">BlackNode</text>
+<text x="498" y="208" class="body">Your home in the terminal.</text>
+<text x="498" y="225" class="body">Simple, clean, yours.</text>
+<line x1="498" y1="242" x2="820" y2="242" class="ac-t"/>
+<circle cx="507" cy="260" r="4" fill="#7a9e6a"/>
+<text x="518" y="264" class="muted">Shell</text>
+<text x="680" y="264" class="star">★ 141</text>
+<text x="748" y="264" class="muted">5 forks</text>
 
-<text x="48" y="362" class="body-em">OSINT Research</text>
-<text x="48" y="380" class="body">Open-source intelligence · Pattern recognition</text>
+<rect x="478" y="292" width="356" height="118" rx="8" class="bg-card"/>
+<rect x="478" y="292" width="3" height="118" rx="1" class="ac"/>
+<text x="498" y="322" class="ct">hyprcraft</text>
+<text x="498" y="342" class="body">A beautiful development environment,</text>
+<text x="498" y="359" class="body">built with care.</text>
+<line x1="498" y1="376" x2="820" y2="376" class="ac-t"/>
+<circle cx="507" cy="394" r="4" fill="#9a6aab"/>
+<text x="518" y="398" class="muted">SCSS</text>
+<text x="680" y="398" class="star">★ 117</text>
+<text x="748" y="398" class="muted">4 forks</text>
 
-<text x="48" y="412" class="body-em">Linux Customization</text>
-<text x="48" y="430" class="body">Hyprland · NeoVim · Waybar · dotfiles</text>
+<rect x="478" y="426" width="356" height="118" rx="8" class="bg-card"/>
+<rect x="478" y="426" width="3" height="118" rx="1" class="ac"/>
+<text x="498" y="456" class="ct">hyprdots</text>
+<text x="498" y="476" class="body">Minimal configuration.</text>
+<text x="498" y="493" class="body">Thoughtful setup.</text>
+<line x1="498" y1="510" x2="820" y2="510" class="ac-t"/>
+<circle cx="507" cy="528" r="4" fill="#7a9e6a"/>
+<text x="518" y="532" class="muted">Shell</text>
+<text x="680" y="532" class="star">★ 23</text>
+<text x="748" y="532" class="muted">2 forks</text>
 
-
-<rect x="0" y="490" width="860" height="90" class="bg-card2"/>
-<line x1="0" y1="490" x2="860" y2="490" class="ac-str-t"/>
-
-<text x="48" y="528" class="ct-sm">"I started from the bottom and began digging,</text>
-<text x="48" y="548" class="ct-sm">because diamonds are always underground."</text>
-
-<text x="680" y="520" class="label">FIND ME</text>
-<text x="680" y="542" class="body">@zhaleff · @zephartw</text>
-<text x="680" y="560" class="muted">zhaleff.core@gmail.com</text>
+<rect x="0" y="488" width="478" height="92" class="bg-card2"/>
+<line x1="0" y1="488" x2="478" y2="488" class="ac-t"/>
+<text x="48" y="522" class="ct-sm">"I started from the bottom and began digging,</text>
+<text x="48" y="542" class="ct-sm">because diamonds are always underground."</text>
+<text x="48" y="566" class="label">@zhaleff · @zephartw · zhaleff.core@gmail.com</text>
 
 <rect x="0" y="578" width="860" height="2" class="ac"/>
-
 </svg>
