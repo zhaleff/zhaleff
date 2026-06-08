@@ -1,117 +1,69 @@
-<svg width="860" height="380" viewBox="0 0 860 380" xmlns="http://www.w3.org/2000/svg">
+<svg width="860" height="480" viewBox="0 0 860 480" xmlns="http://www.w3.org/2000/svg">
 
-  <!-- Background: GitHub dark sidebar gray -->
-  <rect width="860" height="380" fill="#f6f8fa"/>
+<rect width="860" height="480" fill="#0c0a09"/>
+<rect x="0" y="0" width="860" height="2" fill="#c9856a"/>
+<rect x="0" y="478" width="860" height="2" fill="#c9856a"/>
 
-  <!-- Top copper accent -->
-  <rect x="0" y="0" width="860" height="3" fill="#c9856a"/>
+<!-- NAME -->
+<text x="48" y="100" font-family="Georgia, 'Times New Roman', serif" font-size="72" font-weight="bold" fill="#f0ebe6" letter-spacing="-2">Zhaleff</text>
+<rect x="48" y="116" width="52" height="2" fill="#c9856a"/>
+<text x="48" y="148" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#7a6560" letter-spacing="3">OSINT · WEB DEVELOPMENT · LINUX</text>
 
-  <!-- LEFT COLUMN -->
+<!-- BIO -->
+<text x="48" y="188" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#9a8880">Self-taught developer. One year in, still questioning —</text>
+<text x="48" y="208" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#9a8880">but that that's the point.</text>
 
-  <!-- Name -->
-  <text x="48" y="98"
-    font-family="Georgia,'Times New Roman',serif"
-    font-size="68" font-weight="bold"
-    fill="#1c1917" letter-spacing="-2">Zhaleff</text>
+<!-- DIVIDER LEFT -->
+<line x1="48" y1="236" x2="400" y2="236" stroke="#2a1f1a" stroke-width="1"/>
 
-  <!-- Copper underline -->
-  <rect x="48" y="112" width="52" height="2.5" fill="#c9856a"/>
+<!-- FOCUS COLUMN LEFT -->
+<text x="48" y="264" font-family="Helvetica, Arial, sans-serif" font-size="10" font-weight="bold" fill="#c9856a" letter-spacing="3">BUILDING</text>
 
-  <!-- Role chip -->
-  <rect x="48" y="128" width="236" height="26" rx="13" fill="#e8ddd5"/>
-  <text x="64" y="146"
-    font-family="Helvetica,Arial,sans-serif"
-    font-size="11" font-weight="bold"
-    fill="#7a4a35" letter-spacing="1.6">OSINT · WEB · LINUX</text>
+<text x="48" y="294" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="bold" fill="#b09080">Web Development</text>
+<text x="48" y="312" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#7a6560">React · Next.js · TypeScript · Tailwind · Framer Motion</text>
 
-  <!-- Bio -->
-  <text x="48" y="192"
-    font-family="Helvetica,Arial,sans-serif"
-    font-size="14" fill="#57534e">Self-taught developer. One year in,</text>
-  <text x="48" y="212"
-    font-family="Helvetica,Arial,sans-serif"
-    font-size="14" fill="#57534e">still questioning — but that's the point.</text>
+<text x="48" y="344" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="bold" fill="#b09080">OSINT Research</text>
+<text x="48" y="362" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#7a6560">Open-source intelligence · Pattern recognition</text>
 
-  <!-- Thin divider -->
-  <line x1="48" y1="238" x2="400" y2="238" stroke="#e2d5ce" stroke-width="1"/>
+<text x="48" y="394" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="bold" fill="#b09080">Linux Customization</text>
+<text x="48" y="412" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#7a6560">Hyprland · NeoVim · Waybar · dotfiles</text>
 
-  <!-- Focus areas -->
-  <rect x="48" y="252" width="70" height="20" rx="10" fill="#e8ddd5"/>
-  <text x="60" y="267"
-    font-family="Helvetica,Arial,sans-serif"
-    font-size="10" font-weight="bold"
-    fill="#c9856a" letter-spacing="1.4">BUILDING</text>
+<!-- DIVIDER LEFT BOTTOM -->
+<line x1="48" y1="440" x2="400" y2="440" stroke="#2a1f1a" stroke-width="1"/>
+<text x="48" y="462" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#3d2e28">he/him · El Salvador</text>
 
-  <text x="48" y="298"
-    font-family="Helvetica,Arial,sans-serif"
-    font-size="14" fill="#1c1917">React · Next.js · TypeScript</text>
-  <text x="48" y="318"
-    font-family="Helvetica,Arial,sans-serif"
-    font-size="13" fill="#78716c">Tailwind · Framer Motion · CSS</text>
+<!-- RIGHT COLUMN BACKGROUND -->
+<rect x="460" y="24" width="372" height="432" rx="12" fill="#150f0d"/>
+<rect x="460" y="24" width="3" height="432" fill="#c9856a"/>
 
-  <line x1="48" y1="340" x2="400" y2="340" stroke="#e2d5ce" stroke-width="1"/>
+<!-- QUOTE -->
+<text x="488" y="72" font-family="Georgia, 'Times New Roman', serif" font-size="42" fill="#2e1e18">"</text>
+<text x="488" y="112" font-family="Georgia, 'Times New Roman', serif" font-size="14" font-style="italic" fill="#c4b5aa">"I started from the bottom and began</text>
+<text x="488" y="132" font-family="Georgia, 'Times New Roman', serif" font-size="14" font-style="italic" fill="#c4b5aa">digging, because diamonds are always</text>
+<text x="488" y="152" font-family="Georgia, 'Times New Roman', serif" font-size="14" font-style="italic" fill="#c4b5aa">underground."</text>
 
-  <rect x="48" y="352" width="80" height="20" rx="10" fill="#e8ddd5"/>
-  <text x="60" y="367"
-    font-family="Helvetica,Arial,sans-serif"
-    font-size="10" font-weight="bold"
-    fill="#c9856a" letter-spacing="1.4">EXPLORING</text>
+<line x1="488" y1="174" x2="812" y2="174" stroke="#2a1f1a" stroke-width="1"/>
 
-  <!-- RIGHT COLUMN — white surface card -->
-  <rect x="460" y="24" width="372" height="332" rx="20"
-    fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<!-- ABOUT -->
+<text x="488" y="200" font-family="Helvetica, Arial, sans-serif" font-size="10" font-weight="bold" fill="#c9856a" letter-spacing="3">ABOUT</text>
+<text x="488" y="228" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#9a8880">Student and self-taught developer who enjoys</text>
+<text x="488" y="246" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#9a8880">creating through code, Linux customization,</text>
+<text x="488" y="264" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#9a8880">and design. Values introspection, creativity,</text>
+<text x="488" y="282" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#9a8880">and constant self-improvement.</text>
 
-  <!-- Copper left bar on card -->
-  <rect x="460" y="24" width="4" height="332" rx="2" fill="#c9856a"/>
+<line x1="488" y1="308" x2="812" y2="308" stroke="#2a1f1a" stroke-width="1"/>
 
-  <!-- Quote mark -->
-  <text x="488" y="90"
-    font-family="Georgia,'Times New Roman',serif"
-    font-size="52" fill="#f0e6e0">"</text>
+<!-- CURRENTLY -->
+<text x="488" y="334" font-family="Helvetica, Arial, sans-serif" font-size="10" font-weight="bold" fill="#c9856a" letter-spacing="3">CURRENTLY</text>
+<text x="488" y="362" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#9a8880">Building personal projects · Exploring OSINT</text>
+<text x="488" y="380" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#9a8880">Customizing Linux environments · Learning</text>
+<text x="488" y="398" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#9a8880">cybersecurity fundamentals</text>
 
-  <text x="488" y="120"
-    font-family="Georgia,'Times New Roman',serif"
-    font-size="14" font-style="italic" fill="#78716c">I started from the bottom and began</text>
-  <text x="488" y="140"
-    font-family="Georgia,'Times New Roman',serif"
-    font-size="14" font-style="italic" fill="#78716c">digging, because diamonds are always</text>
-  <text x="488" y="160"
-    font-family="Georgia,'Times New Roman',serif"
-    font-size="14" font-style="italic" fill="#78716c">underground.</text>
+<line x1="488" y1="420" x2="812" y2="420" stroke="#2a1f1a" stroke-width="1"/>
 
-  <line x1="488" y1="184" x2="812" y2="184" stroke="#f0e8e4" stroke-width="1"/>
-
-  <!-- About label -->
-  <rect x="488" y="198" width="56" height="20" rx="10" fill="#f0e8e4"/>
-  <text x="500" y="213"
-    font-family="Helvetica,Arial,sans-serif"
-    font-size="10" font-weight="bold"
-    fill="#c9856a" letter-spacing="1.4">ABOUT</text>
-
-  <text x="488" y="248"
-    font-family="Helvetica,Arial,sans-serif"
-    font-size="13" fill="#57534e">Student and self-taught developer who</text>
-  <text x="488" y="266"
-    font-family="Helvetica,Arial,sans-serif"
-    font-size="13" fill="#57534e">enjoys creating through code, Linux</text>
-  <text x="488" y="284"
-    font-family="Helvetica,Arial,sans-serif"
-    font-size="13" fill="#57534e">customization, and design.</text>
-
-  <line x1="488" y1="304" x2="812" y2="304" stroke="#f0e8e4" stroke-width="1"/>
-
-  <!-- Contact chips -->
-  <rect x="488" y="318" width="100" height="22" rx="11" fill="#f6f8fa" stroke="#e2e8f0" stroke-width="1"/>
-  <text x="502" y="334"
-    font-family="Helvetica,Arial,sans-serif"
-    font-size="11" fill="#57534e">gh · @zhaleff</text>
-
-  <rect x="600" y="318" width="116" height="22" rx="11" fill="#f6f8fa" stroke="#e2e8f0" stroke-width="1"/>
-  <text x="614" y="334"
-    font-family="Helvetica,Arial,sans-serif"
-    font-size="11" fill="#57534e">tw · @zephartw</text>
-
-  <!-- Bottom copper accent -->
-  <rect x="0" y="377" width="860" height="3" fill="#c9856a"/>
+<!-- CONTACT -->
+<text x="488" y="444" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#7a6560">gh: @zhaleff</text>
+<text x="600" y="444" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#7a6560">tw: @zephartw</text>
+<text x="710" y="444" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#7a6560">disc: @zhaleff</text>
 
 </svg>
