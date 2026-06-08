@@ -1,161 +1,117 @@
-<svg width="860" height="440" viewBox="0 0 860 440" xmlns="http://www.w3.org/2000/svg">
-<style>
-  @keyframes fadeUp {
-    0%   { opacity: 0; transform: translateY(12px); }
-    100% { opacity: 1; transform: translateY(0); }
-  }
-  @keyframes fadeIn {
-    0%   { opacity: 0; }
-    100% { opacity: 1; }
-  }
-  @keyframes slideRight {
-    0%   { width: 0; }
-    100% { width: 48px; }
-  }
-  @keyframes pulse {
-    0%, 100% { opacity: 1; }
-    50%       { opacity: 0.4; }
-  }
+<svg width="860" height="380" viewBox="0 0 860 380" xmlns="http://www.w3.org/2000/svg">
 
-  .g-name   { animation: fadeUp 0.7s cubic-bezier(.4,0,.2,1) 0.1s both; }
-  .g-chip   { animation: fadeUp 0.7s cubic-bezier(.4,0,.2,1) 0.3s both; }
-  .g-bio    { animation: fadeUp 0.7s cubic-bezier(.4,0,.2,1) 0.5s both; }
-  .g-left   { animation: fadeUp 0.7s cubic-bezier(.4,0,.2,1) 0.6s both; }
-  .g-right  { animation: fadeUp 0.7s cubic-bezier(.4,0,.2,1) 0.7s both; }
-  .g-bottom { animation: fadeUp 0.7s cubic-bezier(.4,0,.2,1) 0.9s both; }
-  .g-dot    { animation: pulse 2.4s ease-in-out 1.2s infinite; }
-  .g-accent { animation: fadeIn 0.5s ease 0.05s both; }
-</style>
+  <!-- Background: GitHub dark sidebar gray -->
+  <rect width="860" height="380" fill="#f6f8fa"/>
 
-<!-- Background matches GitHub light: #f6f8fa -->
-<rect width="860" height="440" fill="#f6f8fa"/>
+  <!-- Top copper accent -->
+  <rect x="0" y="0" width="860" height="3" fill="#c9856a"/>
 
-<!-- Top accent bar — copper, full width -->
-<rect class="g-accent" x="0" y="0" width="860" height="3" rx="0" fill="#c9856a"/>
+  <!-- LEFT COLUMN -->
 
-<!-- ── HERO LEFT ─────────────────────────────────────────────────── -->
+  <!-- Name -->
+  <text x="48" y="98"
+    font-family="Georgia,'Times New Roman',serif"
+    font-size="68" font-weight="bold"
+    fill="#1c1917" letter-spacing="-2">Zhaleff</text>
 
-<!-- Name -->
-<text class="g-name"
-  x="48" y="100"
-  font-family="Georgia,'Times New Roman',serif"
-  font-size="64" font-weight="bold"
-  fill="#1f1108" letter-spacing="-1.5">Zhaleff</text>
+  <!-- Copper underline -->
+  <rect x="48" y="112" width="52" height="2.5" fill="#c9856a"/>
 
-<!-- Copper underline -->
-<rect class="g-accent" x="48" y="112" width="48" height="2.5" rx="1.25" fill="#c9856a"/>
-
-<!-- Role pill chip — M3 style -->
-<g class="g-chip">
-  <rect x="48" y="128" width="222" height="26" rx="13" fill="#e8ddd5"/>
+  <!-- Role chip -->
+  <rect x="48" y="128" width="236" height="26" rx="13" fill="#e8ddd5"/>
   <text x="64" y="146"
     font-family="Helvetica,Arial,sans-serif"
     font-size="11" font-weight="bold"
-    fill="#7a4a35" letter-spacing="1.8">OSINT · WEB · LINUX</text>
-</g>
+    fill="#7a4a35" letter-spacing="1.6">OSINT · WEB · LINUX</text>
 
-<!-- Bio -->
-<g class="g-bio">
-  <text x="48" y="186"
+  <!-- Bio -->
+  <text x="48" y="192"
     font-family="Helvetica,Arial,sans-serif"
     font-size="14" fill="#57534e">Self-taught developer. One year in,</text>
-  <text x="48" y="206"
+  <text x="48" y="212"
     font-family="Helvetica,Arial,sans-serif"
     font-size="14" fill="#57534e">still questioning — but that's the point.</text>
-</g>
 
-<!-- ── LEFT SURFACE CARD ─────────────────────────────────────────── -->
-<g class="g-left">
-  <!-- M3 surface container -->
-  <rect x="48" y="240" width="360" height="168" rx="20" fill="#ffffff"
-        stroke="#e2e8f0" stroke-width="1"/>
+  <!-- Thin divider -->
+  <line x1="48" y1="238" x2="400" y2="238" stroke="#e2d5ce" stroke-width="1"/>
 
-  <!-- Section label chip -->
-  <rect x="72" y="262" width="74" height="20" rx="10" fill="#f0e8e4"/>
-  <text x="84" y="277"
+  <!-- Focus areas -->
+  <rect x="48" y="252" width="70" height="20" rx="10" fill="#e8ddd5"/>
+  <text x="60" y="267"
     font-family="Helvetica,Arial,sans-serif"
     font-size="10" font-weight="bold"
-    fill="#c9856a" letter-spacing="1.5">BUILDING</text>
+    fill="#c9856a" letter-spacing="1.4">BUILDING</text>
 
-  <text x="72" y="308"
+  <text x="48" y="298"
     font-family="Helvetica,Arial,sans-serif"
     font-size="14" fill="#1c1917">React · Next.js · TypeScript</text>
-  <text x="72" y="328"
+  <text x="48" y="318"
     font-family="Helvetica,Arial,sans-serif"
-    font-size="13" fill="#78716c">Tailwind · Framer Motion</text>
+    font-size="13" fill="#78716c">Tailwind · Framer Motion · CSS</text>
 
-  <!-- Tonal divider -->
-  <line x1="72" y1="348" x2="388" y2="348" stroke="#f0e8e4" stroke-width="1"/>
+  <line x1="48" y1="340" x2="400" y2="340" stroke="#e2d5ce" stroke-width="1"/>
 
-  <rect x="72" y="360" width="82" height="20" rx="10" fill="#f0e8e4"/>
-  <text x="84" y="375"
+  <rect x="48" y="352" width="80" height="20" rx="10" fill="#e8ddd5"/>
+  <text x="60" y="367"
     font-family="Helvetica,Arial,sans-serif"
     font-size="10" font-weight="bold"
-    fill="#c9856a" letter-spacing="1.5">EXPLORING</text>
+    fill="#c9856a" letter-spacing="1.4">EXPLORING</text>
 
-  <text x="72" y="396"
+  <!-- RIGHT COLUMN — white surface card -->
+  <rect x="460" y="24" width="372" height="332" rx="20"
+    fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+
+  <!-- Copper left bar on card -->
+  <rect x="460" y="24" width="4" height="332" rx="2" fill="#c9856a"/>
+
+  <!-- Quote mark -->
+  <text x="488" y="90"
+    font-family="Georgia,'Times New Roman',serif"
+    font-size="52" fill="#f0e6e0">"</text>
+
+  <text x="488" y="120"
+    font-family="Georgia,'Times New Roman',serif"
+    font-size="14" font-style="italic" fill="#78716c">I started from the bottom and began</text>
+  <text x="488" y="140"
+    font-family="Georgia,'Times New Roman',serif"
+    font-size="14" font-style="italic" fill="#78716c">digging, because diamonds are always</text>
+  <text x="488" y="160"
+    font-family="Georgia,'Times New Roman',serif"
+    font-size="14" font-style="italic" fill="#78716c">underground.</text>
+
+  <line x1="488" y1="184" x2="812" y2="184" stroke="#f0e8e4" stroke-width="1"/>
+
+  <!-- About label -->
+  <rect x="488" y="198" width="56" height="20" rx="10" fill="#f0e8e4"/>
+  <text x="500" y="213"
     font-family="Helvetica,Arial,sans-serif"
-    font-size="13" fill="#78716c">OSINT · Cybersecurity · Pattern recognition</text>
-</g>
+    font-size="10" font-weight="bold"
+    fill="#c9856a" letter-spacing="1.4">ABOUT</text>
 
-<!-- ── RIGHT SURFACE CARD ─────────────────────────────────────────── -->
-<g class="g-right">
-  <rect x="432" y="240" width="396" height="168" rx="20" fill="#ffffff"
-        stroke="#e2e8f0" stroke-width="1"/>
-
-  <!-- Copper left bar inside card -->
-  <rect x="432" y="240" width="4" height="168" rx="2" fill="#c9856a"/>
-
-  <!-- Quote mark decorative -->
-  <text x="460" y="296"
-    font-family="Georgia,'Times New Roman',serif"
-    font-size="48" fill="#e8ddd5">"</text>
-
-  <text x="460" y="314"
-    font-family="Georgia,'Times New Roman',serif"
-    font-size="13" font-style="italic" fill="#78716c">I started from the bottom and began</text>
-  <text x="460" y="332"
-    font-family="Georgia,'Times New Roman',serif"
-    font-size="13" font-style="italic" fill="#78716c">digging, because diamonds are always</text>
-  <text x="460" y="350"
-    font-family="Georgia,'Times New Roman',serif"
-    font-size="13" font-style="italic" fill="#78716c">underground.</text>
-
-  <line x1="460" y1="370" x2="808" y2="370" stroke="#f0e8e4" stroke-width="1"/>
-
-  <!-- Live dot -->
-  <circle class="g-dot" cx="470" cy="395" r="4" fill="#c9856a"/>
-  <text x="482" y="400"
+  <text x="488" y="248"
     font-family="Helvetica,Arial,sans-serif"
-    font-size="12" fill="#a8a29e">open to interesting conversations</text>
-</g>
-
-<!-- ── BOTTOM CONTACT STRIP ───────────────────────────────────────── -->
-<g class="g-bottom">
-  <rect x="48" y="428" width="764" height="1" fill="#e8ddd5"/>
-
-  <text x="48" y="442" <!-- This won't show, outside viewBox, intentional for spacing -->
+    font-size="13" fill="#57534e">Student and self-taught developer who</text>
+  <text x="488" y="266"
     font-family="Helvetica,Arial,sans-serif"
-    font-size="11" fill="#a8a29e"/>
-</g>
+    font-size="13" fill="#57534e">enjoys creating through code, Linux</text>
+  <text x="488" y="284"
+    font-family="Helvetica,Arial,sans-serif"
+    font-size="13" fill="#57534e">customization, and design.</text>
 
-<!-- Contact row — inside viewbox -->
-<g class="g-bottom">
-  <!-- Three contact chips at bottom -->
-  <rect x="48" y="416" width="106" height="22" rx="11" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
-  <text x="62" y="432"
+  <line x1="488" y1="304" x2="812" y2="304" stroke="#f0e8e4" stroke-width="1"/>
+
+  <!-- Contact chips -->
+  <rect x="488" y="318" width="100" height="22" rx="11" fill="#f6f8fa" stroke="#e2e8f0" stroke-width="1"/>
+  <text x="502" y="334"
     font-family="Helvetica,Arial,sans-serif"
     font-size="11" fill="#57534e">gh · @zhaleff</text>
 
-  <rect x="166" y="416" width="118" height="22" rx="11" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
-  <text x="180" y="432"
+  <rect x="600" y="318" width="116" height="22" rx="11" fill="#f6f8fa" stroke="#e2e8f0" stroke-width="1"/>
+  <text x="614" y="334"
     font-family="Helvetica,Arial,sans-serif"
     font-size="11" fill="#57534e">tw · @zephartw</text>
 
-  <rect x="296" y="416" width="196" height="22" rx="11" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
-  <text x="310" y="432"
-    font-family="Helvetica,Arial,sans-serif"
-    font-size="11" fill="#57534e">zhaleff.core@gmail.com</text>
-</g>
+  <!-- Bottom copper accent -->
+  <rect x="0" y="377" width="860" height="3" fill="#c9856a"/>
 
 </svg>
