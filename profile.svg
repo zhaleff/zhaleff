@@ -1,87 +1,161 @@
-<svg width="860" height="580" viewBox="0 0 860 580" xmlns="http://www.w3.org/2000/svg">
+<svg width="860" height="440" viewBox="0 0 860 440" xmlns="http://www.w3.org/2000/svg">
+<style>
+  @keyframes fadeUp {
+    0%   { opacity: 0; transform: translateY(12px); }
+    100% { opacity: 1; transform: translateY(0); }
+  }
+  @keyframes fadeIn {
+    0%   { opacity: 0; }
+    100% { opacity: 1; }
+  }
+  @keyframes slideRight {
+    0%   { width: 0; }
+    100% { width: 48px; }
+  }
+  @keyframes pulse {
+    0%, 100% { opacity: 1; }
+    50%       { opacity: 0.4; }
+  }
 
-<rect width="860" height="580" fill="#0c0a09"/>
-<rect x="0" y="0" width="860" height="2" fill="#c9856a"/>
+  .g-name   { animation: fadeUp 0.7s cubic-bezier(.4,0,.2,1) 0.1s both; }
+  .g-chip   { animation: fadeUp 0.7s cubic-bezier(.4,0,.2,1) 0.3s both; }
+  .g-bio    { animation: fadeUp 0.7s cubic-bezier(.4,0,.2,1) 0.5s both; }
+  .g-left   { animation: fadeUp 0.7s cubic-bezier(.4,0,.2,1) 0.6s both; }
+  .g-right  { animation: fadeUp 0.7s cubic-bezier(.4,0,.2,1) 0.7s both; }
+  .g-bottom { animation: fadeUp 0.7s cubic-bezier(.4,0,.2,1) 0.9s both; }
+  .g-dot    { animation: pulse 2.4s ease-in-out 1.2s infinite; }
+  .g-accent { animation: fadeIn 0.5s ease 0.05s both; }
+</style>
 
-<!-- NAME -->
-<text x="48" y="110" font-family="Georgia, 'Times New Roman', serif" font-size="72" font-weight="bold" fill="#f0ebe6" letter-spacing="-2">Zhaleff</text>
-<rect x="48" y="126" width="48" height="2" fill="#c9856a"/>
-<text x="48" y="158" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#7a6560" letter-spacing="2">OSINT · WEB DEVELOPMENT · LINUX</text>
+<!-- Background matches GitHub light: #f6f8fa -->
+<rect width="860" height="440" fill="#f6f8fa"/>
 
-<!-- BIO -->
-<text x="48" y="196" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#7a6560">Self-taught developer. One year in, still questioning —</text>
-<text x="48" y="216" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#7a6560">but that's the point.</text>
+<!-- Top accent bar — copper, full width -->
+<rect class="g-accent" x="0" y="0" width="860" height="3" rx="0" fill="#c9856a"/>
 
-<line x1="48" y1="242" x2="400" y2="242" stroke="#2a1f1a" stroke-width="0.75"/>
+<!-- ── HERO LEFT ─────────────────────────────────────────────────── -->
 
-<!-- FOCUS -->
-<text x="48" y="272" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" font-weight="bold" fill="#c9856a" letter-spacing="3">FOCUS</text>
+<!-- Name -->
+<text class="g-name"
+  x="48" y="100"
+  font-family="Georgia,'Times New Roman',serif"
+  font-size="64" font-weight="bold"
+  fill="#1f1108" letter-spacing="-1.5">Zhaleff</text>
 
-<text x="48" y="300" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#a08070">Web Development</text>
-<text x="48" y="318" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#7a6560">React · Next.js · TypeScript · Tailwind</text>
+<!-- Copper underline -->
+<rect class="g-accent" x="48" y="112" width="48" height="2.5" rx="1.25" fill="#c9856a"/>
 
-<text x="48" y="350" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#a08070">OSINT Research</text>
-<text x="48" y="368" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#7a6560">Open-source intelligence · Pattern recognition</text>
+<!-- Role pill chip — M3 style -->
+<g class="g-chip">
+  <rect x="48" y="128" width="222" height="26" rx="13" fill="#e8ddd5"/>
+  <text x="64" y="146"
+    font-family="Helvetica,Arial,sans-serif"
+    font-size="11" font-weight="bold"
+    fill="#7a4a35" letter-spacing="1.8">OSINT · WEB · LINUX</text>
+</g>
 
-<text x="48" y="400" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#a08070">Linux Customization</text>
-<text x="48" y="418" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#7a6560">Hyprland · NeoVim · Waybar · dotfiles</text>
+<!-- Bio -->
+<g class="g-bio">
+  <text x="48" y="186"
+    font-family="Helvetica,Arial,sans-serif"
+    font-size="14" fill="#57534e">Self-taught developer. One year in,</text>
+  <text x="48" y="206"
+    font-family="Helvetica,Arial,sans-serif"
+    font-size="14" fill="#57534e">still questioning — but that's the point.</text>
+</g>
 
-<!-- PROJECT CARDS -->
+<!-- ── LEFT SURFACE CARD ─────────────────────────────────────────── -->
+<g class="g-left">
+  <!-- M3 surface container -->
+  <rect x="48" y="240" width="360" height="168" rx="20" fill="#ffffff"
+        stroke="#e2e8f0" stroke-width="1"/>
 
-<!-- AwesomeDotfiles -->
-<rect x="478" y="24" width="356" height="118" rx="8" fill="#1a1210"/>
-<rect x="478" y="24" width="3" height="118" rx="1" fill="#c9856a"/>
-<text x="498" y="54" font-family="Georgia, 'Times New Roman', serif" font-size="17" font-weight="bold" fill="#e8ddd5">AwesomeDotfiles</text>
-<text x="498" y="74" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#7a6560">Community Linux desktop config index.</text>
-<text x="498" y="91" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#7a6560">Submitted and browsed by the community.</text>
-<line x1="498" y1="108" x2="820" y2="108" stroke="#2a1f1a" stroke-width="0.75"/>
-<circle cx="507" cy="126" r="4" fill="#c9856a"/>
-<text x="518" y="130" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#3d2e28">JavaScript</text>
-<text x="680" y="130" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="500" fill="#c9856a">★ 185</text>
-<text x="748" y="130" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#3d2e28">3 forks</text>
+  <!-- Section label chip -->
+  <rect x="72" y="262" width="74" height="20" rx="10" fill="#f0e8e4"/>
+  <text x="84" y="277"
+    font-family="Helvetica,Arial,sans-serif"
+    font-size="10" font-weight="bold"
+    fill="#c9856a" letter-spacing="1.5">BUILDING</text>
 
-<!-- BlackNode -->
-<rect x="478" y="158" width="356" height="118" rx="8" fill="#1a1210"/>
-<rect x="478" y="158" width="3" height="118" rx="1" fill="#c9856a"/>
-<text x="498" y="188" font-family="Georgia, 'Times New Roman', serif" font-size="17" font-weight="bold" fill="#e8ddd5">BlackNode</text>
-<text x="498" y="208" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#7a6560">Your home in the terminal.</text>
-<text x="498" y="225" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#7a6560">Simple, clean, yours.</text>
-<line x1="498" y1="242" x2="820" y2="242" stroke="#2a1f1a" stroke-width="0.75"/>
-<circle cx="507" cy="260" r="4" fill="#7a9e6a"/>
-<text x="518" y="264" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#3d2e28">Shell</text>
-<text x="680" y="264" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="500" fill="#c9856a">★ 141</text>
-<text x="748" y="264" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#3d2e28">5 forks</text>
+  <text x="72" y="308"
+    font-family="Helvetica,Arial,sans-serif"
+    font-size="14" fill="#1c1917">React · Next.js · TypeScript</text>
+  <text x="72" y="328"
+    font-family="Helvetica,Arial,sans-serif"
+    font-size="13" fill="#78716c">Tailwind · Framer Motion</text>
 
-<!-- hyprcraft -->
-<rect x="478" y="292" width="356" height="118" rx="8" fill="#1a1210"/>
-<rect x="478" y="292" width="3" height="118" rx="1" fill="#c9856a"/>
-<text x="498" y="322" font-family="Georgia, 'Times New Roman', serif" font-size="17" font-weight="bold" fill="#e8ddd5">hyprcraft</text>
-<text x="498" y="342" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#7a6560">A beautiful development environment,</text>
-<text x="498" y="359" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#7a6560">built with care.</text>
-<line x1="498" y1="376" x2="820" y2="376" stroke="#2a1f1a" stroke-width="0.75"/>
-<circle cx="507" cy="394" r="4" fill="#9a6aab"/>
-<text x="518" y="398" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#3d2e28">SCSS</text>
-<text x="680" y="398" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="500" fill="#c9856a">★ 117</text>
-<text x="748" y="398" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#3d2e28">4 forks</text>
+  <!-- Tonal divider -->
+  <line x1="72" y1="348" x2="388" y2="348" stroke="#f0e8e4" stroke-width="1"/>
 
-<!-- hyprdots -->
-<rect x="478" y="426" width="356" height="118" rx="8" fill="#1a1210"/>
-<rect x="478" y="426" width="3" height="118" rx="1" fill="#c9856a"/>
-<text x="498" y="456" font-family="Georgia, 'Times New Roman', serif" font-size="17" font-weight="bold" fill="#e8ddd5">hyprdots</text>
-<text x="498" y="476" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#7a6560">Minimal configuration.</text>
-<text x="498" y="493" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#7a6560">Thoughtful setup.</text>
-<line x1="498" y1="510" x2="820" y2="510" stroke="#2a1f1a" stroke-width="0.75"/>
-<circle cx="507" cy="528" r="4" fill="#7a9e6a"/>
-<text x="518" y="532" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#3d2e28">Shell</text>
-<text x="680" y="532" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="500" fill="#c9856a">★ 23</text>
-<text x="748" y="532" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#3d2e28">2 forks</text>
+  <rect x="72" y="360" width="82" height="20" rx="10" fill="#f0e8e4"/>
+  <text x="84" y="375"
+    font-family="Helvetica,Arial,sans-serif"
+    font-size="10" font-weight="bold"
+    fill="#c9856a" letter-spacing="1.5">EXPLORING</text>
 
-<!-- BOTTOM STRIP -->
-<rect x="0" y="488" width="470" height="90" fill="#150f0d"/>
-<line x1="0" y1="488" x2="470" y2="488" stroke="#2a1f1a" stroke-width="0.75"/>
-<text x="48" y="522" font-family="Georgia, 'Times New Roman', serif" font-size="13" font-style="italic" fill="#c4b5aa">"I started from the bottom and began digging,</text>
-<text x="48" y="542" font-family="Georgia, 'Times New Roman', serif" font-size="13" font-style="italic" fill="#c4b5aa">because diamonds are always underground."</text>
-<text x="48" y="566" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" font-weight="bold" fill="#c9856a" letter-spacing="2">@zhaleff · @zephartw · zhaleff.core@gmail.com</text>
+  <text x="72" y="396"
+    font-family="Helvetica,Arial,sans-serif"
+    font-size="13" fill="#78716c">OSINT · Cybersecurity · Pattern recognition</text>
+</g>
 
-<rect x="0" y="578" width="860" height="2" fill="#c9856a"/>
+<!-- ── RIGHT SURFACE CARD ─────────────────────────────────────────── -->
+<g class="g-right">
+  <rect x="432" y="240" width="396" height="168" rx="20" fill="#ffffff"
+        stroke="#e2e8f0" stroke-width="1"/>
+
+  <!-- Copper left bar inside card -->
+  <rect x="432" y="240" width="4" height="168" rx="2" fill="#c9856a"/>
+
+  <!-- Quote mark decorative -->
+  <text x="460" y="296"
+    font-family="Georgia,'Times New Roman',serif"
+    font-size="48" fill="#e8ddd5">"</text>
+
+  <text x="460" y="314"
+    font-family="Georgia,'Times New Roman',serif"
+    font-size="13" font-style="italic" fill="#78716c">I started from the bottom and began</text>
+  <text x="460" y="332"
+    font-family="Georgia,'Times New Roman',serif"
+    font-size="13" font-style="italic" fill="#78716c">digging, because diamonds are always</text>
+  <text x="460" y="350"
+    font-family="Georgia,'Times New Roman',serif"
+    font-size="13" font-style="italic" fill="#78716c">underground.</text>
+
+  <line x1="460" y1="370" x2="808" y2="370" stroke="#f0e8e4" stroke-width="1"/>
+
+  <!-- Live dot -->
+  <circle class="g-dot" cx="470" cy="395" r="4" fill="#c9856a"/>
+  <text x="482" y="400"
+    font-family="Helvetica,Arial,sans-serif"
+    font-size="12" fill="#a8a29e">open to interesting conversations</text>
+</g>
+
+<!-- ── BOTTOM CONTACT STRIP ───────────────────────────────────────── -->
+<g class="g-bottom">
+  <rect x="48" y="428" width="764" height="1" fill="#e8ddd5"/>
+
+  <text x="48" y="442" <!-- This won't show, outside viewBox, intentional for spacing -->
+    font-family="Helvetica,Arial,sans-serif"
+    font-size="11" fill="#a8a29e"/>
+</g>
+
+<!-- Contact row — inside viewbox -->
+<g class="g-bottom">
+  <!-- Three contact chips at bottom -->
+  <rect x="48" y="416" width="106" height="22" rx="11" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+  <text x="62" y="432"
+    font-family="Helvetica,Arial,sans-serif"
+    font-size="11" fill="#57534e">gh · @zhaleff</text>
+
+  <rect x="166" y="416" width="118" height="22" rx="11" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+  <text x="180" y="432"
+    font-family="Helvetica,Arial,sans-serif"
+    font-size="11" fill="#57534e">tw · @zephartw</text>
+
+  <rect x="296" y="416" width="196" height="22" rx="11" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+  <text x="310" y="432"
+    font-family="Helvetica,Arial,sans-serif"
+    font-size="11" fill="#57534e">zhaleff.core@gmail.com</text>
+</g>
+
 </svg>
