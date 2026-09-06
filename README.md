@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://media.tenor.com/bf9t4Ni0Vl8AAAAm/roxy-migurdia.webp" width="300" style="border-radius: 12px; margin-bottom: 16px;" alt="Roxy Migurdia">
 
-  <h1>zhaleff</h1>
+  <h1>zhaleff </h1>
   <p>independent programmer | frontend learner | ui/ux enthusiast</p>
 
   <img src="https://img.shields.io/badge/status-hobby%20coder-gray?style=for-the-badge" alt="Status">
