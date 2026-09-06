@@ -1,100 +1,59 @@
-# ✿✿✿ zhaleff's Kawaii Coding Corner ✿✿✿
-
 <div align="center">
-  
-![kawaii blue hair anime girl](https://media.tenor.com/kawaii-blue-hair-anime.gif)
 
-**ʕ •̀ ω •́ ʔ | Welcome to my digital diary!**
+<img src="https://media.tenor.com/xfAxPT0yqP4AAAAC/blue-hair-anime.gif" width="400" alt="anime girl">
 
-[![GitHub](https://img.shields.io/badge/GitHub-%E2%99%A1-pink?style=for-the-badge)](https://github.com/zhaleff)
-[![Learning](https://img.shields.io/badge/Status-Learning%20%F0%9F%92%96-blue?style=for-the-badge)]()
-[![Coffee](https://img.shields.io/badge/Fuel-Coffee%20%26%20Anime-brown?style=for-the-badge)]()
+# zhaleff
+
+*programmer learning stuff*
 
 </div>
 
----
+<br>
 
-## ฅ^••^ฅ About Me
+## about me
 
-**Konnichiwa!** I'm **zhaleff** (｡•̀ᴗ-)✧ 
+hi, i code things and try to make them look nice. currently learning frontend (ui/ux).
 
-Just a sleepy programmer-chan who codes while watching anime! 💻✨
+i don't write perfect code, i just learn from my mistakes ¯\_(ツ)_/¯
 
--  **Currently learning:** Frontend Development (UI/UX desu~)
-- 🌸 **My vibe:** Making things kawaii AND functional
-- 💕 **Philosophy:** "Perfect code? Never heard of her! I learn from my bugs! (≡^∇^)"
-- 🎮 **GitHub is:** My hobby playground, not a resume!
+**what i do:**
+- frontend development
+- making things look kawaii
+- learning design stuff
 
----
+**my github energy:** 
+this is just my digital closet where i throw my code, not my portfolio lol
 
-## ฅ^◕ﻌ◕^ฅ What I Do
+<br>
 
 <div align="center">
 
-**✧ Frontend Magic ✧**  
-*Turning coffee into cute interfaces*
+<img src="https://media.tenor.com/VYiWZwB1KjEAAAAC/coding-typing.gif" width="300">
 
-** UI/UX Dreams ✧**  
-*Making websites as kawaii as possible*
-
-**✧ Learning Journey ✧**  
-*Every error is a lesson, senpai!*
+*currently coding something probably broken*
 
 </div>
 
----
+<br>
 
-## 🌸 Current Mood
+## tech stack
 
-![coding anime girl](https://media.giphy.com/media/coding-anime-aesthetic/giphy.gif)
+learning these:
 
-*"Compiling... please wait... (｡•́︿•̀｡)"*
+**html · css · javascript**
 
----
+more coming soon...
 
-##  Tech Stack (Learning Edition)
+<br>
 
 <div align="center">
 
-**HTML** | **CSS** | **JavaScript**  
-* Learning ✧* | *✧ Practicing ✧* | *✧ Struggling ✧*
-
-*More coming soon! (ﾉ^ω^) ﾉ*
+<img src="https://media.tenor.com/0nNzXUgqHYsAAAAC/anime-computer.gif" width="250">
 
 </div>
 
----
-
-##  Otaku Coder Quotes
-
-> *"My code has bugs, but my heart has BUGs too... for anime! (ﾉヮ◕) ﾉ*:･ﾟ✧"*
-
-> *"GitHub is just where I keep my coding diary, senpai! It's not perfect, but it's mine! ʕ •́ ᴥ •̀ ʔ"*
-
----
-
-##  Let's Be Friends!
-
 <div align="center">
 
-**Come say hi!** (ﾉ◕ヮ◕) *:･ﾟ✧
-
-I don't bite... unless you criticize my waifu! 💙
-
----
-
-*Made with* 💕 *and too much anime*  
-*Thanks for visiting my kawaii corner!* ✿✿✿
-
-</div>
-
----
-
-<div align="center">
-
-![anime girl typing](https://media.tenor.com/anime-typing-cute.gif)
-
-**ʕ •̀ ω •́ ʔ Thanks for stopping by!**  
-*Come back soon, senpai!* 🌸
+*thanks for visiting* ✿
 
 </div>
