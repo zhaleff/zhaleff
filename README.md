@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.tenor.com/8934618270476824879/tenor.gif" width="300" style="border-radius: 12px; margin-bottom: 16px;" alt="Roxy Migurdia">
+  <img src="https://media.tenor.com/bf9t4Ni0Vl8AAAAm/roxy-migurdia.webp" width="300" style="border-radius: 12px; margin-bottom: 16px;" alt="Roxy Migurdia">
 
   <h1>zhaleff</h1>
   <p>independent programmer | frontend learner | ui/ux enthusiast</p>
