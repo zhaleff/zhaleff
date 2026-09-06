@@ -16,8 +16,6 @@
 
 I code and learn frontend development, covering both UI and UX. I strive to create user-friendly experiences and I am committed to learning anything related to design.
 
-I do not write perfect code. I make mistakes, but I learn from the errors in my code. That is how I improve.
-
 This GitHub is strictly a hobby. It is not a professional portfolio or a resume. It is a personal space where I experiment, play with code, and treat programming as a leisure activity rather than a strict obligation.
 
 <br clear="right">
