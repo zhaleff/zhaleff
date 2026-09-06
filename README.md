@@ -1,1 +1,50 @@
-<div align="center"> <img src="https://media.tenor.com/8934618270476824879/tenor.gif" width="300" style="border-radius: 12px; margin-bottom: 16px;" alt="Roxy Migurdia"> <h1>zhaleff</h1> <p>independent programmer | frontend learner | ui/ux enthusiast</p> <img src="https://img.shields.io/badge/status-hobby%20coder-gray?style=for-the-badge" alt="Status"> <img src="https://img.shields.io/badge/focus-frontend%20%26%20design-blue?style=for-the-badge" alt="Focus"> <img src="https://img.shields.io/badge/mindset-learning%20from%20errors-green?style=for-the-badge" alt="Mindset"> </div> <br> <img align="right" width="40%" src="https://media.tenor.com/bf9t4Ni0Vl8AAAAm/roxy-migurdia.webp" style="border-radius: 12px;"> <h3>about me</h3> <p>I code and learn frontend development, covering both UI and UX. I strive to create user-friendly experiences and I am committed to learning anything related to design.</p> <p>I do not write perfect code. I make mistakes, but I learn from the errors in my code. That is how I improve.</p> <p>This GitHub is strictly a hobby. It is not a professional portfolio or a resume. It is a personal space where I experiment, play with code, and treat programming as a leisure activity rather than a strict obligation.</p> <br clear="right"> <br> <img align="left" width="40%" src="https://media.tenor.com/seGvGe7Cp2cAAAAm/anime-bocchi.webp" style="border-radius: 12px;"> <h3>tech stack</h3> <p>Currently building my foundation and learning the ropes:</p> <p> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"> </p> <p>Always open to learning new tools, frameworks, and design principles.</p> <br clear="left"> <br> <img align="right" width="40%" src="https://media.tenor.com/kER80hwIHl4AAAAM/roxy-roxy-migurdia.gif" style="border-radius: 12px;"> <h3>philosophy</h3> <p>Perfect code is a myth. The real value is in the iteration, the debugging, and the gradual improvement of both the product and the programmer.</p> <p>Thanks for visiting my digital hobby space.</p> <br clear="right">
+<div align="center">
+  <img src="https://media.tenor.com/8934618270476824879/tenor.gif" width="300" style="border-radius: 12px; margin-bottom: 16px;" alt="Roxy Migurdia">
+
+  <h1>zhaleff</h1>
+  <p>independent programmer | frontend learner | ui/ux enthusiast</p>
+
+  <img src="https://img.shields.io/badge/status-hobby%20coder-gray?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/focus-frontend%20%26%20design-blue?style=for-the-badge" alt="Focus">
+  <img src="https://img.shields.io/badge/mindset-learning%20from%20errors-green?style=for-the-badge" alt="Mindset">
+</div>
+
+<br>
+
+## About Me
+
+<img align="right" width="40%" src="https://media.tenor.com/bf9t4Ni0Vl8AAAAm/roxy-migurdia.webp" style="border-radius: 12px;">
+
+I code and learn frontend development, covering both UI and UX. I strive to create user-friendly experiences and I am committed to learning anything related to design.
+
+I do not write perfect code. I make mistakes, but I learn from the errors in my code. That is how I improve.
+
+This GitHub is strictly a hobby. It is not a professional portfolio or a resume. It is a personal space where I experiment, play with code, and treat programming as a leisure activity rather than a strict obligation.
+
+<br clear="right">
+
+## Tech Stack
+
+<img align="left" width="40%" src="https://media.tenor.com/seGvGe7Cp2cAAAAm/anime-bocchi.webp" style="border-radius: 12px;">
+
+Currently building my foundation and learning the ropes:
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+</p>
+
+Always open to learning new tools, frameworks, and design principles.
+
+<br clear="left">
+
+## Philosophy
+
+<img align="right" width="40%" src="https://media.tenor.com/kER80hwIHl4AAAAM/roxy-roxy-migurdia.gif" style="border-radius: 12px;">
+
+Perfect code is a myth. The real value is in the iteration, the debugging, and the gradual improvement of both the product and the programmer.
+
+Thanks for visiting my digital hobby space.
+
+<br clear="right">
