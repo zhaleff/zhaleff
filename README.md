@@ -13,7 +13,7 @@
 
 ## About Me
 
-<img align="right" width="40%" src="https://media.tenor.com/bf9t4Ni0Vl8AAAAm/roxy-migurdia.webp" style="border-radius: 12px;">
+<img align="right" width="40%" src="https://media.tenor.com/XPSFv4XkxbAAAAAM/roxy-migurdia-mushoku-tensei.gif" style="border-radius: 12px;">
 
 I code and learn frontend development, covering both UI and UX. I strive to create user-friendly experiences and I am committed to learning anything related to design.
 
