@@ -22,7 +22,7 @@ This GitHub is strictly a hobby. It is not a professional portfolio or a resume.
 
 ## Tech Stack
 
-<img align="left" width="40%" src="https://media.tenor.com/seGvGe7Cp2cAAAAm/anime-bocchi.webp" style="border-radius: 12px;">
+<img align="left" width="40%" src="https://media.tenor.com/OkKOndXgYkwAAAAm/gifs.webp" style="border-radius: 12px;">
 
 Currently building my foundation and learning the ropes:
 
