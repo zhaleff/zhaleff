@@ -18,6 +18,8 @@ I code and learn frontend development, covering both UI and UX. I strive to crea
 
 I treat this as a hobby, not something serious; I’m not a professional. That said, I enjoy learning, and I think I’ll keep learning about software architectures—I look forward to learning more.
 
+I realize I’m not doing the best work; my projects have flaws, dead code, and accidental complexity that breeds even more complexity. However, I hope that as I gain a better understanding of programming, I’ll be able to fix that—and no, I don’t like using artificial intelligence
+
 This GitHub is strictly a hobby. It is not a professional portfolio or a resume. It is a personal space where I experiment, play with code, and treat programming as a leisure activity rather than a strict obligation.
 
 <br clear="right">
